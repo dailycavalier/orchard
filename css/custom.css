@@ -7,12 +7,20 @@ body {
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
   background-color: #FF4040;
 }
-a {
+.nav a {
   color: #39E639;
 }
 .nav > li > a:hover {
   color: #FFFFFF;
   background-color: #39E639;
+}
+.center {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+.thumbnail {
+  text-align:center;
 }
 
 /* Custom container */
@@ -48,4 +56,9 @@ a {
 }
 .marketing p + h4 {
   margin-top: 28px;
+}
+
+/* Food Safety content */
+.sqf {
+  margin-top: 30px;
 }
