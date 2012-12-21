@@ -76,8 +76,9 @@ a {
 }
 
 /* Food Safety content */
-.sqf {
-  margin-top: 30px;
+.food-safety .logo {
+  margin-top: 60px;
+  text-align: center;
 }
 
 /* Contact content */
