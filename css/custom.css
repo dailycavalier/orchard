@@ -79,3 +79,8 @@ a {
 .sqf {
   margin-top: 30px;
 }
+
+/* Contact content */
+.contact .map {
+  max-width: 350px;
+}
