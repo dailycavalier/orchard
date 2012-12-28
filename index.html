@@ -37,12 +37,13 @@
 
       <div class="masthead center">
         <a href="index.html">
-          <img src="img/logo.jpg" alt="Wood's Produce" />
+          <img src="img/logo.png" alt="Wood's Produce" />
         </a>
 
         <ul class="nav nav-pills pull-right">
           <li class="active"><a href="index.html">Home</a></li>
           <li><a href="products.html">Products</a></li>
+          <li><a href="services.html">Services</a></li>
           <li><a href="food-safety.html">Food Safety</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="contact.html">Contact</a></li>
@@ -52,9 +53,10 @@
       <div class="row-fluid jumbotron">
         <p class="span6 lead"><strong>Welcome.</strong> We're a full-line produce company committed to delivering the freshest high quality fruits and vegetables and providing superior customer service to restaurants and retailers throughout Virginia, West Virginia, and the Carolinas.
         </p>
-        <a href="img/service-area.png" class="pull-right span5">
-          <img class="center" src="img/service-area-thumb.png" />
-        </a>
+
+        <div id="photoCarousel" class="span5">
+          <img src="img/home/strawberries.jpg" />
+        </div>
         <span class="span12">
           <a class="btn btn-large btn-success" href="products.html"><i class="icon-truck"></i>Order online</a>
         </span>
@@ -92,6 +94,10 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap-lightbox.min.js"></script>
+    <script src="js/bootstrap-carousel.js"></script>
+    <script type="text/javascript">
+      $('.carousel').carousel();
+    </script>
 
     <!-- Unused bootstrap plugins
     <script src="js/bootstrap-transition.js"></script>
@@ -104,7 +110,6 @@
     <script src="js/bootstrap-popover.js"></script>
     <script src="js/bootstrap-button.js"></script>
     <script src="js/bootstrap-collapse.js"></script>
-    <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
     ================================================== -->
 
