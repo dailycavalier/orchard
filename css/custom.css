@@ -1,8 +1,9 @@
 /* Global styles */
 body {
   padding-bottom: 40px;
-  /* background: url(img/gray_jean.png) repeat 0 0; */
+  background: url(../img/extra_clean_paper.png) repeat 0 0;
   /* background: url('img/extra_clean_paper.png') repeat 0 0; */
+  /* background: url(../img/creampaper.png) repeat 0 0; */
 }
 h1 {
   font: 400 28px/1.3 'Bevan', Georgia, serif;
@@ -77,6 +78,15 @@ a {
 
 /* Product content */
 .product-table {
+  margin-top: 30px;
+}
+
+/* Services content */
+.services .bluebook {
+  margin-top: 60px;
+}
+
+.services .redbook {
   margin-top: 30px;
 }
 
