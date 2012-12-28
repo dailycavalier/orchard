@@ -33,6 +33,9 @@ hr {
 .center {
   text-align:center;
 }
+.footer {
+  padding-bottom: 20px;
+}
 
 /* Custom container */
 .container-narrow {
