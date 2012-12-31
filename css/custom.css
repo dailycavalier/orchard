@@ -71,7 +71,7 @@ hr {
     margin-right: 8px;  
 }
 .jumbotron img {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 /* Supporting marketing content */
@@ -94,6 +94,14 @@ hr {
 
 .services .redbook {
   margin-top: 30px;
+}
+
+.services .text p {
+  margin-bottom: 35px;
+}
+
+.delivery p {
+  margin-bottom: 25px;
 }
 
 /* Food Safety content */
