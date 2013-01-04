@@ -1,0 +1,2 @@
+Emails obfuscated by encryption
+http://robspangler.com/blog/encrypt-mailto-links-to-stop-email-spam/
