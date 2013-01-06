@@ -33,8 +33,21 @@ hr {
 .center {
   text-align:center;
 }
-.footer {
+#footer {
   padding-bottom: 20px;
+}
+#footer .company {
+  min-height: 14px;
+}
+#footer .copyright p {
+  margin-top: 30px;
+  font-size: 10px;
+}
+#footer .phone {
+  padding-top: 25px;  
+}
+#footer .btn i { 
+    margin-right: 8px;
 }
 
 /* Custom container */
@@ -119,4 +132,28 @@ hr {
 /* Contact content */
 .contact .map {
   max-width: 350px;
+}
+
+/* =Responsive Design
+    Media Queries
+-------------------------------------------------------------- */
+
+@media screen and (max-width: 980px) {
+}
+
+@media screen and (max-width: 650px) {
+    #footer .phone { padding-top: 10px;  }
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 320px) {  
+
+}
+
+@media screen and (max-width: 240px) {
+  
+  
 }
