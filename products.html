@@ -11,10 +11,10 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="css/bootstrap-lightbox.min.css" rel="stylesheet">    
-    <link href="css/font-awesome.css" rel="stylesheet">  
-    <link href="vendors/datatables/css/jquery.dataTables.css" rel="stylesheet">    
-    <link href="css/dt-bootstrap.css" rel="stylesheet">    
+    <link href="css/bootstrap-lightbox.min.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <!-- Hide default dataTables styling <link href="vendors/datatables/css/jquery.dataTables.css" rel="stylesheet"> -->
+    <link href="css/dt-bootstrap.css" rel="stylesheet">
     
     <!-- Le fonts -->
     <link href="https://fonts.googleapis.com/css?family=Bevan" rel="stylesheet" type="text/css">
@@ -70,7 +70,9 @@
       <div class="row-fluid">
         <div id="product-tableCSV" class="span12 product-table product-list table table-striped table-hover">
         </div>
-        <div id="categories">
+        <div id="btn-controls">
+          <span class="btn-organic btn">Organic</span> 
+          <span class="btn-all btn">All</span>
         </div>
       </div>
 
@@ -179,7 +181,17 @@
             "aoColumnDefs": [
               { "bVisible": false, "aTargets": [ 3 ] },
               { "bVisible": false, "aTargets": [ 4 ] }
-            ] } ); 
+            ],
+            "oLanguage": {
+              "sLengthMenu": "_MENU_ products per page",
+              "sInfo": "Showing _START_ to _END_ of _TOTAL_ products",
+              "sInfoEmpty": "Showing 0 to 0 of 0 products",
+              "sInfoFiltered": "(filtered from _MAX_ total products)",
+              "sZeroRecords": "No matching products found"
+            }
+          } ); 
+
+
 
           /* Add a select menu for each TH element in the table footer */
           $("tfoot th").each( function ( i ) {
@@ -187,6 +199,14 @@
               $('select', this).change( function () {
                   oTable.fnFilter( $(this).val(), i );
               } );
+          } );
+
+          $(".btn-organic").click( function () {
+            pTable.fnFilter("Organic", 0);
+          } );
+
+          $(".btn-all").click( function () {
+            pTable.fnFilter("", 0);
           } );
 
           /* Add a select menu for categories */
