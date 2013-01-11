@@ -68,11 +68,20 @@
       </div>
 
       <div class="row-fluid">
+        <form id="viewSelector" class="right">
+          <label>
+            View products:
+          </label>
+          <ul class="pills">
+            <li>
+              <a id="view-organic">Organic</a> 
+            </li>
+            <li class="active">
+              <a id="view-all">All</a>
+            </li>
+          </ul>
+        </form>
         <div id="product-tableCSV" class="span12 product-table product-list table table-striped table-hover">
-        </div>
-        <div id="btn-controls">
-          <span class="btn-organic btn">Organic</span> 
-          <span class="btn-all btn">All</span>
         </div>
       </div>
 
@@ -178,6 +187,7 @@
 
           /* Initialize the DataTable */
           var pTable = $('#CSVTable').dataTable({
+            "bAutoWidth": false,
             "aoColumnDefs": [
               { "bVisible": false, "aTargets": [ 3 ] },
               { "bVisible": false, "aTargets": [ 4 ] }
@@ -191,22 +201,16 @@
             }
           } ); 
 
-
-
-          /* Add a select menu for each TH element in the table footer */
-          $("tfoot th").each( function ( i ) {
-              this.innerHTML = fnCreateSelect( oTable.fnGetColumnData(i) );
-              $('select', this).change( function () {
-                  oTable.fnFilter( $(this).val(), i );
-              } );
-          } );
-
-          $(".btn-organic").click( function () {
+          $("#view-organic").click( function () {
             pTable.fnFilter("Organic", 0);
+            $("a#view-organic").parent().addClass("active");            
+            $("a#view-all").parent().removeClass("active");
           } );
 
-          $(".btn-all").click( function () {
+          $("#view-all").click( function () {
             pTable.fnFilter("", 0);
+            $("a#view-all").parent().addClass("active");            
+            $("a#view-organic").parent().removeClass("active");
           } );
 
           /* Add a select menu for categories */

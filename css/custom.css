@@ -100,6 +100,41 @@ hr {
 .product-table {
   margin-top: 30px;
 }
+ul.pills li {
+  display: inline;
+}
+ul.pills a {
+  color: #469B22;
+}
+ul.pills li.active a, ul.pills li.active a:hover {
+  background: none repeat scroll 0 0 #469B22;
+  color: #ffffff;
+}
+ul.pills a:hover {
+  text-decoration: none;
+}
+ul.pills li a, ul.pills li .noLink {
+    margin-right: 3px;
+    padding: 6px 12px;
+    font-size: 12px;
+    border-radius: 12px 12px 12px 12px;
+    display: inline;
+    float: left;
+    width: auto;
+    line-height: 1;
+}
+#viewSelector ul.pills a {
+    padding: 4px 10px;
+    cursor: pointer;
+}
+#viewSelector label {
+    float: left;
+    display: block;
+    font-size: 13px;
+    line-height: 22px;
+}
+
+
 
 /* Services content */
 .services .bluebook {
