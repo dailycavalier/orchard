@@ -134,7 +134,11 @@ ul.pills li a, ul.pills li .noLink {
     line-height: 22px;
 }
 
-
+/* Suppliers content */
+.suppliers li {
+  height: 180px;
+  width: 210px;
+}
 
 /* Services content */
 .services .bluebook {
@@ -177,11 +181,11 @@ ul.pills li a, ul.pills li .noLink {
 }
 
 @media screen and (max-width: 650px) {
-    #footer .phone { padding-top: 10px;  }
+  #footer .phone { padding-top: 10px;  }
+  .suppliers li { height: 240px; }
 }
 
 @media screen and (max-width: 480px) {
-
 }
 
 @media screen and (max-width: 320px) {  
