@@ -15,6 +15,9 @@ p {
 a {
   color: #469B22;
 }
+a:hover {
+  color: #26650B;
+}
 .nav > li > a:hover {
   color: #FFFFFF;
   background-color: #469B22;
