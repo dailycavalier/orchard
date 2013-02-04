@@ -12,6 +12,11 @@ p {
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
   background-color: #b70004;
 }
+.nav-pills {
+    margin: 0 auto;
+    padding: 0;
+    width: 80%;
+}
 a {
   color: #469B22;
 }
@@ -29,11 +34,9 @@ hr {
   float: none;
   margin-left: auto;
   margin-right: auto;
+  text-align:center;  
 }
 .thumbnail {
-  text-align:center;
-}
-.center {
   text-align:center;
 }
 #footer {
