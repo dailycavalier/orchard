@@ -1,6 +1,5 @@
 /* Global styles */
 body {
-  padding-bottom: 40px;
   background: url(../img/cream_dust_transparent.png) repeat 0 0;
 }
 h1 {
@@ -13,9 +12,9 @@ p {
   background-color: #b70004;
 }
 .nav-pills {
+  /* @todo: Center these */
     margin: 0 auto;
     padding: 0;
-    width: 80%;
 }
 a {
   color: #469B22;
@@ -39,12 +38,6 @@ hr {
 .thumbnail {
   text-align:center;
 }
-#footer {
-  padding-bottom: 20px;
-}
-#footer .company {
-  min-height: 14px;
-}
 #footer .copyright p {
   margin-top: 30px;
   font-size: 10px;
@@ -61,7 +54,6 @@ hr {
   margin: 0 auto;
   max-width: 700px;
   /* background: url(../img/cream_dust_transparent.png) repeat 0 0; */
-  padding: 0 50px;
 }
 .container-narrow > hr {
   margin: 30px 0;
@@ -184,6 +176,7 @@ ul.pills li a, ul.pills li .noLink {
 -------------------------------------------------------------- */
 
 @media screen and (max-width: 980px) {
+
 }
 
 @media screen and (max-width: 650px) {
