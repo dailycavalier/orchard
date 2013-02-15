@@ -54,16 +54,20 @@
       </div>
 
       <div class="row-fluid">
-        <div class="span8">
           <h1>Our products</h1>
 
           <p>The fruits and vegetables we provide our customers are sourced from only the best shippers and local farmers in the US. And we ensure that all our produce meets both our rigorous <a href="food-safety.html">food safety</a> and quality standards.</p>
           
           <p>Below is our product list. Please <a href="contact.html">contact us</a> with any questions, to check availability, or to place an order.</p>
-        </div>
       </div>
 
       <div class="row-fluid">
+        <div id="filters">
+          Category:
+          <span id="categories"></span>
+          Subcategory:
+          <span id="subcategories"></span>
+        </div>
         <form id="viewSelector" class="right">
           <label>
             View products:
@@ -209,13 +213,13 @@
             $("a#view-organic").parent().removeClass("active");
           } );
 
-          /* Add a select menu for categories */
-          /*
-          $("categories").innerHTML =  fnCreateSelect(pTable.fnGetColumnData(4));
-          $('select', this).change( function () {
-            pTable.fnFilter( $(this).val(), 4);
+          /* Add select menus for categories and subcategories */
+          $("#categories").html(fnCreateSelect(pTable.fnGetColumnData(4)));
+          $("#subcategories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
+          $('#categories select').change( function () {
+            pTable.fnFilter( $('#categories select').val(), 4);
+            // @todo update the subcategory options based on the selected category
           });
-          */
 
         }, 1500);
 
