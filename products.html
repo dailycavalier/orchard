@@ -132,6 +132,9 @@
            *           bool:bIgnoreEmpty - optional - if set to false empty values are not filtered from the result array
            * Author:   Benedikt Forchhammer <b.forchhammer /AT\ mind2.de>
            */
+
+
+
           $.fn.dataTableExt.oApi.fnGetColumnData = function ( oSettings, iColumn, bUnique, bFiltered, bIgnoreEmpty ) {
               // check that we have a column id
               if ( typeof iColumn == "undefined" ) return new Array();
@@ -174,15 +177,13 @@
               return asResultData;
           }}(jQuery));
            
-           
-          function fnCreateSelect( aData )
-          {
-              var r='<select><option value=""></option>', i, iLen=aData.length;
-              for ( i=0 ; i<iLen ; i++ )
-              {
-                  r += '<option value="'+aData[i]+'">'+aData[i]+'</option>';
-              }
-              return r+'</select>';
+          function fnCreateSelect( aData ) {
+            var r='<select><option value=""></option>', i, iLen=aData.length;
+            for ( i=0 ; i<iLen ; i++ )
+            {
+                r += '<option value="'+aData[i]+'">'+aData[i]+'</option>';
+            }
+            return r+'</select>';
           }
 
           /* Initialize the DataTable */
@@ -216,12 +217,42 @@
           /* Add select menus for categories and subcategories */
           $("#categories").html(fnCreateSelect(pTable.fnGetColumnData(4)));
           $("#subcategories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
+
+          // Update table based on category selection
           $('#categories select').change( function () {
             pTable.fnFilter( $('#categories select').val(), 4);
-            // @todo update the subcategory options based on the selected category
+            // $('#subcategories select').val("");
+            $("#subcategories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
+
+
+            // Hide table if no category is selected
+            if($("#categories select").val() == '') {
+              $("#CSVTable_wrapper").hide();
+              $('#subcategories select').val('');
+              pTable.fnFilter('');
+            }
+
+            // Show table if it's hidden 
+            else if($("#CSVTable_wrapper").is(":hidden")) {
+              $("#CSVTable_wrapper").show();
+            }
+
           });
 
+          // @todo update the subcategory options based on the selected category
+          $('#subcategories select').change( function () {
+            //pTable.fnFilter( $('#subcategories select').val(), 3);
+            alert("Subcategory changed!");
+          });
+
+
+          // Initially hide the table
+          $("#CSVTable_wrapper").hide();
+
+
         }, 1500);
+      
+
 
       });
     </script>
