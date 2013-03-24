@@ -62,13 +62,13 @@
       </div>
 
       <div class="row-fluid">
-        <div id="filters">
-          Category:
+        <div id="category-filters" class="span8">
+          <label>Select a category:</label>
           <span id="categories"></span>
-          Subcategory:
-          <span id="subcategories"></span>
+<!--           <label>Subcategory:</label>
+          <span id="subcategories"></span> -->
         </div>
-        <form id="viewSelector" class="right">
+        <form id="viewSelector" class="pull-right span4">
           <label>
             View products:
           </label>
@@ -81,10 +81,11 @@
             </li>
           </ul>
         </form>
+      </div>
+      <div class="row-fluid">
         <div id="product-tableCSV" class="span12 product-table product-list table table-striped table-hover">
         </div>
       </div>
-
       <hr>
 
       <div id="footer">
@@ -186,8 +187,25 @@
             return r+'</select>';
           }
 
+          /* Define two custom functions (asc and desc) for string sorting */
+          jQuery.fn.dataTableExt.oSort['string-case-asc']  = function(x,y) {
+              return ((x < y) ? -1 : ((x > y) ?  1 : 0));
+          };
+           
+          jQuery.fn.dataTableExt.oSort['string-case-desc'] = function(x,y) {
+              return ((x < y) ?  1 : ((x > y) ? -1 : 0));
+          };
+
           /* Initialize the DataTable */
           var pTable = $('#CSVTable').dataTable({
+            "aaSorting": [ [4,'asc'], [3,'asc'], [0,'asc'] ],
+            "aoColumns": [
+                { "sType": 'string-case' },
+                null,
+                null,
+                { "sType": 'string-case' },
+                { "sType": 'string-case' }
+            ],
             "aoColumnDefs": [
               { "bVisible": false, "aTargets": [ 3 ] },
               { "bVisible": false, "aTargets": [ 4 ] }
@@ -216,19 +234,18 @@
 
           /* Add select menus for categories and subcategories */
           $("#categories").html(fnCreateSelect(pTable.fnGetColumnData(4)));
-          $("#subcategories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
+          // $("#subcategories").html(fnCreateSelect(''));
 
           // Update table based on category selection
           $('#categories select').change( function () {
             pTable.fnFilter( $('#categories select').val(), 4);
             // $('#subcategories select').val("");
-            $("#subcategories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
-
+            // $("#subcategories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
 
             // Hide table if no category is selected
             if($("#categories select").val() == '') {
               $("#CSVTable_wrapper").hide();
-              $('#subcategories select').val('');
+              // $('#subcategories select').val('');
               pTable.fnFilter('');
             }
 
@@ -240,11 +257,10 @@
           });
 
           // @todo update the subcategory options based on the selected category
-          $('#subcategories select').change( function () {
-            //pTable.fnFilter( $('#subcategories select').val(), 3);
-            alert("Subcategory changed!");
-          });
-
+          // $('#subcategories select').change( function () {
+            // pTable.fnFilter( $('#subcategories select').val(), 3);
+            // alert("Subcategory changed!");
+          // });
 
           // Initially hide the table
           $("#CSVTable_wrapper").hide();

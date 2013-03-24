@@ -121,15 +121,23 @@ ul.pills li a, ul.pills li .noLink {
     width: auto;
     line-height: 1;
 }
+#category-filters label {
+  display: inline-block; 
+  vertical-align: middle;
+}
+/* Hide the table length selector */
+#CSVTable_length {
+  display: none;
+}
+
 #viewSelector ul.pills a {
+    margin: 10px 0 0 5px;
     padding: 4px 10px;
-    cursor: pointer;
+    cursor: pointer;    
 }
 #viewSelector label {
     float: left;
-    display: block;
-    font-size: 13px;
-    line-height: 22px;
+    line-height: 40px;
 }
 
 /* Suppliers content */
