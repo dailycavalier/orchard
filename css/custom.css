@@ -170,8 +170,12 @@ ul.pills li a, ul.pills li .noLink {
 }
 
 /* About content */
-.family-helper img {
-  margin-top: 30px;
+.story-photo {
+  margin-bottom: 20px;
+}
+
+.panorama img {
+  margin-top: 20px;
 }
 
 /* Contact content */
