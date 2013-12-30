@@ -5,16 +5,17 @@ body {
 h1 {
   font: 400 28px/1.3 'Bevan', Georgia, serif;
 }
-p {
+p, li {
   font: 400 16px/1.6 'Pontano Sans', Verdana, Helvetica, sans-serif;
 }
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
   background-color: #b70004;
 }
-.nav-pills {
+.nav-pills > li {
   /* @todo: Center these */
     margin: 0 auto;
     padding: 0;
+    font-size: 14px;
 }
 a {
   color: #469B22;
