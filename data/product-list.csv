@@ -1,1498 +1,1838 @@
-Product Name,Pack,Sold-By,Sub-Category,Category
-"Cornmeal, Mix, VA's Best Flour", 2 LB,BAG,,"VA's Best Flour"
-"Cornmeal, Plain, VA's Best Flour",2 LB,BAG,,"VA's Best Flour"
-"Cornmeal, Plain, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Cornmeal, Plain, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Cornmeal, Self-Rising, VA's Best Flour",10 LB,BAG,,"VA's Best Flour"
-"Cornmeal, Self-Rising, VA's Best Flour",2 LB,BAG,,"VA's Best Flour"
-"Cornmeal, Self-Rising, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Cornmeal, Self-Rising, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Flour, A-#1, PLAIN, VA's Best Flour",10 LB,BAG,,"VA's Best Flour"
-"Flour, A-#1, PLAIN, VA's Best Flour",2 LB,BAG,,"VA's Best Flour"
-"Flour, A-#1, PLAIN, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Flour, A-#1, PLAIN, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Flour, A-#1, PLAIN (Unbleached), VA's Best Flour",10 LB,BAG,,"VA's Best Flour"
-"Flour, Biscuit Mix, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Flour, Biscuit Mix, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Flour, Rye, VA's Best Flour",10 LB,BAG,,"VA's Best Flour"
-"Flour, Rye, VA's Best Flour",2 LB,BAG,,"VA's Best Flour"
-"Flour, Rye, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Flour, Rye, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Flour, Seasoned Flour, VA's Best Flour",2 LB,BAG,,"VA's Best Flour"
-"Flour, Seasoned Flour, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Flour, Seasoned Flour, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Flour, VA's Best Self-Rising, VA's Best Flour",10 LB,BAG,,"VA's Best Flour"
-"Flour, VA's Best Self-Rising, VA's Best Flour",2 LB,BAG,,"VA's Best Flour"
-"Flour, VA's Best Self-Rising, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Flour, VA's Best Self-Rising, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Flour, Whole Wheat, VA's Best Flour",10 LB,BAG,,"VA's Best Flour"
-"Flour, Whole Wheat, VA's Best Flour",2 LB,BAG,,"VA's Best Flour"
-"Flour, Whole Wheat, VA's Best Flour",25 LB,BAG,,"VA's Best Flour"
-"Flour, Whole Wheat, VA's Best Flour",5 LB,BAG,,"VA's Best Flour"
-"Blueberry Pie Glaze, 16 OZ, Wick's",24 CT,CASE,,"Wick's Pie Glaze"
-"Peach Pie Glaze, 16 OZ, Wick's",24 CT,CASE,,"Wick's Pie Glaze"
-"Strawberry (Sugar-Free) Pie Glaze, 16 OZ, Wick's",24 CT,CASE,,"Wick's Pie Glaze"
-"Strawberry Pie Glaze, 16 OZ, Wick's",24 CT,CASE,,"Wick's Pie Glaze"
-"Anise/Licorice, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Assorted, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Cinnamon, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Green Apple, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Horehound, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Lemon, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Peppermint, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Root Beer, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Sassafras, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Watermelon, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Wild Cherry, 6 OZ, Claey's Hard Candy",24 CT,CASE,"Claey's Hard Candy",Candy
-"Red Band, Assorted, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Band, Horehound, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Band, Peppermint, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Band, Vanilla, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Band, Wintergreen, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Bird, Assorted, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Bird, Cinnamon, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Bird, Clove, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Bird, Cream Penny, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Bird, Lemon, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Bird, Sassafras, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Red Bird, Wintergreen, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Birch, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Cherry, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Cinnamon, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Clove, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Cream, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Horehound, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Lemon, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Orange, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Peppermint, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Pineapple, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Sassafras, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Strawberry, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Virginia Beauty, Wintergreen, 12 OZ",12 CT,CASE,Stick Candy,Candy
-"Claxton Fruit Cake, 3/1 LB",24 LB,CASE,Sugar,Candy
-"Almonds, Chocolate Covered",30 LB,CASE,Sugar,Candy
-Atomic Fireballs,30 LB,CASE,Sugar,Candy
-"Banana Chips, Sweet",14 LB,CASE,Sugar,Candy
-Bit-O-Honey,30 LB,CASE,Sugar,Candy
-Bridge Mix,30 LB,CASE,Sugar,Candy
-Butterscotch Disks,30 LB,CASE,Sugar,Candy
-Butterscotch Logs,20 LB,CASE,Sugar,Candy
-Candy Corn,30 LB,CASE,Sugar,Candy
-"Caramel Cream, Apple, Goetze's",10 LB,CASE,Sugar,Candy
-"Caramel Cream, Chocolate, Goetze's",10 LB,CASE,Sugar,Candy
-"Caramel Cream, Strawberry, Goetze's",10 LB,CASE,Sugar,Candy
-"Caramel Cream, Vanilla, Goetze's",30 LB,CASE,Sugar,Candy
-Caramel Squares,20 LB,CASE,Sugar,Candy
-"Cashews, Chocolate Covered",15 LB,CASE,Sugar,Candy
-"Cherry Slices, Bulk",31 LB,CASE,Sugar,Candy
-"Cherry Slices, Wrapped",25 LB,CASE,Sugar,Candy
-Chic-O-Stick,30 LB,CASE,Sugar,Candy
-"Christmas Mix, All Hard, Loose",35 LB,CASE,Sugar,Candy
-"Christmas Mix, All Hard, Packaged, 9 OZ",24 CT,CASE,Sugar,Candy
-"Christmas Mix, Cut Rock, Loose",35 LB,CASE,Sugar,Candy
-"Christmas Mix, Cut Rock, Packaged, 9 OZ",24 CT,CASE,Sugar,Candy
-"Christmas Mix, Hard & Filled, Loose",35 LB,CASE,Sugar,Candy
-"Christmas Mix, Hard & Filled, Packaged, 9 OZ",24 CT,CASE,Sugar,Candy
-Cinnamon Buttons,30 LB,CASE,Sugar,Candy
-"Circus Peanuts, 12 OZ",24 CT,CASE,Sugar,Candy
-"Coconut Bon-Bons, Assorted",20 LB,CASE,Sugar,Candy
-Coconut Flags,10 LB,CASE,Sugar,Candy
-Coconut Flags,40 LB,CASE,Sugar,Candy
-"Coconut Tips, Caramel",22 LB,CASE,Sugar,Candy
-"Coconut Tips, Chocolate",22 LB,CASE,Sugar,Candy
-Country Time Lemonade Sours,10 LB,CASE,Sugar,Candy
-Cream Drops,25 LB,CASE,Sugar,Candy
-"Fruit Slices, Bulk",31 LB,CASE,Sugar,Candy
-"Fruit Slices, Wrapped",25 LB,CASE,Sugar,Candy
-Giant Jels (Gum Drops),30 LB,CASE,Sugar,Candy
-Gummi Bears,30 LB,CASE,Sugar,Candy
-Gummi Worms,30 LB,CASE,Sugar,Candy
-Jaw Breakers,30 LB,CASE,Sugar,Candy
-Jelly Pumpkins,30 LB,CASE,Sugar,Candy
-Jordan Almonds,10 LB,CASE,Sugar,Candy
-"Lemon Slices, Bulk",31 LB,CASE,Sugar,Candy
-"Malt Balls, Chocolate",25 LB,CASE,Sugar,Candy
-"Malt Balls, Peanut Butter",25 LB,CASE,Sugar,Candy
-"Malted Milk Balls, Jumbo",23 LB,CASE,Sugar,Candy
-Maple Nut Goodies,28 LB,CASE,Sugar,Candy
-Mary Janes,30 LB,CASE,Sugar,Candy
-Now & Later,40 LB,CASE,Sugar,Candy
-"Orange Slices, Bulk",31 LB,CASE,Sugar,Candy
-"Orange Slices, Wrapped",20.5 LB,CASE,Sugar,Candy
-Peanut Brittle,15 LB,CASE,Sugar,Candy
-Peanut Butter Bars,30 LB,CASE,Sugar,Candy
-"Peanut Clusters, Chocolate Covered",25 LB,CASE,Sugar,Candy
-Peanut Squares,30 LB,CASE,Sugar,Candy
-"Peanut Squares, Chocolate, Half-Dipped",15 LB,CASE,Sugar,Candy
-"Peanuts, Chocolate, Double-Dipped",25 LB,CASE,Sugar,Candy
-"Peanuts, Chocolate, Single-Dipped",30 LB,CASE,Sugar,Candy
-"Peppermint Puffs, Assorted, Wrapped",20 LB,CASE,Sugar,Candy
-"Peppermint Puffs, Broken, 1 LB Bags",24 CT,CASE,Sugar,Candy
-"Peppermint Puffs, Broken, Assorted, 1 LB Bags",24 CT,CASE,Sugar,Candy
-"Peppermint Puffs, Wrapped",20 LB,CASE,Sugar,Candy
-"Pretzels, Milk Chocolate ",15 LB,CASE,Sugar,Candy
-"Pretzels, White Chocolate",15 LB,CASE,Sugar,Candy
-"Raisin Clusters, 12 OZ",24 CT,CASE,Sugar,Candy
-"Raisins, Sun-Maid Packaged",144 CT,CASE,Sugar,Candy
-"Raisins, Chocolate Covered",30 LB,CASE,Sugar,Candy
-"Ribbon Candy, 9 OZ",24 CT,CASE,Sugar,Candy
-"Rock Candy, Cherry",5 LB,CASE,Sugar,Candy
-"Rock Candy, Grape",5 LB,CASE,Sugar,Candy
-"Rock Candy, Lime",5 LB,CASE,Sugar,Candy
-"Rock Candy, Swizel Sticks",60 CT,CASE,Sugar,Candy
-"Rock Candy, White",5 LB,CASE,Sugar,Candy
-Runts,30 LB,CASE,Sugar,Candy
-Sesame Sticks,15 LB,CASE,Sugar,Candy
-"Sesame Sticks, Garlic",15 LB,CASE,Sugar,Candy
-Smarties,40 LB,CASE,Sugar,Candy
-Sour Cherry Balls,31 LB,CASE,Sugar,Candy
-Spice Drops,30 LB,CASE,Sugar,Candy
-Squirrel Nut Zippers,30 LB,CASE,Sugar,Candy
-Starlight Mints,30 LB,CASE,Sugar,Candy
-Super Bubble Gum,300 CT,BUCKET,Sugar,Candy
-"Super Bubble Gum, Assorted",300 CT,BUCKET,Sugar,Candy
-Tootsie Rolls,30 LB,CASE,Sugar,Candy
-"Tootsie Rolls, Assorted",30 LB,CASE,Sugar,Candy
-Truly Fruit Gems,30 LB,CASE,Sugar,Candy
-"Vanilla Wafers, 12 OZ",12 CT,CASE,Sugar,Candy
-Zagnut,30 LB,CASE,Sugar,Candy
-Butterscotch Buttons,15 LB,CASE,Sugar-Free,Candy
-Cherry Buttons,15 LB,CASE,Sugar-Free,Candy
-Chic-O-Sticks,15 LB,CASE,Sugar-Free,Candy
-Cinammon Buttons,15 LB,CASE,Sugar-Free,Candy
-Dried Apples,25 LB,CASE,Sugar-Free,Candy
-Peanut Butter Bars,15 LB,CASE,Sugar-Free,Candy
-"Peanuts, Chocolate Covered",10 LB,CASE,Sugar-Free,Candy
-"Raisins, Chocolate Covered",10 LB,CASE,Sugar-Free,Candy
-Root Beer Buttons,15 LB,CASE,Sugar-Free,Candy
-Anasazi Beans,25 LB,CASE,,Dried Beans
-Anasazi Beans,50 LB,CASE,,Dried Beans
-Black Beans,100 LB,CASE,,Dried Beans
-Black Beans,25 LB,CASE,,Dried Beans
-Black-Eye Peas,25 LB,CASE,,Dried Beans
-Colored Butter Beans,25 LB,CASE,,Dried Beans
-Field Peas,25 LB,CASE,,Dried Beans
-Garbanzo Beans,25 LB,CASE,,Dried Beans
-Great Northern Beans,25 LB,CASE,,Dried Beans
-"Green Peas, Split",25 LB,CASE,,Dried Beans
-"Green Peas, Whole",25 LB,CASE,,Dried Beans
-"Lentils, Brown",25 LB,CASE,,Dried Beans
-"Lentils, Red",25 LB,CASE,,Dried Beans
-"Lima Beans, Green Baby",25 LB,CASE,,Dried Beans
-"Lima Beans, Large",25 LB,CASE,,Dried Beans
-"Lima Beans, White Baby",25 LB,CASE,,Dried Beans
-Mayacoba/Canario Beans,50 LB,CASE,,Dried Beans
-Navy Beans,25 LB,CASE,,Dried Beans
-Pink Beans,25 LB,CASE,,Dried Beans
-Pinto Beans,25 LB,CASE,,Dried Beans
-"Pinto Beans, PEAK",100 LB,CASE,,Dried Beans
-"Pinto Beans, PEAK",50 LB,CASE,,Dried Beans
-"Pinto Beans, PEAK, Burlap Bag",10 LB,CASE,,Dried Beans
-Red Kidney Beans,25 LB,CASE,,Dried Beans
-Small Red Beans,100 LB,CASE,,Dried Beans
-Small Red Beans,25 LB,CASE,,Dried Beans
-Yellow Eye Beans,25 LB,CASE,,Dried Beans
-"Yellow Peas, Split",25 LB,CASE,,Dried Beans
-"Eggs, Brown, Carton, Large",15 DOZ,CASE,,Eggs
-"Eggs, Brown, Carton, Large",30 DOZ,CASE,,Eggs
-"Eggs, White, Carton, Large",15 DOZ,CASE,,Eggs
-"Eggs, White, Carton, Large",30 DOZ,CASE,,Eggs
-"Eggs, White, Carton, Large, Organic",15 DOZ,CASE,,Eggs
-"Eggs, White, Carton, XL",30 DOZ,CASE,,Eggs
-"Eggs, White, Loose, XL",30 DOZ,CASE,,Eggs
-"Onion Sets, Green Vidalia",2000 CT,BAG,Onion Sets,Garden Supplies
-"Onion Sets, Red, Large",36 LB,BAG,Onion Sets,Garden Supplies
-"Onion Sets, Red, Small",37 LB,BAG,Onion Sets,Garden Supplies
-"Onion Sets, Vidalia",4/10 LB,BAG,Onion Sets,Garden Supplies
-"Onion Sets, White, Large",35 LB,BAG,Onion Sets,Garden Supplies
-"Onion Sets, White, Small",34 LB,BAG,Onion Sets,Garden Supplies
-"Onion Sets, Yellow, Large",33 LB,BAG,Onion Sets,Garden Supplies
-"Onion Sets, Yellow, Small",32 LB,BAG,Onion Sets,Garden Supplies
-"Blue Goose Seed Potatoes, Irish Cobbler",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Blue Goose Seed Potatoes, Kennebec",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Blue Goose Seed Potatoes, Purple",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Blue Goose Seed Potatoes, Red Chieftan",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Blue Goose Seed Potatoes, Red Norland",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Blue Goose Seed Potatoes, Red Pontiac",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Blue Goose Seed Potatoes, Superior",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Blue Goose Seed Potatoes, Yukon Gold",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Canadian Seed Potatoes, Irish Cobbler",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Canadian Seed Potatoes, Kennebec",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Canadian Seed Potatoes, Norkotah",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Canadian Seed Potatoes, Red Lasoda",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Canadian Seed Potatoes, Red Pontiac",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Canadian Seed Potatoes, Superior",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Canadian Seed Potatoes, Yukon Gold",50 LB,BAG,Seed Potatoes,Garden Supplies
-"Seeds,  Beans, Roma",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Blue Lake",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Jackson Wonders",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Jade",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Kentucky Wonders",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Mountain 1/2 Runner",50 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Octobers",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, State 1/2 Runner",50 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Strike",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Tenderette",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beans, Thorogreen Lima",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Beets, Detroit",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Carrots, Danver",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Early Sunglow",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, G-90 Bi-Color",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Golden Queen",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Hickory King",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Honey Select Hybrid",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Kandy",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Merit Hybrid",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Silver King",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Silver Queen",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Corn, Trucker's Finest",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumber, Burpless",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumber, Calypso",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumber, Early Cluster",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumber, National",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumber, Poinsette",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumber, Straight 8",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumbers, Ashley",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Cucumbers, Marketeer",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Greens, Collards, Morris-Heading",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Greens, Collards, Yates",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Greens, Creasy",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Greens, Kale",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Greens, Mustard",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Greens, Mustard Broadleaf",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Okra, Clemson",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Peas, Early Alaskan",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Peas, Purple Hull",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Peas, Thomas Laxton",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Peas, Wando",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Radish, Cherry Bell",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Spinach, Bloomsdale",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Squash, Green",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Squash, Yellow Crook Neck",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Squash, Yellow Straight Neck",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Sugar Snap",10 LB,BAG,Seeds,Garden Supplies
-"Seeds, Turnips, Purple Top",5 LB,BAG,Seeds,Garden Supplies
-"Seeds, Turnips. Seven-Top",1 LB,BAG,Seeds,Garden Supplies
-"Seeds, Watermelon, Crimson Sweet",1 LB,BAG,Seeds,Garden Supplies
-"Apples, Ambrosia, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Ambrosia, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Aurora, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Braeburn, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Braeburn, X Fancy, Organic",27 LB,CASE,Apples,Fruit
-"Apples, Braeburn, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Braeburn, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Cameo, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Cameo, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Cameo, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Cameo, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Cameo, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Candy",18 CT,CASE,Apples,Fruit
-"Apples, Caramel",18 CT,CASE,Apples,Fruit
-"Apples, Cortland, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Crab, Organic",12/1 LB,CASE,Apples,Fruit
-"Apples, Deer/Juice","24 Bin","24 BIN",Apples,Fruit
-"Apples, Empire, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Fuji, Bagged, 3 LB",12/3 LB,CASE,Apples,Fruit
-"Apples, Fuji, Bagged, 3 LB, Organic",12/3 LB,CASE,Apples,Fruit
-"Apples, Fuji, Bagged, 5 LB",120/5 LB,"24 BIN",Apples,Fruit
-"Apples, Fuji, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Fuji, X Fancy, Organic",27 LB,CASE,Apples,Fruit
-"Apples, Fuji, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, Fuji, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Fuji, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Fuji, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Fuji, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Gala, Bagged, 3 LB",12/3 LB,CASE,Apples,Fruit
-"Apples, Gala, Bagged, 3 LB",200/3 LB,"24 BIN",Apples,Fruit
-"Apples, Gala, Bagged, 3 LB, Organic",12/3 LB,CASE,Apples,Fruit
-"Apples, Gala, Bagged, 5 LB",120/5 LB,"24 BIN",Apples,Fruit
-"Apples, Gala, Bagged, 5 LB",8/5 LB,CASE,Apples,Fruit
-"Apples, Gala, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Organic",27 LB,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Tray",100 CT,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Tray",113 CT,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Gala, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Ginger Gold, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Golden Delicious, Bagged, 3 LB",12/3 LB,CASE,Apples,Fruit
-"Apples, Golden Delicious, Bagged, 5 LB",120/5 LB,"24 BIN",Apples,Fruit
-"Apples, Golden Delicious, Bagged, 5 LB",8/5 LB,CASE,Apples,Fruit
-"Apples, Golden Delicious, Bagged, 8 LB",75/8 LB,"24 BIN",Apples,Fruit
-"Apples, Golden Delicious, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Golden Delicious, Loose","24 Bin","24 BIN",Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Organic",27 LB,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",100 CT,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",113 CT,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Golden Delicious, X Fancy, Tray",88 CT,CASE,Apples,Fruit
-"Apples, Granny Smith,  Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Granny Smith, Bagged, 3 LB",12/3 LB,CASE,Apples,Fruit
-"Apples, Granny Smith, Bagged, 3 LB, Organic",12/3 LB,CASE,Apples,Fruit
-"Apples, Granny Smith, Bagged, 5 LB",120/5 LB,"24 BIN",Apples,Fruit
-"Apples, Granny Smith, X Fancy, Organic",27 LB,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",100 CT,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",113 CT,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Granny Smith, X Fancy, Tray",88 CT,CASE,Apples,Fruit
-"Apples, Green Lodi, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Green Summer Rambo, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Honeycrisp, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Honeycrisp, X Fancy, Tray",36 CT,CASE,Apples,Fruit
-"Apples, Honeycrisp, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Honeycrisp, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Honeycrisp, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Jazz, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Jazz, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Jazz, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Jazz, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Jonagold, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Jonagold, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Jonagold, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Jonagold, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Jonagold, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Lady Alice. X Fancy, Tray",36 CT,CASE,Apples,Fruit
-"Apples, McIntosh, Bagged",12/3 LB,CASE,Apples,Fruit
-"Apples, McIntosh, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, McIntosh, X Fancy, Tray",113 CT,CASE,Apples,Fruit
-"Apples, McIntosh, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, McIntosh, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Mutsu, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Mutsu, Loose","24 Bin","24 BIN",Apples,Fruit
-"Apples, Pink Lady, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Pink Lady, X Fancy, Organic",27 LB,CASE,Apples,Fruit
-"Apples, Pink Lady, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Pink Lady, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Pink Lady, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Pink Lady, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, Bagged, 3 LB",12/3 LB,CASE,Apples,Fruit
-"Apples, Red Delicious, Bagged, 5 LB",120/5 LB,"24 BIN",Apples,Fruit
-"Apples, Red Delicious, Bagged, 5 LB",8/5 LB,CASE,Apples,Fruit
-"Apples, Red Delicious, Bagged, 8 LB",75/8 LB,"24 BIN",Apples,Fruit
-"Apples, Red Delicious, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Red Delicious, Loose","24 Bin","24 BIN",Apples,Fruit
-"Apples, Red Delicious, X Fancy, Organic",27 LB,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",100 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",113 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",56 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",64 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Red Delicious, X Fancy, Tray",88 CT,CASE,Apples,Fruit
-"Apples, Rome, Bagged, 3 LB",12/3  LB,CASE,Apples,Fruit
-"Apples, Rome, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Rome, Loose","24 Bin","24 BIN",Apples,Fruit
-"Apples, Rome, X Fancy, Tray",100 CT,CASE,Apples,Fruit
-"Apples, Rome, X Fancy, Tray",113 CT,CASE,Apples,Fruit
-"Apples, Rome, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, Rome, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Sliced, Mott's",100/2 OZ,CASE,Apples,Fruit
-"Apples, Sonya, X Fancy, Tray",80 CT,CASE,Apples,Fruit
-"Apples, Stayman, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, Stayman, Loose","24 Bin","24 BIN",Apples,Fruit
-"Apples, Stayman, X Fancy, Tray",125 CT,CASE,Apples,Fruit
-"Apples, Stayman, X Fancy, Tray",72 CT,CASE,Apples,Fruit
-"Apples, Winesap, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, York, Loose",1 Bushel,CASE,Apples,Fruit
-"Apples, York, Loose","24 Bin","24 BIN",Apples,Fruit
-"Mixed Fruit (Apples & Oranges), Bagged",10/4 LB,CASE,Apples,Fruit
-"Mixed Fruit (Apples & Oranges), Bagged",8/5 LB,CASE,Apples,Fruit
-"Avocados, Florida Green",12 CT,CASE,Avocados,Fruit
-"Avocados, Hass",36 CT,CASE,Avocados,Fruit
-"Avocados, Hass",48 CT,CASE,Avocados,Fruit
-"Avocados, Hass",60 CT,CASE,Avocados,Fruit
-"Avocados, Hass, Bagged",15/4 CT,CASE,Avocados,Fruit
-"Avocados, Hass, Organic",48 CT,CASE,Avocados,Fruit
-"Blackberries, Clamshell",12/1 PINT,CASE,Berries,Fruit
-"Blackberries, Clamshell",12/6 OZ,CASE,Berries,Fruit
-"Blackberries, Clamshell, Organic",12/6 OZ,CASE,Berries,Fruit
-"Blueberries, Clamshell",12/1 PINT,CASE,Berries,Fruit
-"Blueberries, Clamshell",12/6 OZ,CASE,Berries,Fruit
-"Blueberries, Clamshell, Organic",12/6 OZ,CASE,Berries,Fruit
-"Cranberries, Bulk",30 LB,CASE,Berries,Fruit
-"Cranberries, Cello, 12 OZ",24/12 OZ,CASE,Berries,Fruit
-"Raspberries, Gold, Clamshell",12/6 OZ,CASE,Berries,Fruit
-"Raspberries, Red, Clamshell",12/1 PINT,CASE,Berries,Fruit
-"Raspberries, Red, Clamshell",12/6 OZ,CASE,Berries,Fruit
-"Raspberries, Red, Clamshell",6/12 OZ,CASE,Berries,Fruit
-"Raspberries, Red, Clamshell, Organic",12/6 OZ,CASE,Berries,Fruit
-"Strawberries, California, Clamshell",8/1 LB,CASE,Berries,Fruit
-"Strawberries, Driscoll, Clamshell",4/2 LB,CASE,Berries,Fruit
-"Strawberries, Driscoll, Clamshell",8/1 LB,CASE,Berries,Fruit
-"Strawberries, Driscoll, Clamshell, Organic",8/1 LB,CASE,Berries,Fruit
-"Strawberries, Florida, Clamshell",8/1 LB,CASE,Berries,Fruit
-"Strawberries, Loose",12/1 PINT,CASE,Berries,Fruit
-"Strawberries, North Carolina, Clamshell",8/1 LB,CASE,Berries,Fruit
-Buddha's Hand,12 CT,CASE,Citrus,Fruit
-Clementines,4/5 LB,CASE,Citrus,Fruit
-"Clementines, Bagged",10/3 LB,CASE,Citrus,Fruit
-"Grapefruit, Pink",EACH,EACH,Citrus,Fruit
-"Grapefruit, Pink, Bagged",120/5 LB,"24 BIN",Citrus,Fruit
-"Grapefruit, Pink, Bagged",4/10 LB,CASE,Citrus,Fruit
-"Grapefruit, Pink, Bagged",8/5 LB,CASE,Citrus,Fruit
-"Grapefruit, Pink, Loose",27 CT,CASE,Citrus,Fruit
-"Grapefruit, Pink, Loose",36 CT,CASE,Citrus,Fruit
-"Grapefruit, Pink, Loose",40 CT,CASE,Citrus,Fruit
-"Grapefruit, Pink, Loose",48 CT,CASE,Citrus,Fruit
-"Grapefruit, Pink, Loose",56 CT,CASE,Citrus,Fruit
-"Grapefruit, Pink, Loose, Organic",32 CT,CASE,Citrus,Fruit
-"Grapefruit, White",36 CT,CASE,Citrus,Fruit
-"Key Limes, Bagged",10/1 LB,CASE,Citrus,Fruit
-Kumquats,12 CT,CASE,Citrus,Fruit
-Lee Citrus,100 CT,CASE,Citrus,Fruit
-Lee Citrus,64 CT,CASE,Citrus,Fruit
-Lee Citrus,80 CT,CASE,Citrus,Fruit
-"Lemons, Bagged",18/2 LB,CASE,Citrus,Fruit
-"Lemons, Choice",140 CT,CASE,Citrus,Fruit
-"Lemons, Choice",165 CT,CASE,Citrus,Fruit
-"Lemons, Choice",95 CT,CASE,Citrus,Fruit
-"Lemons, Choice",DOZEN,DOZEN,Citrus,Fruit
-"Lemons, Organic",115 CT,CASE,Citrus,Fruit
-Limes,175 CT,CASE,Citrus,Fruit
-Limes,200 CT,CASE,Citrus,Fruit
-Limes,40 CT,CASE,Citrus,Fruit
-Limes,48 CT,CASE,Citrus,Fruit
-Limes,DOZEN,DOZEN,Citrus,Fruit
-"Limes, Bagged",12/6 CT,CASE,Citrus,Fruit
-Mandarins,10/3 LB,CASE,Citrus,Fruit
-Meyer Lemons,20 LB,CASE,Citrus,Fruit
-Minneola Tangelos,64 CT,CASE,Citrus,Fruit
-Minneola Tangelos,80 CT,CASE,Citrus,Fruit
-"Oranges, Blood",36 CT,CASE,Citrus,Fruit
-"Oranges, Cara Cara, Bagged",12/3 LB,CASE,Citrus,Fruit
-"Oranges, Cara Cara, Loose",56 CT,CASE,Citrus,Fruit
-"Oranges, Juice",100 CT,CASE,Citrus,Fruit
-"Oranges, Juice",125 CT,CASE,Citrus,Fruit
-"Oranges, Juice",138 CT,CASE,Citrus,Fruit
-"Oranges, Juice, Bagged",10/4 LB,CASE,Citrus,Fruit
-"Oranges, Navel, Bagged, Calf.",10/4 LB,CASE,Citrus,Fruit
-"Oranges, Navel, Bagged, Calf.",6/8 LB,CASE,Citrus,Fruit
-"Oranges, Navel, Bagged, Calf.",75/8 LB,CASE,Citrus,Fruit
-"Oranges, Navel, Bagged, Florida",10/4 LB,CASE,Citrus,Fruit
-"Oranges, Navel, Bagged, Florida",6/8 LB,CASE,Citrus,Fruit
-"Oranges, Navel, Bagged, Florida",75/8 LB,CASE,Citrus,Fruit
-"Oranges, Navel, Calf.",48 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Calf.",56 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Calf.",72 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Calf.",88 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Florida",36 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Florida",40 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Florida",48 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Florida",56 CT,CASE,Citrus,Fruit
-"Oranges, Navel, Florida",64 CT,CASE,Citrus,Fruit
-"Oranges, Navels",EACH,EACH,Citrus,Fruit
-"Oranges, Temple",80 CT,CASE,Citrus,Fruit
-"Oranges, Valencia, Bagged",12/3 LB,CASE,Citrus,Fruit
-Pommelos,6 CT,CASE,Citrus,Fruit
-Ponkans,64 CT,CASE,Citrus,Fruit
-Ponkans,80 CT,CASE,Citrus,Fruit
-Satsumas,100 CT,CASE,Citrus,Fruit
-Tangelos,100 CT,CASE,Citrus,Fruit
-Tangelos,80 CT,CASE,Citrus,Fruit
-"Tangelos, Bagged",10/4 LB,CASE,Citrus,Fruit
-"Tangerines, Fall Glo",80 CT,CASE,Citrus,Fruit
-"Tangerines, Honey",100 CT,CASE,Citrus,Fruit
-"Tangerines, Honey",120 CT,CASE,Citrus,Fruit
-"Tangerines, Honey",150 CT,CASE,Citrus,Fruit
-"Tangerines, Honey",80 CT,CASE,Citrus,Fruit
-"Tangerines, Honey, Bagged",12/3 LB,CASE,Citrus,Fruit
-"Tangerines, Sunburst",100 CT,CASE,Citrus,Fruit
-"Tangerines, Sunburst",120 CT,CASE,Citrus,Fruit
-"Tangerines, Sunburst",150 CT,CASE,Citrus,Fruit
-"Tangerines, Sunburst",64 CT,CASE,Citrus,Fruit
-"Tangerines, Sunburst",80 CT,CASE,Citrus,Fruit
-"Tangerines, Sunburst, Bagged",12/3 LB,CASE,Citrus,Fruit
-Ugli Fruit,16-18 CT,CASE,Citrus,Fruit
-"Grapes, Black Seedless, Bagged",19 LB,CASE,Grapes,Fruit
-"Grapes, Holiday Red Seedless",19 LB,CASE,Grapes,Fruit
-"Grapes, Muscadine",19 LB,CASE,Grapes,Fruit
-"Grapes, Red Globe, Bagged",19 LB,CASE,Grapes,Fruit
-"Grapes, Red Seedless, Bagged",19 LB,CASE,Grapes,Fruit
-"Grapes, Red Seedless, Lunch Bunch",19 LB,CASE,Grapes,Fruit
-"Grapes, Scuppernong",19 LB,CASE,Grapes,Fruit
-"Grapes, White Seedless, Bagged",19 LB,CASE,Grapes,Fruit
-Canary Melon,EACH,EACH,Melons,Fruit
-"Cantaloupe, Eastern",EACH,EACH,Melons,Fruit
-"Cantaloupe, Eastern, Jumbo",80 CT,"24 BIN",Melons,Fruit
-"Cantaloupe, Eastern, Large",120 CT,"24 BIN",Melons,Fruit
-"Cantaloupe, Eastern, Medium",150 CT,"24 BIN",Melons,Fruit
-"Cantaloupe, Eastern, XL",100 CT,"24 BIN",Melons,Fruit
-"Cantaloupe, Western",12 CT,CASE,Melons,Fruit
-"Cantaloupe, Western",15 CT,CASE,Melons,Fruit
-"Cantaloupe, Western",9 CT,CASE,Melons,Fruit
-Crenshaw Melon,6-9 CT,CASE,Melons,Fruit
-Honeydew,5-6 CT,CASE,Melons,Fruit
-Honeydew,EACH,EACH,Melons,Fruit
-"Watermelon, Crimson",EACH,EACH,Melons,Fruit
-"Watermelon, Crimson, Medium",30-35 CT,"24 BIN",Melons,Fruit
-"Watermelon, Crimson, XL",30-40 CT,"36 BIN",Melons,Fruit
-"Watermelon, Jubilee",EACH,EACH,Melons,Fruit
-"Watermelon, Jubilee, Medium",30-35 CT,"24 BIN",Melons,Fruit
-"Watermelon, Jubilee, XL",30-40 CT,"36 BIN",Melons,Fruit
-"Watermelon, Personal",6-8 CT,CASE,Melons,Fruit
-"Watermelon, Sangria",EACH,EACH,Melons,Fruit
-"Watermelon, Sangria, Medium",30-35 CT,"24 BIN",Melons,Fruit
-"Watermelon, Sangria, XL",30-40 CT,"36 BIN",Melons,Fruit
-"Watermelon, Seedless",36 CT,"24 BIN",Melons,Fruit
-"Watermelon, Seedless",45 CT,"24 BIN",Melons,Fruit
-"Watermelon, Seedless",60 CT,"24 BIN",Melons,Fruit
-"Watermelon, Seedless",EACH,EACH,Melons,Fruit
-"Watermelon, Starbrite",EACH,EACH,Melons,Fruit
-"Watermelon, Starbrite, XL",30-40 CT,"36 BIN",Melons,Fruit
-"Watermelon, Sugar Doll",45 CT,"24 BIN",Melons,Fruit
-"Watermelon, Sugar Doll",EACH,EACH,Melons,Fruit
-"Watermelon, Yellow Meat",45 CT,"24 BIN",Melons,Fruit
-"Watermelon, Yellow Meat",EACH,EACH,Melons,Fruit
-"Pears, Asian",32-40 CT,CASE,Pears,Fruit
-"Pears, Bartlett", 120 CT,CASE,Pears,Fruit
-"Pears, Bartlett",100 CT,CASE,Pears,Fruit
-"Pears, Bartlett",135 CT,CASE,Pears,Fruit
-"Pears, Bartlett",80 CT,CASE,Pears,Fruit
-"Pears, Bosc", 120 CT,CASE,Pears,Fruit
-"Pears, Bosc",100 CT,CASE,Pears,Fruit
-"Pears, Bosc",80 CT,CASE,Pears,Fruit
-"Pears, Bosc, Organic",27 LB,CASE,Pears,Fruit
-"Pears, Cactus",12 LB,CASE,Pears,Fruit
-"Pears, Chinese Ya",80 CT,CASE,Pears,Fruit
-"Pears, Comice",40 LB,CASE,Pears,Fruit
-"Pears, Concorde",40 LB,CASE,Pears,Fruit
-"Pears, D'Anjou",100 CT,CASE,Pears,Fruit
-"Pears, D'Anjou",120 CT,CASE,Pears,Fruit
-"Pears, D'Anjou",60 CT,CASE,Pears,Fruit
-"Pears, D'Anjou",80 CT,CASE,Pears,Fruit
-"Pears, D'Anjou, Organic",27 LB,CASE,Pears,Fruit
-"Pears, Forelle",120 CT,CASE,Pears,Fruit
-"Pears, Red",135 CT,CASE,Pears,Fruit
-"Pears, Red",40 CT,CASE,Pears,Fruit
-"Pears, Red, Organic",27 LB,CASE,Pears,Fruit
-"Pears, Seckel",120 CT,CASE,Pears,Fruit
-"Beefsteak Tomatoes, Hydroponic 16-18 CT",15 LB,CASE,Tomatoes,Fruit
-Campanelle Tomatoes,10/1 LB,CASE,Tomatoes,Fruit
-Cherokee Purple Tomatoes,25 LB,CASE,Tomatoes,Fruit
-"Cherokee Purple Tomatoes, Bushel Basket",50 LB,CASE,Tomatoes,Fruit
-Cherry Tomatoes,12/1 PINT,CASE,Tomatoes,Fruit
-"Cherry Tomatoes, Organic",12/1 PINT,CASE,Tomatoes,Fruit
-German Pink Tomatoes,25 LB,CASE,Tomatoes,Fruit
-"German Pink Tomatoes, Bushel Basket",50 LB,CASE,Tomatoes,Fruit
-Gourmet Melody Tomatoes,10/1 LB,CASE,Tomatoes,Fruit
-Grape Tomatoes,12/1 PINT,CASE,Tomatoes,Fruit
-"Grape Tomatoes, Organic",12/1 PINT,CASE,Tomatoes,Fruit
-Green Tomatoes,25 LB,CASE,Tomatoes,Fruit
-"Heirloom Tomatoes, Mixed",10 LB,CASE,Tomatoes,Fruit
-Mr. Stripey Tomatoes,25 LB,CASE,Tomatoes,Fruit
-"Mr. Stripey Tomatoes, Bushel Basket",50 LB,CASE,Tomatoes,Fruit
-Packaged Tomatoes,12/3 PACK,CASE,Tomatoes,Fruit
-Red Cocktail Tomatoes,8/12 OZ,CASE,Tomatoes,Fruit
-Roma Tomatoes,25 LB,CASE,Tomatoes,Fruit
-"Roma Tomatoes on Vine, Clamshell",9/1 LB,CASE,Tomatoes,Fruit
-Tomatillos,40 LB,CASE,Tomatoes,Fruit
-Tomatoes,POUNDS,POUND,Tomatoes,Fruit
-"Tomatoes on Vine, Orange",22 LB,CASE,Tomatoes,Fruit
-"Tomatoes on Vine, Red",22 LB,CASE,Tomatoes,Fruit
-"Tomatoes on Vine, Yellow",22 LB,CASE,Tomatoes,Fruit
-"Tomatoes, #2",25 LB,CASE,Tomatoes,Fruit
-"Tomatoes, 4x4, 2 Layer",22 LB,CASE,Tomatoes,Fruit
-"Tomatoes, 4x5, 2 Layer",22 LB,CASE,Tomatoes,Fruit
-"Tomatoes, 5x5, 2 Layer",22 LB,CASE,Tomatoes,Fruit
-"Tomatoes, 5x6",25 LB,CASE,Tomatoes,Fruit
-"Tomatoes, 6x6",25 LB,CASE,Tomatoes,Fruit
-"Tomatoes, Jumbo",25 LB,CASE,Tomatoes,Fruit
-"Tomatoes, XL",25 LB,CASE,Tomatoes,Fruit
-Yelllow Grape Tomatoes,12/1 PINT,CASE,Tomatoes,Fruit
-Yellow Roma Tomatoes,25 LB,CASE,Tomatoes,Fruit
-Apricots,18 LB,CASE,Tree Fruit,Fruit
-"Cherries, Bing, Bagged",8/2.25 LB,CASE,Tree Fruit,Fruit
-"Cherries, Rainier, Bagged",12/1.25 LB,CASE,Tree Fruit,Fruit
-"Figs, Black Mission",12/8 OZ,CASE,Tree Fruit,Fruit
-"Figs, Black String",24 CT,CASE,Tree Fruit,Fruit
-"Figs, Brown Turkey",12/8 OZ,CASE,Tree Fruit,Fruit
-"Figs, White String",24 CT,CASE,Tree Fruit,Fruit
-"Nectarines, White, 2 Layer",22 LB,CASE,Tree Fruit,Fruit
-"Nectarines, White, Basket, Eastern",25 LB,CASE,Tree Fruit,Fruit
-"Nectarines, Yellow, 2 Layer",22 LB,CASE,Tree Fruit,Fruit
-"Peaches, Doughnut",25 LB,CASE,Tree Fruit,Fruit
-"Peaches, Indian",25 LB,CASE,Tree Fruit,Fruit
-"Peaches, White, 2 Layer",22 LB,CASE,Tree Fruit,Fruit
-"Peaches, White, Basket",25 LB,CASE,Tree Fruit,Fruit
-"Peaches, Yellow, 2 Layer",22 LB,CASE,Tree Fruit,Fruit
-"Peaches, Yellow, Basket",25 LB,CASE,Tree Fruit,Fruit
-"Plums, Black, 2 Layer",22 LB,CASE,Tree Fruit,Fruit
-"Plums, Red, 2 Layer",22 LB,CASE,Tree Fruit,Fruit
-"Pluots, 2 Layer",22 LB,CASE,Tree Fruit,Fruit
-Bananas,POUNDS,POUND,Tropical,Fruit
-"Bananas, Bagged, 3 LB",40 LB,CASE,Tropical,Fruit
-"Bananas, Breaking",40 LB,CASE,Tropical,Fruit
-"Bananas, Green",40 LB,CASE,Tropical,Fruit
-"Bananas, Organic",40 LB,CASE,Tropical,Fruit
-"Bananas, Ripe",40 LB,CASE,Tropical,Fruit
-Coconuts,40 LB,CASE,Tropical,Fruit
-"Coconuts, Groovy",24 CT,CASE,Tropical,Fruit
-"Coconuts, Young, Wrapped",9 CT,CASE,Tropical,Fruit
-Guava,10 CT,CASE,Tropical,Fruit
-"Kiwi, Bulk",22 LB,CASE,Tropical,Fruit
-"Kiwi, Flat",36 CT,CASE,Tropical,Fruit
-Mango,8-12 CT,CASE,Tropical,Fruit
-"Mango, Champagne",12 CT,CASE,Tropical,Fruit
-"Papaya, Golden",6 CT,CASE,Tropical,Fruit
-"Papaya, Maradol",32 LB,CASE,Tropical,Fruit
-Passion Fruit,30 CT,CASE,Tropical,Fruit
-"Persimmons, Fuyu",15 LB,CASE,Tropical,Fruit
-"Persimmons, Hachiya",18-22 CT,CASE,Tropical,Fruit
-Pineapple,6-7 CT,CASE,Tropical,Fruit
-"Pineapple, Crownless",6 CT,CASE,Tropical,Fruit
-Plantains,50 LB,CASE,Tropical,Fruit
-Pomegranate,28-32 CT,CASE,Tropical,Fruit
-Quince,18 CT,CASE,Tropical,Fruit
-Rhubarb,20 LB,CASE,Tropical,Fruit
-Starfruit,12-20 CT,CASE,Tropical,Fruit
-"Bone Suckin' Sauce, Big Chunk Salsa (Hot), 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Big Chunk Salsa (Mild), 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Habanero Hot Sauce, 5 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Hot (Think), 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Hot, 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Mustard (Hot), 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Mustard (Mild), 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Poultry Seasoning, 6 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Regular (Thick), 1/2 Gallon",6 JUGS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Regular (Thick), 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Regular, 1 Gallon",4 JUGS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Regular, 1/2 Gallon",6 JUGS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Regular, 16 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Seasoning Rub (Hot), 6 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Seasoning Rub (Mild), 6 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Bone Suckin' Sauce, Yaki Sauce, 13.25 OZ",12 JARS,CASE,"Bone Suckin' Sauce BBQ",Jar Goods
-"Apple Butter, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Apple Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Apricot Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Black Cherry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Black Raspberry (Seedless) Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Black Raspberry (Sugar-Free) Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Black Raspberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Blackberry (Seedless) Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Blackberry (Seedless, Sugar-Free) Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Blackberry Jam (Sugar-Free), Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Blackberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Blueberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Boysenberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Cherry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Cranberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Damson Plum Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Damson-Plum (Sugar-Free) Preserves, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Elderberry Jelly, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"F.R.O.G. Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Fig Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Grape Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Hot Green Pepper Jelly, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Hot Red Pepper Jelly, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Huckleberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Muscadine Jelly, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Orange Marmalade, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Peach Butter, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Peach Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Pear Butter, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Pear Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Pineapple (Sugar-Free) Preserves, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Pineapple Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Pumpkin Butter, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Red Raspberry (Seedless) Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Red Raspberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Smoky Mountain BBQ Sauce, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Strawberry (Seedless) Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Strawberry Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Strawberry Rhubarb Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Sweet Potato Butter, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"T.O.E. Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Traffic Jam, Pint, Dutch Kettle",12 JARS,CASE,"Dutch Kettle Jam",Jar Goods
-"Alfalfa Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Avocado Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Blueberry Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Buckwheat Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Clover Honey, 5 Gallon Bucket, Gunter's",EACH,EACH,"Gunter's Honey",Jar Goods
-"Clover Honey, Bears, 12 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Clover Honey, Salt & Pepper Shakers, 6 OZ, Gunter's",24 JARS,CASE,"Gunter's Honey",Jar Goods
-"Clover Honey, Strained, 5 LB Jug, Gunter's",6 JARS,CASE,"Gunter's Honey",Jar Goods
-"Clover Honey, Strained, Pint, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Clover Honey, Strained, Quart, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Creamed Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Golden Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Orange Blossom Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Sage Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Sourwood Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Starthistle Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Tupelo Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Wildflower Honey, 16 OZ, Gunter's",12 JARS,CASE,"Gunter's Honey",Jar Goods
-"Apple Relish, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Bread & Butter Pickles, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Chow Chow (Hot), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Chow Chow (Jalepeno), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Chow Chow (Mild), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Corn Relish, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Dill Pickles, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Grape Leaf Pickles, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Green Tomato Pickles (Hot), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Green Tomato Pickles, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pepper Relish (Hot), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pepper Relish (Sweet), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Beets (Sliced), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Beets (Whole), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Cayenne Peppers, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Eggs (Hot), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Eggs (Jalepeno), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Eggs (Mild), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Jalepenos, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Okra (Hot), Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Okra, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Pickled Squash, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Stuffed Jalepenos, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Stuffed Peppers, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Vidalia Onion Pickles, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Vidalia Onion Relish, Pint, Hiatt's",12 JARS,CASE,"Hiatt's",Jar Goods
-"Apple Butter BBQ Sauce, Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Baby Beets (Sweet), Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Baby Beets (Sweet), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Baby Corn (Dill), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Baby Corn (Sweet), Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Baby Corn (Sweet), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Bread & Butter Pickle Chips (Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Bread & Butter Pickle Chips (Mild), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Brussel Sprouts (Dill), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Brussel Sprouts (Sweet), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Cauliflower (Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Cauliflower (Sweet), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Chow Chow (Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Chow Chow (Sweet), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Corn Relish, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Corn Salsa, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Dill Garlic Pickle Chips (Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Dill Garlic Pickle Chips (Mild), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Eggs, Jalepeno, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Eggs, Mild, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Eggs, Red Beet, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Four Bean Salad, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Garden Salad, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Garlic Mushrooms (Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Green Tomatoes (Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Green Tomatoes (Mild), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Green Tomatoes, Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Harvard Beets, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Harvest Salad, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Jalepeno Peppers (Sliced), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Marinated Mushroom Salad, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Marinated Mushrooms, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Midget Pickles (Sweet), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Okra, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Peaches (Sliced), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Peaches (Whole), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Pears, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Pepper Cabbage, Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Pepper Relish (Sweet & Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Pepper Strips, Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Pepper strips, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Pepperoncini Peppers, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Roasted Peppers, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Salsa (Hot), Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Salsa (Hot), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Salsa (Medium), Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Salsa (Medium), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Sauerkraut, Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Sauerkraut, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Spiced Apple Rings, 14.5 OZ, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Spicy Dilly Beans, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Sweet Garden Salad, Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Watermelon Rind (Sweet), Pint, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Watermelon Rind (Sweet), Quart, Jake & Amos",12 JARS,CASE,"Jake & Amos",Jar Goods
-"Apple Cider, 1 Gallon, Murray's",4 JUGS,CASE,"Murray's Cider",Jar Goods
-"Apple Cider, 1/2 Gallon, Murray's",6 JUGS,CASE,"Murray's Cider",Jar Goods
-"Cherry Cider, 1 Gallon, Murray's",4 JUGS,CASE,"Murray's Cider",Jar Goods
-"Cherry Cider, 1/2 Gallon, Murray's",6 JUGS,CASE,"Murray's Cider",Jar Goods
-"#1 BBQ Sauce, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Apple Cider Vinaigrette, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Bloomin' Onion Sauce, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Chow Chow, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Creamy Vinaigrette, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Cucumber Dill Salad Dressing, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Golden Peach Salsa, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Grillin' Sauce, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Hickory BBQ Sauce, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Honey Mustard Salad Dressing, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Mustard Relish, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Onion & Pepper Relish, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Raspberry Vinaigrette, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Red Peach Salsa, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Southern Mild Salsa, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Steak Sauce, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Summer Tomato Salad Dressing, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Sweet Relish, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Tomato Basil Salad Dressing, 16 OZ, Vidalia Valley",12 JARS,CASE,"Vidalia Valley",Jar Goods
-"Apple (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apple Butter (Sugar-Free), Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apple Butter, Honey Sweet, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apple Butter, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apple Butter, Quart, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apple Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apple Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apple Sauce, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apricot (Sugar-Free) Preserves, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Apricot Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Black Raspberry (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Black Raspberry Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Blackberry (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Blackberry Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Blackberry Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Blueberry (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Blueberry Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Cherry (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Cherry Butter, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Cherry Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Currant Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Damson-Plum (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Damson-Plum Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Elderberry Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Fig Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Grape (Sugar-Free) Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Grape Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Hot Pepper Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Mint Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Orange Marmalade (Sugar-Free), Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Orange Marmalade, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Peach (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Peach Butter, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Peach Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Pear Butter (Sugar-Free), Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Pear Butter, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Pear Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Pineapple Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Pumpkin Butter (Sugar-Free), Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Pumpkin Butter, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Quince Jelly, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Red Raspberry (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Red Raspberry Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Strawberry (Sugar-Free) Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Strawberry Preserves, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Strawberry Rhubarb Jam, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Sweet Potato Butter, Pint, WG White",12 JARS,CASE,"WG White Preserves",Jar Goods
-"Black Strap Molasses, Pint",12 JARS,CASE,Molasses,Jar Goods
-"Molasses, Dutch Kettle, Pint",12 JARS,CASE,Molasses,Jar Goods
-"Molasses, Dutch Kettle, Quart",12 JARS,CASE,Molasses,Jar Goods
-"Molasses, Allen County Kentucky, Pint",12 JARS,CASE,Molasses,Jar Goods
-"Molasses, Allen County Kentucky, Quart",12 JARS,CASE,Molasses,Jar Goods
-"Corn Cob Jelly, 10 OZ",12 JARS,CASE,Other,Jar Goods
-"Corn Cob Jelly, 5 OZ",24 JARS,CASE,Other,Jar Goods
-"Fox Grape Jelly, 5 OZ",24 JARS,CASE,Other,Jar Goods
-"Moonshine Jelly, 10 OZ",12 JARS,CASE,Other,Jar Goods
-"Moonshine Jelly, 5 OZ",24 JARS,CASE,Other,Jar Goods
-"Muscadine Jelly, 5 OZ",24 JARS,CASE,Other,Jar Goods
-"Pickled Peaches, Pint, Spring Valley",12 JARS,CASE,Other,Jar Goods
-"Pickled Peaches, Quart, Spring Valley",12 JARS,CASE,Other,Jar Goods
-"Salt Pickles, Quart, Spring Valley",12 JARS,CASE,Other,Jar Goods
-"Scuppernong Jelly, 5 OZ",24 JARS,CASE,Other,Jar Goods
-"Cheese, Red Wax, Packaged, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Country Ham Bits, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Country Ham, Biscuit Slice, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Country Ham, Center & End, 20 CT, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Country Ham, Center Cut, Bone-In, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Country Ham, Center Cut, Bone-Out, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Country Ham, Thick Center Cut, Bone-Out, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Ham Hocks, Whole, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Sidemeat, Big Chunk, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Sidemeat, Big Slab, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Sidemeat, Sliced, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Sidemeat, Small Chunk, Alexander's",POUNDS,CASE,"Alexander's Brand",Meats & Cheeses
-"Cheese, Black Wax, Packaged, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Cheese, Clear Wax, Packaged, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Cheese, Red Wax, Packaged, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Country Butter, 1 LB Roll, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Country Butter, 2 LB Roll, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Country Butter, Packaged, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Country Ham, Biscuit Slice, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Country Ham, Center & End, Bone-In, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Country Ham, Seasoning Chunks, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Ham Hocks, Sliced, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Ham Hocks, Whole, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Hog Jowls, Sliced, Foothills",POUNDS,CASE,"Foothills Brand",Meats & Cheeses
-"Cheese, American, WG White",5 LB,CASE,"WG White Brand",Meats & Cheeses
-"Cheese, Black Wax, 20-22 LB Hoop, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Cheese, Black Wax, Packaged, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Cheese, Clear Wax, 20-22 LB Hoop, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Cheese, Jalepeno, WG White",5 LB,CASE,"WG White Brand",Meats & Cheeses
-"Cheese, Red Wax, 20-22 LB Hoop, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Cheese, Red Wax, Packaged, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Country Ham, Biscuit Slice, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Country Ham, Center & End, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Country Ham, Center Cut, Bone-In, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Country Ham, Center Cut, Bone-Out, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Country Ham, Whole, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Fat Back, Chunk, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Fat Back, Sliced, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Fatback, Big Slab, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Hog Jowls, Chunk, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Hog Jowls, Sliced, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Sidemeat, Big Slab, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Sidemeat, Chunk, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-"Sidemeat, Sliced, WG White",POUNDS,CASE,"WG White Brand",Meats & Cheeses
-Almonds,50 LB,CASE,,Nuts
-Black Walnuts,5 LB,CASE,,Nuts
-Brazil Nuts,50 LB,CASE,,Nuts
-"Cashews, Salted & Roasted",15 LB,CASE,,Nuts
-"Chestnuts, Organic",25 LB,CASE,,Nuts
-Green Peanuts,30 LB,CASE,,Nuts
-"Hazelnuts Filberts",50 LB,CASE,,Nuts
-"Mixed Nuts, 1 LB Bag",24 CT,CASE,,Nuts
-"Mixed Nuts, Bulk",50 LB,CASE,,Nuts
-"Peanuts, Cajun, 10 OZ Bag",18 CT,CASE,,Nuts
-"Peanuts, Raw, 2 LB Bag",20 CT,CASE,,Nuts
-"Peanuts, Raw, Bulk",25 LB,CASE,,Nuts
-"Peanuts, Raw, Bulk",50 LB,CASE,,Nuts
-"Peanuts, Roasted, 10 OZ Bag",30 CT,CASE,,Nuts
-"Peanuts, Roasted, Bulk",25 LB,CASE,,Nuts
-"Peanuts, Salted & Roasted, 10 OZ Bag",30 CT,CASE,,Nuts
-"Peanuts, Salted & Roasted, Bulk",25 LB,CASE,,Nuts
-"Pecans, Desirable",50 LB,CASE,,Nuts
-"Pecans, Stuart",50 LB,CASE,,Nuts
-"Pine Nuts, 3 OZ",12 CT,CASE,,Nuts
-"Walnuts, 1 LB Bag",24 CT,CASE,,Nuts
-"Walnuts, Jumbo",50 LB,CASE,,Nuts
-"T-Shirt Bags, 1/6, 11.5 x 6.5 x 20",1000 CT,CASE,Bags,Product Packaging Supplies
-"T-Shirt Bags, 12 LB, 8 x 4 x 16",500 CT,CASE,Bags,Product Packaging Supplies
-"T-Shirt Bags, 20 LB, 10 x 5 x 19",500 CT,CASE,Bags,Product Packaging Supplies
-"Apple Bags, 1 Peck, Paper",500 CT,CASE,Bags,Product Packaging Supplies
-"Apple Bags, 1 Peck, Plastic",500 CT,CASE,Bags,Product Packaging Supplies
-"Apple Bags, 1/2 Bushel , Paper",250 CT,CASE,Bags,Product Packaging Supplies
-"Apple Bags, 1/2 Bushel, Plastic",500 CT,CASE,Bags,Product Packaging Supplies
-"Apple Bags, 1/2 Peck, Paper",500 CT,CASE,Bags,Product Packaging Supplies
-"Apple Bags, 1/2 Peck, Plastic",1000 CT,CASE,Bags,Product Packaging Supplies
-"Brown Paper Bags, 10 LB",500 CT,CASE,Bags,Product Packaging Supplies
-"Brown Paper Bags, 12 LB",500 CT,CASE,Bags,Product Packaging Supplies
-"Brown Paper Bags, 4 LB",500 CT,CASE,Bags,Product Packaging Supplies
-"Brown Paper Bags, 6 LB",500 CT,CASE,Bags,Product Packaging Supplies
-"Brown Paper Bags, 8 LB",500 CT,CASE,Bags,Product Packaging Supplies
-"Cabbage Bags, 50 LB",1000 CT,CASE,Bags,Product Packaging Supplies
-"Candy Bags, 4 x 2 x 12",1000 CT,CASE,Bags,Product Packaging Supplies
-Celery Bags,1000 CT,CASE,Bags,Product Packaging Supplies
-Lettuce Bags,1000 CT,CASE,Bags,Product Packaging Supplies
-"Onion Bags, 10 LB",EACH,CASE,Bags,Product Packaging Supplies
-"Onion Bags, 25 LB",EACH,CASE,Bags,Product Packaging Supplies
-"Onion Bags, 3 LB",1000 CT,CASE,Bags,Product Packaging Supplies
-"Onion Bags, 50 LB",EACH,CASE,Bags,Product Packaging Supplies
-"Peach Bags, 1/2 Peck, Paper",500 CT,CASE,Bags,Product Packaging Supplies
-"Peach Bags, 1/4 Peck, Paper",500 CT,CASE,Bags,Product Packaging Supplies
-"Poly Bags, 12 x 8 x 20",500 CT,CASE,Bags,Product Packaging Supplies
-"Poly Bags, 12 x 8 x 24",500 CT,CASE,Bags,Product Packaging Supplies
-"Potato Bags, 10 LB",1000 CT,CASE,Bags,Product Packaging Supplies
-"Potato Bags, 20 LB",EACH,CASE,Bags,Product Packaging Supplies
-"Potato Bags, 5 LB",1000 CT,CASE,Bags,Product Packaging Supplies
-"Potato Bags, 50 LB",EACH,CASE,Bags,Product Packaging Supplies
-"Roll Bags, 10 x 15",4/1400 CT,CASE,Bags,Product Packaging Supplies
-"Roll Bags, 12 x 20",4/875 CT,CASE,Bags,Product Packaging Supplies
-"Seal-Top Bags, 4 x 6",1000 CT,CASE,Bags,Product Packaging Supplies
-"Seal-Top Bags, 5 x 8",1000 CT,CASE,Bags,Product Packaging Supplies
-"Seal-Top Bags, 6 x 6",1000 CT,CASE,Bags,Product Packaging Supplies
-Twist Ties,1000 CT,CASE,Bags,Product Packaging Supplies
-"Vegetable Bags, 1/2 Peck, Paper",500 CT,CASE,Bags,Product Packaging Supplies
-"Vegetable Bags, 1/2 Peck, Paper",500 CT,CASE,Bags,Product Packaging Supplies
-"Vexar Bags, 3 LB",250 CT,CASE,Bags,Product Packaging Supplies
-"Vexar Bags, 5 LB",250 CT,CASE,Bags,Product Packaging Supplies
-"Bamboo Bowls, Round 10",EACH,EACH,Baskets,Product Packaging Supplies
-"Bamboo Bowls, Round, 12",EACH,EACH,Baskets,Product Packaging Supplies
-"Basket Covers, 1 Bushel",EACH,EACH,Baskets,Product Packaging Supplies
-"Basket Covers, 1/2 Bushel",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 1 Bushel, Natural",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 1 Peck, Natural",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 1 Peck, Red & Green",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 1/2 Bushel Display, Natural",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 1/2 Bushel, Natural",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 1/2 Peck, Red & Green",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 16 Quart, Green",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 16 Quart, Natural",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 16 Quart, Red",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 4 Quart, Green",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 4 Quart, Natural",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 4 Quart, Red",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 8 Quart, Green",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 8 Quart, Natural",EACH,EACH,Baskets,Product Packaging Supplies
-"Baskets, 8 Quart, Red",EACH,EACH,Baskets,Product Packaging Supplies
-"Cantaloupe Bins, New, 24",EACH,EACH,Bins,Product Packaging Supplies
-"Pumpkin Bins, New, 36",EACH,EACH,Bins,Product Packaging Supplies
-"Watermelon Bins, New, 24",EACH,EACH,Bins,Product Packaging Supplies
-"Watermelon Bins, New, 36",EACH,EACH,Bins,Product Packaging Supplies
-"Wooden Display Bins, 24",EACH,EACH,Bins,Product Packaging Supplies
-"Apple Boxes, New, 1 1/9 Bushel",EACH,EACH,Boxes,Product Packaging Supplies
-"Cabbage Cartons, New, 50 LB",EACH,EACH,Boxes,Product Packaging Supplies
-"Cucumber/Pepper Boxes, New, 1 1/9 Bushel",EACH,EACH,Boxes,Product Packaging Supplies
-"Peach Boxes, New, 1/2 Bushel",EACH,EACH,Boxes,Product Packaging Supplies
-"Potato Boxes, New, 50 LB",EACH,EACH,Boxes,Product Packaging Supplies
-"Squash Boxes, New, 1/2 Bushel",EACH,EACH,Boxes,Product Packaging Supplies
-"Sweet Potato Boxes, New, 40 LB",EACH,EACH,Boxes,Product Packaging Supplies
-"Tomato Boxes, New, 25 LB",EACH,EACH,Boxes,Product Packaging Supplies
-"Pallet Cover Bags, 50 x 44 x 84, 45 CT",EACH,ROLL,Other,Product Packaging Supplies
-Pallet Labels,500 CT,ROLL,Other,Product Packaging Supplies
-"Pallets, Used",EACH,EACH,Other,Product Packaging Supplies
-"Shrink Bags, 16 x 12",EACH,EACH,Other,Product Packaging Supplies
-"Shrink Bags, 20 x 15",EACH,EACH,Other,Product Packaging Supplies
-"Shrink Bags, 23 x 15",EACH,EACH,Other,Product Packaging Supplies
-"Shrink Bags, 28 x 16",EACH,EACH,Other,Product Packaging Supplies
-"Shrink Bags, 32 x 22",EACH,EACH,Other,Product Packaging Supplies
-Shrink Wrap,4 ROLLS,CASE,Other,Product Packaging Supplies
-"Asparagus, Green",11 LB,CASE,Asparagus,Vegetables
-"Asparagus, Purple",11 LB,CASE,Asparagus,Vegetables
-"Asparagus, White",11 LB,CASE,Asparagus,Vegetables
-"Beans, 1/2 Runner",28 LB,CASE,Beans / Peas,Vegetables
-"Beans, Butter",28 LB,CASE,Beans / Peas,Vegetables
-"Beans, French Green",5 LB,CASE,Beans / Peas,Vegetables
-"Beans, Green Snap",28 LB,CASE,Beans / Peas,Vegetables
-"Beans, October",28 LB,CASE,Beans / Peas,Vegetables
-"Beans, Pole",28 LB,CASE,Beans / Peas,Vegetables
-"Beans, Roma",28 LB,CASE,Beans / Peas,Vegetables
-"Beans, Yellow Wax",28 LB,CASE,Beans / Peas,Vegetables
-Sno Peas,10 LB,CASE,Beans / Peas,Vegetables
-Sugar Snap Peas,10 LB,CASE,Beans / Peas,Vegetables
-"Broccoli, Bunch",14 CT,CASE,Broccoli,Vegetables
-"Broccoli, Bunch",18 CT,CASE,Broccoli,Vegetables
-"Broccoli, Bunch",EACH,EACH,Broccoli,Vegetables
-"Broccoli, Bunch, Organic",14 CT,CASE,Broccoli,Vegetables
-"Broccoli, Crowns",20 LB,CASE,Broccoli,Vegetables
-"Broccoli, Florettes",4/3 LB,CASE,Broccoli,Vegetables
-"Broccoli, Florettes",6/3 LB,CASE,Broccoli,Vegetables
-"Broccoli, Florettes, Mini",4/3 LB,CASE,Broccoli,Vegetables
-"Broccoli, Rapini or Rab‚",24 CT,CASE,Broccoli,Vegetables
-Broccolini,18 CT,CASE,Broccoli,Vegetables
-Bok Choy,35 LB,CASE,Cabbage,Vegetables
-"Bok Choy, Baby",30 LB,CASE,Cabbage,Vegetables
-"Bok Choy, Organic",35 LB,CASE,Cabbage,Vegetables
-"Cababge, Green, Carton",50 LB,CASE,Cabbage,Vegetables
-"Cabbage, Diced",4/5 K,CASE,Cabbage,Vegetables
-"Cabbage, Green",EACH,EACH,Cabbage,Vegetables
-"Cabbage, Green, Bag",50 LB,CASE,Cabbage,Vegetables
-"Cabbage, Green, Carton, Organic",45 LB,CASE,Cabbage,Vegetables
-"Cabbage, Red",EACH,EACH,Cabbage,Vegetables
-"Cabbage, Red, Carton",50 LB,CASE,Cabbage,Vegetables
-"Cabbage, Red, Carton, Organic",45 LB,CASE,Cabbage,Vegetables
-"Cabbage, Red, Shredded",4/5 LB,CASE,Cabbage,Vegetables
-"Cabbage, Shredded",4/5 LB,CASE,Cabbage,Vegetables
-Napa,50 LB,CASE,Cabbage,Vegetables
-Savoy,30 LB,CASE,Cabbage,Vegetables
-"Carrots, Baby, Cryovac Pack",5 LB,CASE,Carrots,Vegetables
-"Carrots, Cello, 1 LB",48/1 LB,CASE,Carrots,Vegetables
-"Carrots, Cello, 1 LB",EACH,EACH,Carrots,Vegetables
-"Carrots, Cello, 1 LB, Organic",48/1 LB,CASE,Carrots,Vegetables
-"Carrots, Cello, 2 LB",24/2 LB,CASE,Carrots,Vegetables
-"Carrots, Cello, 2 LB, Organic",24/2 LB,CASE,Carrots,Vegetables
-"Carrots, Cello, 5 LB",10/5 LB,CASE,Carrots,Vegetables
-"Carrots, Cello, 5 LB, Organic",10/5 LB,CASE,Carrots,Vegetables
-"Carrots, Loose",25 LB,CASE,Carrots,Vegetables
-"Carrots, Loose, Large",50 LB,CASE,Carrots,Vegetables
-"Carrots, Loose, Organic",25 LB,CASE,Carrots,Vegetables
-"Carrots, Matchstick",4/5 LB,CASE,Carrots,Vegetables
-"Carrots, Petite",12/12 OZ,CASE,Carrots,Vegetables
-"Carrots, Rainbow Crunch, Loose",25 LB,CASE,Carrots,Vegetables
-"Carrots, Shredded",4/5 LB,CASE,Carrots,Vegetables
-"Carrots, With Tops",24 CT,CASE,Carrots,Vegetables
-"Mini Carrots, Cello, 1 LB",20/1 LB,CASE,Carrots,Vegetables
-"Mini Carrots, Cello, 1 LB",EACH,EACH,Carrots,Vegetables
-"Mini Carrots, Cello, 1 LB, Organic",30/1 LB,CASE,Carrots,Vegetables
-"Mini Carrots, Cello, 1.3 OZ",200/1.3 OZ,CASE,Carrots,Vegetables
-"Mini Carrots, Cello, 2 OZ",100/2 OZ,CASE,Carrots,Vegetables
-"Mini Carrots, Cello, 5 LB",4/5 LB,CASE,Carrots,Vegetables
-Cauliflower,12 CT,CASE,Cauliflower,Vegetables
-Cauliflower,EACH,EACH,Cauliflower,Vegetables
-"Cauliflower, Florettes",4/3 LB,CASE,Cauliflower,Vegetables
-"Cauliflower, Florettes",6/3 LB,CASE,Cauliflower,Vegetables
-"Cauliflower, Organic",12 CT,CASE,Cauliflower,Vegetables
-"Celery, Diced",4/5 LB,CASE,Celery,Vegetables
-"Celery, Hearts",24 CT,CASE,Celery,Vegetables
-"Celery, Hearts, Organic",24 CT,CASE,Celery,Vegetables
-"Celery, Naked",30-36 CT,CASE,Celery,Vegetables
-"Celery, Naked, Organic",30-36 CT,CASE,Celery,Vegetables
-"Celery, Sleeved",30 CT,CASE,Celery,Vegetables
-"Celery, Sleeved",EACH,EACH,Celery,Vegetables
-"Celery, Sticks",4/5 LB,CASE,Celery,Vegetables
-Corn Husks,24/1 LB,CASE,Corn,Vegetables
-"Corn, Bi-Color",48 CT,CASE,Corn,Vegetables
-"Corn, Bi-Color, Cello, 4 CT",12 CT,CASE,Corn,Vegetables
-"Corn, White",48 CT,CASE,Corn,Vegetables
-"Corn, White, Cello, 4 CT",12 CT,CASE,Corn,Vegetables
-"Corn, Yellow",48 CT,CASE,Corn,Vegetables
-"Corn, Yellow, Cello, 4 CT",12 CT,CASE,Corn,Vegetables
-Cucumbers,EACH,EACH,Cucumbers,Vegetables
-Cucumbers,POUNDS,POUND,Cucumbers,Vegetables
-"Cucumbers, Hot House",12 CT,CASE,Cucumbers,Vegetables
-"Cucumbers, Mini",12/6 CT,CASE,Cucumbers,Vegetables
-"Cucumbers, Organic",20 LB,CASE,Cucumbers,Vegetables
-"Cucumbers, Pickle, 3A or 3B",50 LB,EACH,Cucumbers,Vegetables
-"Cucumbers, Select",50 LB,CASE,Cucumbers,Vegetables
-"Cucumbers, Super Select",50 LB,CASE,Cucumbers,Vegetables
-"Eggplant, Baby",11 LB,CASE,Eggplant,Vegetables
-"Eggplant, Fancy",20 LB,CASE,Eggplant,Vegetables
-"Eggplant, Fingerling",20 LB,CASE,Eggplant,Vegetables
-"Eggplant, Ivory",20 LB,CASE,Eggplant,Vegetables
-"Eggplant, Neon",20 LB,CASE,Eggplant,Vegetables
-"Eggplant, Zebra",20 LB,CASE,Eggplant,Vegetables
-Buckskin Pumpkins,40 CT,"24 BIN",Fall Seasonal,Vegetables
-Cinderella Pumpkins,40 CT,"24 BIN",Fall Seasonal,Vegetables
-Corn Stalks,EACH,EACH,Fall Seasonal,Vegetables
-Cushaw Pumpkins,40 CT,"24 BIN",Fall Seasonal,Vegetables
-"Gourds, Assorted",30 LB,CASE,Fall Seasonal,Vegetables
-"Gourds, Jumbo, Assorted",60-80 CT,"24 BIN",Fall Seasonal,Vegetables
-Indian Corn,12/3 CT,CASE,Fall Seasonal,Vegetables
-"Indian Corn, Mini",16/3 CT,CASE,Fall Seasonal,Vegetables
-"Indian Corn, Strawberry",16/3 CT,CASE,Fall Seasonal,Vegetables
-"Mini Pumpkins, Orange",35 LB,CASE,Fall Seasonal,Vegetables
-"Mini Pumpkins, White",18 LB,CASE,Fall Seasonal,Vegetables
-Peanut Pumpkins,40 CT,"24 BIN",Fall Seasonal,Vegetables
-Pie Pumpkins,125-175 CT,"24 BIN",Fall Seasonal,Vegetables
-Pie Pumpkins,30 LB,CASE,Fall Seasonal,Vegetables
-Pie Pumpkins,EACH,EACH,Fall Seasonal,Vegetables
-Pumpkins,EACH,EACH,Fall Seasonal,Vegetables
-"Pumpkins, Big Mac, 75-125 LB",EACH,EACH,Fall Seasonal,Vegetables
-"Pumpkins, Large",40-45 CT,"36 BIN",Fall Seasonal,Vegetables
-"Pumpkins, Medium",50-55 CT,"36 BIN",Fall Seasonal,Vegetables
-"Pumpkins, XL",30-35 CT,"36 BIN",Fall Seasonal,Vegetables
-"Squash, Butternut",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Carnival",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Delicata",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Golden Acorn",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Green Acorn",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Hubbard",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Patti Pan",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Spaghetti",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Sweet Dumpling",30 LB,CASE,Fall Seasonal,Vegetables
-"Squash, Turban",30 LB,CASE,Fall Seasonal,Vegetables
-"Straw Bales, Large",EACH,EACH,Fall Seasonal,Vegetables
-"Straw Bales, Mini",12 CT,CASE,Fall Seasonal,Vegetables
-White Pumpkins,40 CT,"24 BIN",Fall Seasonal,Vegetables
-"Garlic, Bulb",80/3 CT,CASE,Garlic,Vegetables
-"Garlic, Bulb, Jumbo",30 LB,CASE,Garlic,Vegetables
-"Garlic, Elephant",12 CT,CASE,Garlic,Vegetables
-"Garlic, Packaged, ",12/2 OZ,CASE,Garlic,Vegetables
-"Garlic, Peeled",1 Gallon,JAR,Garlic,Vegetables
-"Garlic, Peeled",4/5 LB,CASE,Garlic,Vegetables
-Basil,1 LB,BAG,Herbs,Vegetables
-"Basil, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Basil, Packaged, Organic",6/2 OZ,CASE,Herbs,Vegetables
-"Bay Leaves, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Chives, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Dill, Bunched, Organic",24 CT,CASE,Herbs,Vegetables
-"Dill, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Edible Flowers, Packaged , Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Lemon Grass, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Marjoram, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Mint, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Oregano, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-Rosemary,1 LB,BAG,Herbs,Vegetables
-"Rosemary, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Sage, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Tarragon, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Thyme, Packaged, Organic",3/1 OZ,CASE,Herbs,Vegetables
-"Arugula, Baby",4 LB,CASE,Leafy Greens,Vegetables
-"Arugula, Organic",24 CT,CASE,Leafy Greens,Vegetables
-"Chard, Rainbow",24 CT,CASE,Leafy Greens,Vegetables
-"Chard, Red Swiss",24 CT,CASE,Leafy Greens,Vegetables
-Cilantro,30 CT,CASE,Leafy Greens,Vegetables
-Cilantro,60 CT,CASE,Leafy Greens,Vegetables
-"Cilantro, Organic",30 CT,CASE,Leafy Greens,Vegetables
-Endive,24 CT,CASE,Leafy Greens,Vegetables
-"Endive, Belgian",10 LB,CASE,Leafy Greens,Vegetables
-Escarole,24 CT,CASE,Leafy Greens,Vegetables
-Fennel,15 LB,CASE,Leafy Greens,Vegetables
-"Greens, Collard, Bunch",20 LB,CASE,Leafy Greens,Vegetables
-"Greens, Collard, Organic",24 CT,CASE,Leafy Greens,Vegetables
-"Greens, Creasy",20 LB,CASE,Leafy Greens,Vegetables
-"Greens, Dandelion",12 CT,CASE,Leafy Greens,Vegetables
-"Greens, Lacinato",24 CT,CASE,Leafy Greens,Vegetables
-"Greens, Mustard",20 LB,CASE,Leafy Greens,Vegetables
-"Greens, Mustard",20 LB,CASE,Leafy Greens,Vegetables
-"Greens, Turnip",20 LB,CASE,Leafy Greens,Vegetables
-"Kale, Bunch",24 CT,CASE,Leafy Greens,Vegetables
-"Kale, Flowering",24 CT,CASE,Leafy Greens,Vegetables
-"Kale, Organic",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Artisan Blend",8 LB,CASE,Leafy Greens,Vegetables
-"Lettuce, Boston",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Cleaned & Trimmed",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Frisee, Organic",12 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Green Leaf",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Green Leaf Fillet",10 LB,CASE,Leafy Greens,Vegetables
-"Lettuce, Green Leaf, Organic",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Liner",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Living Bibb",12 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Red Leaf",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Red Leaf, Organic",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Red Romaine",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Romaine",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Romaine Fillet",10 LB,CASE,Leafy Greens,Vegetables
-"Lettuce, Romaine Hearts",12/3 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Romaine Hearts",48 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Romaine, Organic",24 CT,CASE,Leafy Greens,Vegetables
-"Lettuce, Wrapped",24 CT,CASE,Leafy Greens,Vegetables
-"Parsley, Curly",60 CT,CASE,Leafy Greens,Vegetables
-"Parsley, Curly",EACH,EACH,Leafy Greens,Vegetables
-"Parsley, Curly, Organic",30 CT,CASE,Leafy Greens,Vegetables
-"Parsley, Italian",60 CT,CASE,Leafy Greens,Vegetables
-"Parsley, Italian",EACH,EACH,Leafy Greens,Vegetables
-Radicchio,6 CT,CASE,Leafy Greens,Vegetables
-"Spinach, Baby",4 LB,CASE,Leafy Greens,Vegetables
-"Spinach, Bunch, Organic",24 CT,CASE,Leafy Greens,Vegetables
-"Spinach, Cello",4/2.5 LB,CASE,Leafy Greens,Vegetables
-"Spinach, Cello, Popeye",12/10 OZ,CASE,Leafy Greens,Vegetables
-Spring Mix,3 LB,CASE,Leafy Greens,Vegetables
-Spring Mix,4/3 LB,CASE,Leafy Greens,Vegetables
-Watercress,12 CT,CASE,Leafy Greens,Vegetables
-"Mushrooms, Black Trumpet",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Chanterelle",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Crimini",12/8 OZ,CASE,Mushrooms,Vegetables
-"Mushrooms, Crimini, Sliced",12/8 OZ,CASE,Mushrooms,Vegetables
-"Mushrooms, Honshimeji",3 LB,CASE,Mushrooms,Vegetables
-"Mushrooms, Lobster",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Morel",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Oyster",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Porcini",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Portabella",3 LB,CASE,Mushrooms,Vegetables
-"Mushrooms, Portabella, Cello",6/6 OZ,CASE,Mushrooms,Vegetables
-"Mushrooms, Portabella, Sliced",6/6 OZ,CASE,Mushrooms,Vegetables
-"Mushrooms, Shitake",3 LB,CASE,Mushrooms,Vegetables
-"Mushrooms, Shitake",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Soup Blend",8 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, Special",3 LB,CASE,Mushrooms,Vegetables
-"Mushrooms, Stirfry",6 CT,CASE,Mushrooms,Vegetables
-"Mushrooms, White",10 LB,CASE,Mushrooms,Vegetables
-"Mushrooms, White",12/8 OZ,CASE,Mushrooms,Vegetables
-"Mushrooms, White, Sliced",10 LB,CASE,Mushrooms,Vegetables
-"Mushrooms, White, Sliced",12/8 OZ,CASE,Mushrooms,Vegetables
-"Mushrooms, Wood Ear",6 CT,CASE,Mushrooms,Vegetables
-"Dried Peppers, Ancho",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, Arbol",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, Chipotle",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, Guajillo",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, Habanero",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, Japones",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, Morita",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, New Mexico Hot",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, New Mexico Mild",12 CT,CASE,Peppers,Vegetables
-"Dried Peppers, Pasilla",12 CT,CASE,Peppers,Vegetables
-"Onions, OSO Sweet",10/4 LB,CASE,Onions,Vegetables
-"Onions, OSO Sweet",16/3 LB,CASE,Onions,Vegetables
-"Onions, OSO Sweet",160/4 LB,"24 BIN",Onions,Vegetables
-"Onions, OSO Sweet",200/3 LB,"24 BIN",Onions,Vegetables
-"Onions, OSO Sweet",40 LB,CASE,Onions,Vegetables
-"Onions, Diced",4/5 LB,CASE,Onions,Vegetables
-"Onions, Green Pencil",48 CT,CASE,Onions,Vegetables
-"Onions, Green Pencil, Cello",24/5.5 OZ,CASE,Onions,Vegetables
-"Onions, Green Pencil, Organic",48 CT,CASE,Onions,Vegetables
-"Onions, Green Spring",24 CT,CASE,Onions,Vegetables
-"Onions, Green Vidalia",24 CT,CASE,Onions,Vegetables
-"Onions, Pearl Gold",12/10 OZ,CASE,Onions,Vegetables
-"Onions, Pearl White",12/10 OZ,CASE,Onions,Vegetables
-"Onions, Red Italian",40 LB,CASE,Onions,Vegetables
-"Onions, Red, Bagged",12/2 LB,CASE,Onions,Vegetables
-"Onions, Red, Jumbo",25 LB,BAG,Onions,Vegetables
-"Onions, Red, Jumbo",EACH,EACH,Onions,Vegetables
-"Onions, Red, Medium",25 LB,BAG,Onions,Vegetables
-"Onions, Red, Organic",40 LB,CASE,Onions,Vegetables
-"Onions, Sweet, 1015",40 LB,CASE,Onions,Vegetables
-"Onions, Vidalia",10/5 LB,CASE,Onions,Vegetables
-"Onions, Vidalia",16/3 LB,CASE,Onions,Vegetables
-"Onions, Vidalia",160/4 LB,"24 BIN",Onions,Vegetables
-"Onions, Vidalia",40 LB,CASE,Onions,Vegetables
-"Onions, Vidalia",5/10 LB,CASE,Onions,Vegetables
-"Onions, Walla Walla",40 LB,CASE,Onions,Vegetables
-"Onions, White, Jumbo",50 LB,BAG,Onions,Vegetables
-"Onions, White, Organic",40 LB,CASE,Onions,Vegetables
-"Onions, White,Medium",12/2 LB,CASE,Onions,Vegetables
-"Onions, Yellow, 3 LB",EACH,EACH,Onions,Vegetables
-"Onions, Yellow, Colossal",50 LB,BAG,Onions,Vegetables
-"Onions, Yellow, Jumbo",25 LB,BAG,Onions,Vegetables
-"Onions, Yellow, Jumbo",5/10 LB,CASE,Onions,Vegetables
-"Onions, Yellow, Jumbo",50 LB,BAG,Onions,Vegetables
-"Onions, Yellow, Jumbo",75/10 LB,"24 BIN",Onions,Vegetables
-"Onions, Yellow, Jumbo",EACH,EACH,Onions,Vegetables
-"Onions, Yellow, Jumbo #2",50 LB,BAG,Onions,Vegetables
-"Onions, Yellow, Lg/Med",16/3 LB,CASE,Onions,Vegetables
-"Onions, Yellow, Organic",16/3 LB,CASE,Onions,Vegetables
-"Onions, Yellow, Organic",40 LB,CASE,Onions,Vegetables
-"Onions, Yellow, Prepack",16/3 LB,CASE,Onions,Vegetables
-"Onions, Yellow, Super Colossal",50 LB,BAG,Onions,Vegetables
-"Peppers, Anaheim",10 LB,CASE,Peppers,Vegetables
-"Peppers, Anaheim",25 LB,CASE,Peppers,Vegetables
-"Peppers, Banana",15 LB,CASE,Peppers,Vegetables
-"Peppers, Cubanelle",25 LB,CASE,Peppers,Vegetables
-"Peppers, Green, Chopper",25 LB,CASE,Peppers,Vegetables
-"Peppers, Green, Chopper",EACH,EACH,Peppers,Vegetables
-"Peppers, Green, Jumbo",25 LB,CASE,Peppers,Vegetables
-"Peppers, Green, Jumbo",EACH,EACH,Peppers,Vegetables
-"Peppers, Green, Organic",20 LB,CASE,Peppers,Vegetables
-"Peppers, Green, XL",25 LB,CASE,Peppers,Vegetables
-"Peppers, Habanero",10 LB,CASE,Peppers,Vegetables
-"Peppers, Imported, Mixed Color",11 LB,CASE,Peppers,Vegetables
-"Peppers, Ivory",25 LB,CASE,Peppers,Vegetables
-"Peppers, Jalepeno",18 LB,CASE,Peppers,Vegetables
-"Peppers, Jalepeno",35 LB,CASE,Peppers,Vegetables
-"Peppers, Mini, Mixed Color, 2 LB",9/2 LB,CASE,Peppers,Vegetables
-"Peppers, Mini, Mixed Color, 8 OZ",12/8 OZ,CASE,Peppers,Vegetables
-"Peppers, Orange, Imported",11 LB,CASE,Peppers,Vegetables
-"Peppers, Poblano",10 LB,CASE,Peppers,Vegetables
-"Peppers, Poblano",25 LB,CASE,Peppers,Vegetables
-"Peppers, Purple",25 LB,CASE,Peppers,Vegetables
-"Peppers, Rainbow, 3-pack",8/3 CT,CASE,Peppers,Vegetables
-"Peppers, Red Fresno",10 LB,CASE,Peppers,Vegetables
-"Peppers, Red, Domestic",15 LB,CASE,Peppers,Vegetables
-"Peppers, Red, Domestic",25 LB,CASE,Peppers,Vegetables
-"Peppers, Red, Imported",11 LB,CASE,Peppers,Vegetables
-"Peppers, Serrano",10 LB,CASE,Peppers,Vegetables
-"Peppers, Serrano",35 LB,CASE,Peppers,Vegetables
-"Peppers, Yellow, Imported",11 LB,CASE,Peppers,Vegetables
-"Shallots, Peeled",1 Gallon,JAR,Onions,Vegetables
-"Shallots, Peeled",4/5 LB,CASE,Onions,Vegetables
-Artichoke,12-18 CT,CASE,Other,Vegetables
-"Artichoke, Baby",16/9 CT,CASE,Other,Vegetables
-"Beets, Golden, with Tops, Organic",24 CT,CASE,Other,Vegetables
-"Beets, Loose",25 LB,BAG,Other,Vegetables
-"Beets, with Tops",12 CT,CASE,Other,Vegetables
-"Beets, with Tops, Organic",24 CT,CASE,Other,Vegetables
-"Brussel Sprouts, Bagged",24/1 LB,CASE,Other,Vegetables
-"Brussel Sprouts, Loose",25 LB,CASE,Other,Vegetables
-Cactus Leaves,25 LB,CASE,Other,Vegetables
-"Celery Root, Organic",12 CT,CASE,Other,Vegetables
-Ginger Root,30 LB,CASE,Other,Vegetables
-Horse Radish Root,10 LB,CASE,Other,Vegetables
-Jicama,40 LB,CASE,Other,Vegetables
-Leeks,20 LB,CASE,Other,Vegetables
-"Leeks, Organic",20 LB,CASE,Other,Vegetables
-"Malanga, Red",40 LB,CASE,Other,Vegetables
-"Malanga, White",40 LB,CASE,Other,Vegetables
-Okra,18 LB,CASE,Other,Vegetables
-"Okra, Packaged",12/12 OZ,CASE,Other,Vegetables
-"Parsnips, Cello",12/1 LB,CASE,Other,Vegetables
-"Parsnips, Loose",20 LB,BAG,Other,Vegetables
-"Radishes, Bagged",14/1 LB,CASE,Other,Vegetables
-"Radishes, Bagged",30/6 OZ,CASE,Other,Vegetables
-"Radishes, Bagged",6 OZ,EACH,Other,Vegetables
-"Radishes, Easter Egg, Organic",24 CT,CASE,Other,Vegetables
-"Radishes, with Tops",24 CT,CASE,Other,Vegetables
-"Radishes, with Tops, Organic",24 CT,CASE,Other,Vegetables
-Rutabagas,25 LB,CASE,Other,Vegetables
-"Sprouts, Alfalfa, Clamshell",6 CT,CASE,Other,Vegetables
-"Sprouts, Broccoli, Clamshell",6 CT,CASE,Other,Vegetables
-"Sprouts, Clover, Clamshell",6 CT,CASE,Other,Vegetables
-"Sprouts, Mung Bean, Clamshell",6 CT,CASE,Other,Vegetables
-"Sprouts, Radish Alfalfa, Clamshell",6 CT,CASE,Other,Vegetables
-Tamarindo,12/3 OZ,CASE,Other,Vegetables
-Turnip Root,25 LB,BAG,Other,Vegetables
-"Turnip Root, Organic",25 LB,BAG,Other,Vegetables
-Yucca Root,40 LB,CASE,Other,Vegetables
-"Sweet Potato, Fingerling",40 LB,CASE,Potatoes,Vegetables
-"Sweet Potato, Jumbo Yams",40 LB,CASE,Potatoes,Vegetables
-"Sweet Potato, Purple, #1",40 LB,CASE,Potatoes,Vegetables
-"Sweet Potato, Red, #1",40 LB,CASE,Potatoes,Vegetables
-"Sweet Potato, Red, #2",40 LB,CASE,Potatoes,Vegetables
-"Sweet Potato, Red, Bagged",12/3 LB,CASE,Potatoes,Vegetables
-"Sweet Potato, White, #1",40 LB,CASE,Potatoes,Vegetables
-"Sweet Potato, White, #2",40 LB,CASE,Potatoes,Vegetables
-"American Salad Mix, Retail",6/12 OZ,CASE,Pre-Cut Salads,Vegetables
-"American Salad Mix, Retail, Organic",12/5 OZ,CASE,Pre-Cut Salads,Vegetables
-"Baby Lettuce Salad, Retail, Organic",12/5 OZ,CASE,Pre-Cut Salads,Vegetables
-"Baby Romaine Salad, Retail, Organic",12/5 OZ,CASE,Pre-Cut Salads,Vegetables
-"Baby Spinach Salad, Retail, Organic",12/5 OZ,CASE,Pre-Cut Salads,Vegetables
-Caesar Salad Mix,6/10 OZ,CASE,Pre-Cut Salads,Vegetables
-"European Salad Mix, Retail",6/12 OZ,CASE,Pre-Cut Salads,Vegetables
-Iceberg & Romaine Salad Mix,4/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Iceberg Salad Mix, 5 LB",4/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Iceberg Salad Mix, Retail, 1 LB",12/1 LB,CASE,Pre-Cut Salads,Vegetables
-"Iceberg, Chopped",4/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Iceberg, Shredded",4/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Iceberg, Shredded, Retail",12/8 OZ,CASE,Pre-Cut Salads,Vegetables
-"Italian Salad Mix, Retail",6/10 OZ,CASE,Pre-Cut Salads,Vegetables
-"Italian Salad Mix, Retail, Organic",12/10 OZ,CASE,Pre-Cut Salads,Vegetables
-Microwave Red Sweet Potato,25 CT,CASE,Pre-Cut Salads,Vegetables
-Microwave Russet Potatoes,50 CT,CASE,Pre-Cut Salads,Vegetables
-"Mixed Greens, Retail, Organic",12/5 OZ,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, French Fingerling, Organic",16/1.5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, 100 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, 40 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, 50 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, 60 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, 70 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, 80 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, 90 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, Bagged",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, Bagged",100/10 LB,"24 BIN",Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, Bagged",200/10 LB,"36 BIN",Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, Bagged",5/10 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Idaho, Bagged, Jumbo",125/15 LB,"36 BIN",Pre-Cut Salads,Vegetables
-"Potatoes, Mix Fingerling, Organic",12/1.5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Red, A, Organic",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Red, #1, A, Calf.",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Red, #1, A, Eastern",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, Red, #1, B, Calf.",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Red, #1, B, Eastern",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, Red, #2, A, Eastern",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, Red, Bagged",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Red, Bagged, Organic",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Red, Creamer",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Red, Creamer, Organic",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, #1, A",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, #2, A",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, #2, 10 OZ",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 100 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 110 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 40 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 50 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 60 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 70 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 80 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, 90 CT",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged",100/10 LB,"24 BIN",Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged",125/8 LB,"24 BIN",Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged",20 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged",225/10 LB,"36 BIN",Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged",5/10 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged, Jumbo",125/15 LB,"36 BIN",Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Bagged, Organic",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Jumbo, Bagged",6/8 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Russet, Organic",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, White Bagged",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, White, #1, A, Calf.",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, White, #1, A, Eastern",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, White, #1, B, Calf.",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, White, #1, B, Eastern",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, White, Bagged",5/10 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, White, Chef",50 LB,BAG,Pre-Cut Salads,Vegetables
-"Potatoes, White, Creamer",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, White, Creamer, Organic",24/2 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Yukon Gold, A",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Yukon Gold, Bagged",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Yukon Gold, Bagged, Organic",10/5 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Yukon Gold, Chef",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Potatoes, Yukon Gold, Organic",50 LB,CASE,Pre-Cut Salads,Vegetables
-"Romaine Salad Mix, Retail, Organic",12/10 OZ,CASE,Pre-Cut Salads,Vegetables
-"Romaine, Chopped",6/2 LB,CASE,Pre-Cut Salads,Vegetables
-"Romaine, Shredded ",6/2 LB,CASE,Pre-Cut Salads,Vegetables
-"Slaw Mix, Retail",12/14 OZ,CASE,Pre-Cut Salads,Vegetables
-"Squash, Acorn",35 LB,CASE,Squash,Vegetables
-"Squash, Butternut",35 LB,CASE,Squash,Vegetables
-"Squash, Chayote",24 CT,CASE,Squash,Vegetables
-"Squash, Green, Choice",18 LB,CASE,Squash,Vegetables
-"Squash, Green, Fancy",18 LB,CASE,Squash,Vegetables
-"Squash, Green, Mini",5 LB,CASE,Squash,Vegetables
-"Squash, Green, Organic",18 LB,CASE,Squash,Vegetables
-"Squash, Spaghetti",35 LB,CASE,Squash,Vegetables
-"Squash, Yellow Sunburst, Mini",5 LB,CASE,Squash,Vegetables
-"Squash, Yellow, Choice",25 LB,CASE,Squash,Vegetables
-"Squash, Yellow, Fancy",25 LB,CASE,Squash,Vegetables
-"Squash, Yellow, Organic",18 LB,CASE,Squash,Vegetables
-"Tofu, Firm",12 CT,CASE,Other,Vegetables
-"Tofu, Firm, Organic",12 CT,CASE,Other,Vegetables
-"Tofu, Soft",12 CT,CASE,Other,Vegetables
-"Tofu, Soft, Organic",12 CT,CASE,Other,Vegetables
-"Tofu, X-Firm",12 CT,CASE,Other,Vegetables
-"Tofu, X-Firm, Organic",12 CT,CASE,Other,Vegetables
+Item,"Sold By",Sub-Categor,Category
+"APPLES, RED DELICIOUS, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 113 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 125 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 138 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 113 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 125 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 138 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, AMBROSIA, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, AMBROSIA, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, AMBROSIA, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, AMBROSIA, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, AMBROSIA, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, AMBROSIA, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, AMBROSIA, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, AMBROSIA, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 125 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, CAMEO, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, CAMEO, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, CAMEO, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, CAMEO, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, CAMEO, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, CAMEO, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, CAMEO, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, CAMEO, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, FUJI, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 113 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 125 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, FUJI, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, GALA, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GALA, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GALA, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GALA, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GALA, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GALA, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GALA, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GALA, 30 LB, EURO-BOX",Box,APPLES,Fruits
+"APPLES, GALA, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 27 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 36 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JAZZ, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JAZZ, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JAZZ, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JAZZ, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JAZZ, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JAZZ, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JAZZ, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, JONAGOLD, 30 LB, EURO-BOX",Box,APPLES,Fruits
+"APPLES, JONAGOLD, TRAY, ORGANIC",Box,APPLES,Fruits
+"APPLES, JUNAMI, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, LADY ALICE, 100 CT, WESTERN",Box,APPLES,Fruits
+"MIXED FRUIT (APPLES & ORANGES), 10/4 LB",Box,APPLES,Fruits
+"MIXED FRUIT (APPLES & ORANGES), 8/5 LB",Box,APPLES,Fruits
+"APPLES, PINK LADY, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 48 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 56 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 64 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 72 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 80 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 88 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, SONYA, 100 CT, WESTERN",Box,APPLES,Fruits
+"APPLES, SWEET TANGO, 56 CT",Box,APPLES,Fruits
+"APPLES, SWEET TANGO, 64 CT",Box,APPLES,Fruits
+"APPLES, SWEET TANGO, 72 CT",Box,APPLES,Fruits
+"APPLES, SWEET TANGO, 80 CT",Box,APPLES,Fruits
+"APPLES, ARKANSAS BLACK, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, BRAEBURN, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, BUCKINGHAM, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, CAMEO, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, CORTLAND, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, FUJI, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, GALA, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, JONAGOLD, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, JONATHAN, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, EARLY JUNE, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, KING LUSCIOUS, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, LODI, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, MCINTOSH, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, MUTSU, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, OZARK GOLD, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, PINK LADY, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, RAMBO, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, ROME, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, STAYMAN, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, WINESAP, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, WOLF RIVER, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, YORK, LOOSE, 1 BUSHEL",Box,APPLES,Fruits
+"APPLES, DEER, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, FUJI, BAGGED, 120/5 LB",Bin,APPLES,Fruits
+"APPLES, GALA, BAGGED, 120/5 LB",Bin,APPLES,Fruits
+"APPLES, GALA, BAGGED, 200/3 LB",Bin,APPLES,Fruits
+"APPLES, GOLD, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, GOLD, BAGGED, 100/5 LB",Bin,APPLES,Fruits
+"APPLES, GOLD, BAGGED, 120/5 LB",Bin,APPLES,Fruits
+"APPLES, GOLD, BAGGED, 75/8 LB",Bin,APPLES,Fruits
+"APPLES, GRANNY SMITH, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, GRANNY SMITH, BAGGED, 100/5 LB",Bin,APPLES,Fruits
+"APPLES, MUTSU, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, RED, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, RED, BAGGED, 100/5 LB",Bin,APPLES,Fruits
+"APPLES, RED, BAGGED, 120/5 LB",Bin,APPLES,Fruits
+"APPLES, RED, BAGGED, 75/8 LB",Bin,APPLES,Fruits
+"APPLES, ROME, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, ROME, BAGGED, 100/5 LB",Bin,APPLES,Fruits
+"APPLES, STAYMAN, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, YORK, LOOSE, BIN",Bin,APPLES,Fruits
+"APPLES, CORTLAND, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, EMPIRE, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, EMPIRE, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, EMPIRE, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, EMPIRE, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, EMPIRE, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, FUJI, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GALA, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GALA, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GALA, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GALA, 64 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GALA, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GALA, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GALA, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 56 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 64 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 64 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 64 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, MCINTOSH, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, MCINTOSH, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, MCINTOSH, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, MCINTOSH, 64 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, MCINTOSH, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, MCINTOSH, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, MCINTOSH, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, PINK LADY, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 138 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 56 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 64 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, ROME, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, ROME, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, ROME, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, ROME, 64 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, ROME, 72 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, ROME, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, ROME, 88 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, STAYMAN, 100 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, STAYMAN, 113 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, STAYMAN, 125 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, STAYMAN, 80 CT, EASTERN",Box,APPLES,Fruits
+"APPLES, BRAEBURN, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, BRAEBURN, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, CAMEO, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, CANDY, 24 CT",Box,APPLES,Fruits
+"APPLES, CARAMEL, 24 CT",Box,APPLES,Fruits
+"DRIED APPLES, 25 LB BOX",Box,APPLES,Fruits
+"APPLES, FUJI, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, FUJI, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, GALA, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, GALA, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, GALA, BAGGED, 12/3 LB, ORGANIC",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, GOLD DELICIOUS, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, GRANNY SMITH, BAGGED, 12/3 LB, ORGANIC",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, HONEYCRISP, BAGGED, 12/3 LB, ORGANIC",Box,APPLES,Fruits
+"APPLES, JONAGOLD, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, MCINTOSH, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, RED DELICIOUS, BAGGED, 12/3 LB, ORGANIC",Box,APPLES,Fruits
+"APPLES, ROME, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, ROME, BAGGED, 8/5 LB",Box,APPLES,Fruits
+"APPLES, SLICED GREEN, 100/2 OZ",Box,APPLES,Fruits
+"APPLES, SLICED RED, 100/2 OZ",Box,APPLES,Fruits
+"APPLES, STAYMAN, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"APPLES, YORK, BAGGED, 12/3 LB",Box,APPLES,Fruits
+"ASPARAGUS, 11/1 LB",Box,ASPARAGUS,Vegetables
+"ASPARAGUS, 28 LB",Box,ASPARAGUS,Vegetables
+"ASPARAGUS, LOCAL,~ 30 LB",Case,ASPARAGUS,Vegetables
+"ASPARAGUS, 11/1 LB, ORGANIC",Box,ASPARAGUS,Vegetables
+"ASPARAGUS, WHITE, 11/1 LB",Box,ASPARAGUS,Vegetables
+ALFALFA SPROUTS,Box,OTHER,Vegetables
+BEAN SPROUTS,Box,OTHER,Vegetables
+RADISH SPROUTS,Box,OTHER,Vegetables
+"BRUSSEL SPROUTS, 24/1 LB",Box,OTHER,Vegetables
+"ARTICHOKES, 12 CT",Box,OTHER,Vegetables
+"ARTICHOKES, 24 CT",Box,OTHER,Vegetables
+"ARTICHOKES, 30 CT",Box,OTHER,Vegetables
+"FENNEL, 24 CT",Box,OTHER,Vegetables
+CACTUS LEAVES,Box,OTHER,Vegetables
+APRICOTS,Box,STONE-FRUIT,Fruits
+"APRICOTS, ORGANIC",Box,STONE-FRUIT,Fruits
+"AVOCADOS, HASS, 60 CT",Box,TROPICAL,Fruits
+"AVOCADOS, HASS, 36-48 CT",Box,TROPICAL,Fruits
+"AVOCADOS, FLORIDA GREEN SKIN, 12 CT",Box,TROPICAL,Fruits
+"AVOCADOS, FLORIDA GREEN SKIN, 20 CT",Box,TROPICAL,Fruits
+"PLANTAINS, 50 LB",Box,TROPICAL,Fruits
+"BANANAS, BANACOL, 40 LB",Box,TROPICAL,Fruits
+"BANANAS, PREMIUM, 40 LB",Box,TROPICAL,Fruits
+"BANANAS, BAGGED",Box,TROPICAL,Fruits
+"BASIL, FRESH, 1 LB BAG",Bag,HERBS,Vegetables
+"DILL, FRESH, 1 LB BAG",Bag,HERBS,Vegetables
+"MINT, FRESH, 1 LB BAG",Bag,HERBS,Vegetables
+"OREGANO, FRESH, 1 LB BAG",Bag,HERBS,Vegetables
+"ROSEMARY, FRESH, 1 LB BAG",Bag,HERBS,Vegetables
+"SAGE, FRESH, 1 LB BAG",Box,HERBS,Vegetables
+"TARRAGON, FRESH, 1 LB BAG",Bag,HERBS,Vegetables
+"THYME, FRESH, 1 LB BAG",Box,HERBS,Vegetables
+"BAY LEAVES, FRESH, 3/.75 OZ",Box,HERBS,Vegetables
+"CHIVES, FRESH, 3/.75 OZ",Box,HERBS,Vegetables
+"DILL, FRESH, 3/.75 OZ",Box,HERBS,Vegetables
+"MINT, FRESH, 3/.75 OZ",Box,HERBS,Vegetables
+"ROSEMARY, FRESH, 3/.75 OZ",Box,HERBS,Vegetables
+"BUTTER BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"BUTTER BEANS, SPECKLED, 1 BUSHEL",Box,BEANS,Vegetables
+"POLE BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"1/2 RUNNER BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"SNAP / GREEN BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"BLUE LAKE BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"FRENCH BEANS, 5 LB",Box,BEANS,Vegetables
+"GREASY BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"ROMA BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"YELLOW WAX BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"OCTOBER BEANS, 1 BUSHEL",Box,BEANS,Vegetables
+"BEETS, POLY BAG, 25 LB",Bag,ROOTS,Vegetables
+"BEETS, WITH TOPS, 12 CT",Box,ROOTS,Vegetables
+"BEETS, WITH TOPS, 24 CT, ORGANIC",Box,ROOTS,Vegetables
+"BLACKBERRIES, 12/6 OZ",Box,BERRIES,Fruits
+"BLACKBERRIES, 12/1 PINT",Box,BERRIES,Fruits
+"BLUEBERRIES, 12/6 OZ",Box,BERRIES,Fruits
+"BLUEBERRIES, 12/4.4 OZ",Box,BERRIES,Fruits
+"BLUEBERRIES, 12/1 PINT",Box,BERRIES,Fruits
+"BOK CHOY, 18 CT",Box,CABBAGE,Vegetables
+"BOK CHOY, 18 CT, ORGANIC",Box,CABBAGE,Vegetables
+"NAPA CABBAGE, 30 LB",Box,CABBAGE,Vegetables
+"NAPA CABBAGE, 30 LB, ORGANIC",Box,CABBAGE,Vegetables
+"BROCCOLI, BUNCH, 14 CT",Box,BROCCOLI,Vegetables
+"BROCCOLI, BUNCH, 18 CT",Box,BROCCOLI,Vegetables
+"BROCCOLI, BUNCH, 14 CT, ORGANIC",Box,BROCCOLI,Vegetables
+"BROCCOLI, WRAPPED",Box,BROCCOLI,Vegetables
+"BROCCOLI, CROWNS, 20 LB",Box,BROCCOLI,Vegetables
+"BROCCOLI, FLORETTES, 6/3 LB",Box,BROCCOLI,Vegetables
+"BROCCOLI, FLORETTES, 4/3 LB",Box,BROCCOLI,Vegetables
+"BROCCOLI, MINI FLORETTES, 4/3 LB",Box,BROCCOLI,Vegetables
+"BROCCOLINI, 18 CT",Box,BROCCOLI,Vegetables
+"CABBAGE, BAG, 50 LB",Bag,CABBAGE,Vegetables
+"CABBAGE, DICED, 4/5 LB",Box,CABBAGE,Vegetables
+"CABBAGE, GREEN, ORGANIC",Box,CABBAGE,Vegetables
+"CABBAGE, SHRED, 4/5 LB",Box,CABBAGE,Vegetables
+"CABBAGE, DANISH, BAG, 50 LB",Bag,CABBAGE,Vegetables
+"CABBAGE, CARTON, 50 LB",Box,CABBAGE,Vegetables
+"SAVOY CABBAGE, 30 LB",Box,CABBAGE,Vegetables
+"CABBAGE, RED, 50 LB",Box,CABBAGE,Vegetables
+"CABBAGE, RED, SHRED, 4/5 LB",Box,CABBAGE,Vegetables
+BRITE LITES CHARD,Box,CABBAGE,Vegetables
+"CANTALOUPES, 12 CT, BOX",Box,MELONS,Fruits
+"CANTALOUPES, 15 CT, BOX",Box,MELONS,Fruits
+"CANTALOUPES, 6 CT, BOX",Box,MELONS,Fruits
+"CANTALOUPES, 8 CT, BOX",Box,MELONS,Fruits
+"CANTALOUPES, 9 CT, BOX",Box,MELONS,Fruits
+"CANTALOUPES, ATHENA, JUMBO, BIN",Bin,MELONS,Fruits
+"CANTALOUPES, ATHENA, LARGE, BIN",Bin,MELONS,Fruits
+"CANTALOUPES, ATHENA, MEDIUM, BIN",Bin,MELONS,Fruits
+"CANTALOUPES, ATHENA, XL, BIN",Bin,MELONS,Fruits
+"CANTALOUPES, REESE, JUMBO, BIN",Bin,MELONS,Fruits
+"CANTALOUPES, REESE, LARGE, BIN",Bin,MELONS,Fruits
+"CANTALOUPES, REESE, MEDIUM, BIN",Bin,MELONS,Fruits
+"CANTALOUPES, REESE, XL, BIN",Bin,MELONS,Fruits
+"CARROTS, CELLO, 48/1 LB",Bag,CARROTS,Vegetables
+"CARROTS, CELLO, 48/1 LB, ORGANIC",Bag,CARROTS,Vegetables
+"CARROTS, CELLO, 24/2 LB",Bag,CARROTS,Vegetables
+"CARROTS, CELLO, 10/5 LB",Bag,CARROTS,Vegetables
+"CARROTS, SHRED, 4/5 LB",Box,CARROTS,Vegetables
+"CARROTS, MATCHSTICKS, 4/5 LB",Box,CARROTS,Vegetables
+"CARROTS, STICKS, 4/5 LB",Box,CARROTS,Vegetables
+"CARROTS, WITH TOPS, 24 CT",Box,CARROTS,Vegetables
+"BABY CARROTS, 5 LB, CRYO-VAC PACKED",Bag,CARROTS,Vegetables
+"CARROTS, LOOSE, 50 LB",Bag,CARROTS,Vegetables
+"CARROTS, LOOSE, 25 LB",Bag,CARROTS,Vegetables
+"CARROTS, LOOSE, 25 LB, ORGANIC",Bag,CARROTS,Vegetables
+"CARROTS, RAINBOW CRUNCH, LOOSE, 25 LB",Bag,CARROTS,Vegetables
+"MINI CARROTS, 20/1 LB",Box,CARROTS,Vegetables
+"MINI CARROTS, SLIMS, 4/5 LB",Box,CARROTS,Vegetables
+"MINI CARROTS, 30/1 LB",Box,CARROTS,Vegetables
+"MINI CARROTS, 15/2 LB",Box,CARROTS,Vegetables
+"MINI CARROTS, 100/2.6 OZ",Box,CARROTS,Vegetables
+"MINI CARROTS, 200/1.6 OZ",Box,CARROTS,Vegetables
+"MINI CARROTS, 100/2 OZ",Box,CARROTS,Vegetables
+"MINI CARROTS, 72/3 OZ",Box,CARROTS,Vegetables
+"MINI CARROTS, 24/1 LB",Box,CARROTS,Vegetables
+"CARROT DIPPERS, 36/3 OZ",Box,CARROTS,Vegetables
+"MINI CARROTS, 24/1 LB, ORGANIC",Box,CARROTS,Vegetables
+"CAULIFLOWER, 12 CT",Box,CAULIFLOWER,Vegetables
+"CAULIFLOWER, 16 CT",Box,CAULIFLOWER,Vegetables
+"CAULIFLOWER, 9 CT",Box,CAULIFLOWER,Vegetables
+"CAULIFLOWER, 12 CT, ORGANIC",Box,CAULIFLOWER,Vegetables
+"CAULIFLOWER, FLORETTE, 6/3 LB",Box,CAULIFLOWER,Vegetables
+"CAULIFLOWER, FLORETTE, 4/3 LB",Box,CAULIFLOWER,Vegetables
+"CAULIFLOWER SNACK CUPS, 50 / .5 CUP",Box,CAULIFLOWER,Vegetables
+"CELERY, NAKED, 30/36 CT",Box,CELERY,Vegetables
+"CELERY, SLEEVED, 24 CT",Box,CELERY,Vegetables
+"CELERY, SLEEVED, 30 CT",Box,CELERY,Vegetables
+"CELERY, SLEEVED, 36 CT",Box,CELERY,Vegetables
+"CELERY STICKS, 4/5 LB",Box,CELERY,Vegetables
+"CELERY, DICED, 4/5 LB",Box,CELERY,Vegetables
+"CELERY, SLEEVED, ORGANIC",Box,CELERY,Vegetables
+"CELERY ROOT, WITH TOPS",Box,CELERY,Vegetables
+"CELERY HEARTS, 18 CT",Box,CELERY,Vegetables
+"CELERY HEARTS, 18 CT, ORGANIC",Box,CELERY,Vegetables
+"CILANTRO, 60 CT",Box,LEAFY GREENS,Vegetables
+"CILANTRO, 30 CT",Box,LEAFY GREENS,Vegetables
+"CHERRIES, BING, 8/2.25 LB, BAGGED",Box,STONE-FRUIT,Fruits
+"CHERRIES, BING, 8/2 LB, CLAM SHELL",Box,STONE-FRUIT,Fruits
+"CHERRIES, BING, 12/1.25 LB, BAGGED",Box,STONE-FRUIT,Fruits
+"CHERRIES, BING, 11/1 LB, BAGGED",Box,STONE-FRUIT,Fruits
+"CHERRIES, BING, 20 LB, LOOSE",Box,STONE-FRUIT,Fruits
+"CHERRIES, RAINIER, 12/1.25 LB, BAGGED",Box,STONE-FRUIT,Fruits
+"CRANBERRIES, 24/12 OZ",Box,BERRIES,Fruits
+"COCONUTS, 40 CT",Bag,TROPICAL,Fruits
+"COCONUTS, GROOVY, 24 CT",Box,TROPICAL,Fruits
+"CORN, BI-COLOR, 48 CT",Box,CORN,Vegetables
+"CORN, YELLOW, 48 CT",Box,CORN,Vegetables
+"CORN, PACKAGED, 12/4 CT",Box,CORN,Vegetables
+"CORN, WHITE, 48 CT",Box,CORN,Vegetables
+"INDIAN CORN, LARGE, 12/3 CT",Box,FALL SEASONAL,Vegetables
+"INDIAN CORN, MINI, 16/3 CT",Box,FALL SEASONAL,Vegetables
+"INDIAN CORN, STRAWBERRY, 16/3 CT",Box,FALL SEASONAL,Vegetables
+"CORN STALKS, DRIED",Each,FALL SEASONAL,Vegetables
+"CORN HUSKS, HOJA DE MAIZ, 24/1 LB",Bag,CORN,Vegetables
+"CUCUMBERS, SMALL FANCY, 1 1/9 BUSHEL",Box,CUCUMBERS,Vegetables
+"ENGLISH CUCUMBERS, 12 CT",Box,CUCUMBERS,Vegetables
+"MINI CUCUMBERS, 12/6 CT",Box,CUCUMBERS,Vegetables
+"CUCUMBERS, ORGANIC, 20 LB",Box,CUCUMBERS,Vegetables
+"CUCUMBERS, SUPER SELECT, 1 1/9 BUSHEL",Box,CUCUMBERS,Vegetables
+"CUCUMBERS, 24-36 CT, 1/2 BUSHEL",Box,CUCUMBERS,Vegetables
+"CUCUMBERS, SELECT, 1 1/9 BUSHEL",Box,CUCUMBERS,Vegetables
+"PICKLE CUCUMBERS, 3A, 1 1/9 BUSHEL",Box,CUCUMBERS,Vegetables
+"PICKLE CUCUMBERS, 3B, 1 1/9 BUSHEL",Box,CUCUMBERS,Vegetables
+"PICKLE CUCUMBERS, 3C, 1 1/9 BUSHEL",Box,CUCUMBERS,Vegetables
+"EGGPLANT, FANCY, 1 1/9 BUSHEL",Box,EGGPLANT,Vegetables
+"EGGPLANT, BABY PURPLE, 11 LB",Box,EGGPLANT,Vegetables
+"EGGPLANT, FINGERLING, 1 1/9 BUSHEL",Box,EGGPLANT,Vegetables
+"EGGPLANT, IVORY",Box,EGGPLANT,Vegetables
+"EGGPLANT, NEON",Box,EGGPLANT,Vegetables
+"EGGPLANT, ORGANIC",Box,EGGPLANT,Vegetables
+"EGGPLANT, ZEBRA",Box,EGGPLANT,Vegetables
+ESCAROLE / ENDIVE,Box,EGGPLANT,Vegetables
+"FIGS, TURKEY, 24/8 OZ",Box,OTHER,Vegetables
+"GINGER ROOT, 30 LB",Box,ROOTS,Vegetables
+HORSERADISH ROOT,Box,ROOTS,Vegetables
+"JICAMA ROOT, 35 LB",Box,ROOTS,Vegetables
+"YUCCA ROOT, 35 LB",Box,ROOTS,Vegetables
+"SHALLOTS, WHOLE PEELED, 1 GALLON",Jar,ONIONS,Vegetables
+"SHALLOTS, FRESH, 5 LB",Jar,ONIONS,Vegetables
+"GARLIC, LOOSE, 30 LB",Box,GARLIC,Vegetables
+"GARLIC, 80/3 PACK",Box,GARLIC,Vegetables
+"GARLIC, 12/1.5 OZ PACKAGED",Box,GARLIC,Vegetables
+"GARLIC, WHOLE PEELED, 1 GALLON",Jar,GARLIC,Vegetables
+"GOURDS, ASSORTED, LOOSE, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"GOURDS, ASSORTED, BAGGED, 10/7 CT",Box,FALL SEASONAL,Vegetables
+"GRAPEFRUIT, PINK, 27 CT",Box,CITRUS,Fruits
+"GRAPEFRUIT, WHITE, 27 CT",Box,CITRUS,Fruits
+"GRAPEFRUIT, PINK, 32 CT",Box,CITRUS,Fruits
+"GRAPEFRUIT, PINK, 36 CT",Box,CITRUS,Fruits
+"GRAPEFRUIT, WHITE, 36 CT",Box,CITRUS,Fruits
+"GRAPFERUIT, PINK, BAGGED, 4/10 LB",Box,CITRUS,Fruits
+"GRAPFERUIT, PINK, 40 CT",Box,CITRUS,Fruits
+"GRAPEFRUIT, PINK, 48 CT",Box,CITRUS,Fruits
+"GRAPEFRUIT, PINK, 56 CT",Box,CITRUS,Fruits
+"GRAPEFRUIT, PINK, BAGGED, 8/5 LB",Box,CITRUS,Fruits
+"GRAPEFRUIT, PINK, 2/5 BUSHEL",Box,CITRUS,Fruits
+"GRAPEFRUIT, WHITE, 2/5 BUSHEL",Box,CITRUS,Fruits
+"GRAPES, HOLIDAY SEEDLESS, PREMIUM, 19 LB",Box,GRAPES,Fruits
+"GRAPES, HOLIDAY SEEDLESS, MC LABEL, 19 LB",Box,GRAPES,Fruits
+"GRAPES, CONCORD, 20 LB",Box,GRAPES,Fruits
+MUSCADINES,Box,GRAPES,Fruits
+"GRAPES, MUSCATO",Box,GRAPES,Fruits
+SCUPPERNONGS,Box,GRAPES,Fruits
+"GRAPES, BLACK SEEDLESS, 19 LB",Box,GRAPES,Fruits
+"GRAPES, BLACK GLOBE, 19 LB",Box,GRAPES,Fruits
+"GRAPES, RED SEEDLESS, 19 LB",Box,GRAPES,Fruits
+"GRAPE/APPLE BUDDIES, 100/2 OZ",Box,GRAPES,Fruits
+"GRAPES, RED SEEDLESS, 6/3 LB, CLAM SHELL",Box,GRAPES,Fruits
+"GRAPES, RED GLOBE, 19 LB",Box,GRAPES,Fruits
+"GRAPE GIGGLES, 50/2 OZ",Box,GRAPES,Fruits
+"GRAPES, RED SEEDLESS, LUNCH BUNCH, 21 LB",Box,GRAPES,Fruits
+"GRAPES, RED SEEDLESS, MC LABEL, 19 LB",Box,GRAPES,Fruits
+"GRAPES, RED SEEDLESS, ORGANIC",Box,GRAPES,Fruits
+"GRAPES, WHITE SEEDLESS, 19 LB",Box,GRAPES,Fruits
+"GRAPES, WHITE SEEDLESS, 6/3 LB, CLAM SHELL",Box,GRAPES,Fruits
+"GRAPES, WHITE SEEDLESS, ORGANIC",Box,GRAPES,Fruits
+"GUAVA, 10 LB",Box,TROPICAL,Fruits
+"COLLARD GREENS, 6 CT",Box,LEAFY GREENS,Vegetables
+"COLLARD GREENS, 12 CT, PLU-STICKERED",Box,LEAFY GREENS,Vegetables
+CREECY GREENS,Box,LEAFY GREENS,Vegetables
+"KALE, 24 CT",Box,LEAFY GREENS,Vegetables
+"SALAD SAVOY, COLORED, 24 CT",Box,LEAFY GREENS,Vegetables
+WATERCRESS,Box,LEAFY GREENS,Vegetables
+MUSTARD GREENS,Box,LEAFY GREENS,Vegetables
+TURNIP GREENS,Box,LEAFY GREENS,Vegetables
+"KIWI, FLAT, 36 CT",Box,TROPICAL,Fruits
+"KIWI, BULK, VOLUME FILLED",Box,TROPICAL,Fruits
+"KIWI, 16/1 LB, CLAM SHELL",Box,TROPICAL,Fruits
+"KIWI, GOLDEN, BULK",Box,TROPICAL,Fruits
+"KUMQUATS, 12/1 PINT",Box,CITRUS,Fruits
+"LEMONS, 115 CT, CHOICE",Box,CITRUS,Fruits
+"LEMONS, 115 CT, STANDARD",Box,CITRUS,Fruits
+"LEMONS, 140 CT, CHOICE",Box,CITRUS,Fruits
+"LEMONS, 140 CT, FANCY",Box,CITRUS,Fruits
+"LEMONS, 140 CT, STANDARD",Box,CITRUS,Fruits
+"LEMONS, 165 CT, CHOICE",Box,CITRUS,Fruits
+"LEMONS, 165 CT, FANCY",Box,CITRUS,Fruits
+"LEMONS, 165 CT, STANDARD",Box,CITRUS,Fruits
+"LEMONS, 200 CT",Box,CITRUS,Fruits
+"LEMONS, 235 CT",Box,CITRUS,Fruits
+"LEMONS, 75 CT",Box,CITRUS,Fruits
+"LEMONS, 95 CT, CHOICE",Box,CITRUS,Fruits
+"LEMONS, 95 CT, FANCY",Box,CITRUS,Fruits
+"LEMONS, 95 CT, STANDARD",Box,CITRUS,Fruits
+"LEMONS, BAGGED, 18/2 LB",Box,CITRUS,Fruits
+"LEMONS, BAGGED, 12/7 CT",Box,CITRUS,Fruits
+"LEMONS, BAGGED, 12/3 LB",Box,CITRUS,Fruits
+"LEMONS, BAGGED, 10/4 LB, ORGANIC",Box,CITRUS,Fruits
+"LIMES, 40 LB BOX",Box,CITRUS,Fruits
+"LIMES, 10 LB BOX",Box,CITRUS,Fruits
+"LIMES, BAGGED, 12/3 LB",Box,CITRUS,Fruits
+"LIMES, BAGGED, 12/6 CT",Box,CITRUS,Fruits
+"KEY LIMES, BAGGED, 10/1 LB",Box,CITRUS,Fruits
+"SPRING MIX, 3/1 LB",Box,LEAFY GREENS,Vegetables
+"SPRING MIX, 2/1.5 LB",Box,LEAFY GREENS,Vegetables
+"SPRING MIX, 4/3 LB",Box,LEAFY GREENS,Vegetables
+"SPRING MIX, 5/3 LB",Box,LEAFY GREENS,Vegetables
+"SPRING MIX, 8/5 OZ, CLAMSHELL",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ARTISAN MIX, 8 LB",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ARTISAN MIX, 12/4 CT, CLAMSHELL",Box,LEAFY GREENS,Vegetables
+"ARUGULA, BABY, 4 LB",Box,LEAFY GREENS,Vegetables
+"ARUGULA, ORGANIC, 8/5 OZ",Box,LEAFY GREENS,Vegetables
+"LETTUCE, LINER, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, LINER, 30 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, FLAT-PACK, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, CELLO, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, CELLO, 30 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, CLEANED & TRIMMED, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, CELLO, 24 CT, JUMBO",Box,LEAFY GREENS,Vegetables
+"LETTUCE, CELLO, 24 CT, ORGANIC",Box,LEAFY GREENS,Vegetables
+"LETTUCE, GREEN LEAF, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, GREEN LEAF FILETS, 10 LB",Box,LEAFY GREENS,Vegetables
+"LETTUCE, RED LEAF, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, RED LEAF, 24 CT, ORGANIC",Box,LEAFY GREENS,Vegetables
+"SALAD MIX, ICEBERG, 12/1 LB, RETAIL",Box,LEAFY GREENS,Vegetables
+"SALAD MIX, ICEBERG, 4/5 LB",Box,LEAFY GREENS,Vegetables
+"SALAD MIX, ICEBERG & ROMAINE (NO COLOR), 4/5 LB",Box,LEAFY GREENS,Vegetables
+"SALAD MIX, ICEBERG & ROMAINE (COLOR SEPARATE), 4/5 LB",Box,LEAFY GREENS,Vegetables
+"SALAD MIX, ICEBERG & ROMAINE (COLOR MIXED), 4/5 LB",Box,LEAFY GREENS,Vegetables
+"SHRED LETTUCE, 1/8, 4/5 LB",Box,LEAFY GREENS,Vegetables
+"SHRED LETTUCE, 1/4, 4/5 LB",Box,LEAFY GREENS,Vegetables
+"CHOPPED ICEBERG LETTUCE, 4/5 LB",Box,LEAFY GREENS,Vegetables
+BIBB LETTUCE,Box,LEAFY GREENS,Vegetables
+BOSTON LETTUCE,Box,LEAFY GREENS,Vegetables
+"LETTUCE, ROMAINE, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ROMAINE HEARTS, 12/3 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ROMAINE HEARTS, 48 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ROMAINE CHOPPED, 6/2 LB",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ROMAINE FILETS, 10 LB",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ROMAINE HEARTS, 12/3 CT, ORGANIC",Box,LEAFY GREENS,Vegetables
+"LETTUCE, RED ROMAINE, 24 CT",Box,LEAFY GREENS,Vegetables
+"LETTUCE, ROMAINE SHRED, 6/2 LB",Box,LEAFY GREENS,Vegetables
+"LEEKS, 12 CT",Box,OTHER,Vegetables
+"LEEKS, 12 CT, ORGANIC",Box,OTHER,Vegetables
+MANGOS,Box,TROPICAL,Fruits
+"MALANGA, LILA (RED), 40 LB",Box,ROOTS,Vegetables
+"MALANGA, WHITE, 40 LB",Box,ROOTS,Vegetables
+"MUSHROOMS, SPECIAL, 3 LB",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, HONSHIMEJI",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, ENOKI, 12/3 OZ",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, WHITE, WHOLE, 12/8 OZ",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, WHITE, SLICED, 12/8 OZ",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, PORTABELLO, SLICED",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, PORTABELLO, WHOLE",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, PORTABELLO CAPS, 5 LB",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, WHITE, WHOLE, 10 LB",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, WHITE, SLICED, 10 LB",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, BABY BELLA, WHOLE, 12/8 OZ",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, BABY BELLA, SLICED, 12/8 OZ",Box,MUSHROOMS,Vegetables
+"MUSHROOMS, SHITAKE, 3 LB",Box,MUSHROOMS,Vegetables
+"HONEYDEW MELONS, 5/6 CT",Box,MELONS,Fruits
+"HONEYDEW MELONS, 24 BIN",Bin,MELONS,Fruits
+"HONEYDEW MELONS, 7/8 CT",Box,MELONS,Fruits
+"HONEYDEW MELONS, SNACK PACK, 50 / 0.5 CUP",Box,MELONS,Fruits
+CRENSHAW MELONS,Box,MELONS,Fruits
+"CANARY MELONS, 24 BIN",Bin,MELONS,Fruits
+CHARLYNS MELONS,Box,MELONS,Fruits
+ORANGE FLESH MELONS,Box,MELONS,Fruits
+SANTA CLAUS MELONS,Box,MELONS,Fruits
+"NECTARINES, WHITE, BOX",Box,STONE-FRUIT,Fruits
+"NECTARINES, WHITE, BASKET",Basket,STONE-FRUIT,Fruits
+"NECTARINES, WHITE, BAGGED, 15/2 LB",Box,STONE-FRUIT,Fruits
+"NECTARINES, YELLOW, BOX",Box,STONE-FRUIT,Fruits
+"NECTARINES, YELLOW, BASKET",Basket,STONE-FRUIT,Fruits
+"NECTARINES, YELLOW, ORGANIC",Box,STONE-FRUIT,Fruits
+"OKRA, 1/2 BUSHEL",Box,OTHER,Vegetables
+"OKRA, PACKAGED, 12/1 LB",Box,OTHER,Vegetables
+"ONIONS, OSO SWEET, 40 LB",Box,ONIONS,Vegetables
+"ONIONS, OSO SWEET, 16/3 LB",Bag,ONIONS,Vegetables
+"ONIONS, OSO SWEET, 200/3 LB",Bin,ONIONS,Vegetables
+"ONIONS, OSO SWEET, 160/4 LB",Bin,ONIONS,Vegetables
+"ONIONS, OSO SWEET, 8/5 LB",Bag,ONIONS,Vegetables
+"ONIONS, OSO SWEET, 24/2 LB",Bag,ONIONS,Vegetables
+"ONIONS, OSO SWEET, 10/4 LB",Bag,ONIONS,Vegetables
+"ONIONS, 1015 SWEET, 40 LB",Box,ONIONS,Vegetables
+"ONIONS, YELLOW, JUMBO, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, YELLOW, BOILER, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, YELLOW, COLOSSAL, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, DICED, 4/5 LB",Box,ONIONS,Vegetables
+"ONIONS, YELLOW, LARGE-MEDIUM, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, YELLOW, PREPACK, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, YELLOW, SUPER COLOSSAL, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, WHITE, JUMBO, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, WHITE, BAGGED, 12/2 LB",Box,ONIONS,Vegetables
+"ONIONS, WHITE, MEDIUM, 50 LB",Bag,ONIONS,Vegetables
+"ONIONS, PEARL WHITE, 12/1 LB",Box,ONIONS,Vegetables
+"ONIONS, YELLOW, LARGE-MEDIUM, BAGGED, 16/3 LB",Bag,ONIONS,Vegetables
+"ONIONS, YELLOW, BOILER, 16/3 LB",Bag,ONIONS,Vegetables
+"ONIONS, YELLOW, BAGGED, 16/3 LB, ORGANIC",Bag,ONIONS,Vegetables
+"ONIONS, YELLOW, PREPACK, BAGGED, 16/3 LB",Bag,ONIONS,Vegetables
+"ONIONS, PENCIL GREEN, PACKAGED, 24/5.5 OZ",Box,ONIONS,Vegetables
+"ONIONS, PENCIL GREEN, 48 CT",Box,ONIONS,Vegetables
+"ONIONS, PENCIL GREEN, ICELESS, 4/2 LB",Box,ONIONS,Vegetables
+"ONIONS, PENCIL GREEN, 48 CT, ORGANIC",Box,ONIONS,Vegetables
+"ONIONS, SC GREEN, 24 CT",Box,ONIONS,Vegetables
+"ONIONS, GREEN VIDALIA, 24 CT",Box,ONIONS,Vegetables
+"ONIONS, VIDALIA, 40 LB",Box,ONIONS,Vegetables
+"ONIONS, VIDALIA, BAGGED, 10/4 LB",Bag,ONIONS,Vegetables
+"ONIONS, VIDALIA, BAGGED, 10/5 LB",Bag,ONIONS,Vegetables
+"ONIONS, VIDALIA, BAGGED, 100/5 LB BIN",Bin,ONIONS,Vegetables
+"ONIONS, VIDALIA, BAGGED, 150/4 LB BIN",Bin,ONIONS,Vegetables
+"ONIONS, VIDALIA, BAGGED, 16/3 LB",Bag,ONIONS,Vegetables
+"ONIONS, VIDALIA, BAGGED, 5/10 LB",Bag,ONIONS,Vegetables
+"ONIONS, VIDALIA, BAGGED, 8/5 LB",Bag,ONIONS,Vegetables
+"ONIONS, VIDALIA, 50 LB BAG",Bag,ONIONS,Vegetables
+"ONIONS, RED, JUMBO, 25 LB",Bag,ONIONS,Vegetables
+"ONIONS, RED, BAGGED, 12/2 LB",Box,ONIONS,Vegetables
+"ONIONS, RED, LARGE-MEDIUM, 25 LB",Bag,ONIONS,Vegetables
+"ONIONS, WALLA WALLA, 40 LB",Box,ONIONS,Vegetables
+"ORANGES, BAGGED, 10/4 LB, FL",Box,CITRUS,Fruits
+"ORANGES, 100 CT, FL",Box,CITRUS,Fruits
+"ORANGES, 125 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 2/5 BUSHEL",Box,CITRUS,Fruits
+"ORANGES, HAMLIN, 2/5 BUSHEL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 36 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 4/10 LB",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 40 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 48 CT, FL",Box,CITRUS,Fruits
+"ORANGES, RED NAVEL, 48 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 5/8 LB, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 56 CT, FL",Box,CITRUS,Fruits
+"ORANGES, RED NAVEL, 56 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 6/8 LB, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 64 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 72 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 75/8 LB BIN, FL",Bin,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 8/5 LB, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 80 CT, FL",Box,CITRUS,Fruits
+"ORANGES, NAVEL, LOOSE, BIN",Bin,CITRUS,Fruits
+"ORANGES, TEMPLE, 80 CT",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 10/4 LB, CALF",Box,CITRUS,Fruits
+"ORANGES, 113 CT, CHOICE, CALF",Box,CITRUS,Fruits
+"ORANGES, 113 CT, FANCY, CALF",Box,CITRUS,Fruits
+"ORANGES, 138 CT, CHOICE, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 40 CT, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 48 CT, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 5/8 LB, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 56 CT, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 6/8 LB, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 64 CT, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, 72 CT, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 75/8 LB BIN, CALF",Bin,CITRUS,Fruits
+"ORANGES, NAVEL, 88 CT, CALF",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 9/3 LB",Box,CITRUS,Fruits
+"ORANGES, NAVEL, BAGGED, 10/4 LB, ORGANIC",Box,CITRUS,Fruits
+"ORANGES, SMILES SNACK PACKS, 50/3 OZ",Box,CITRUS,Fruits
+"ORANGES, CARA CARA, 48/56 CT",Box,CITRUS,Fruits
+"ORANGES, CARA CARA, BAGGED, 12/3 LB",Box,CITRUS,Fruits
+"ORANGES, CARA CARA, 2/5 BUSHEL",Box,CITRUS,Fruits
+"BLOOD ORANGES, 48/56 CT, 2/5 BOX",Box,CITRUS,Fruits
+"BLOOD ORANGES, BAGGED, 12/3 LB",Box,CITRUS,Fruits
+"PUMMELOS, 18 CT",Box,CITRUS,Fruits
+"PAPAYAS, MARADOL, 12 CT",Box,TROPICAL,Fruits
+"PAPAYAS, GOLDEN, 9 CT",Box,TROPICAL,Fruits
+"PARSLEY, CURLY, 60 CT",Box,LEAFY GREENS,Vegetables
+"PARSLEY, FLAT ITALIAN, 60 CT",Box,LEAFY GREENS,Vegetables
+"PARSNIPS, 20 LB",Bag,ROOTS,Vegetables
+"PARSNIPS, BAGGED, 12/1 LB",Box,ROOTS,Vegetables
+"SWEET POTATOES, PURPLE, #1, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, #1, RETAIL PACK, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, #1, FOOD-SERVICE PACK, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, 50/55 CT, PREMIUM, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, BIN (BIN MUST BE RETURNED)",Bin,POTATOES,Vegetables
+"SWEET POTATOES, RED, 70/80 CT, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, 85/90 CT, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, 100/110 CT, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, FINGERLING, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, JUMBO YAMS, 40 LB",Box,POTATOES,Vegetables
+"MICROWAVE SWEET POTATOES, 25 CT",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, ORGANIC, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATO SLIPS, RED, 1000 CT",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, STEAKHOUSE PACK, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, #2, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, RED, #3, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, WHITE, #1, 40 LB",Box,POTATOES,Vegetables
+"SWEET POTATOES, WHITE, BIN (BIN MUST BE RETURNED)",Bin,POTATOES,Vegetables
+"SWEET POTATO SLIPS, WHITE, 1000 CT",Box,POTATOES,Vegetables
+"SWEET POTATOES, WHITE, #2, 40 LB",Box,POTATOES,Vegetables
+"POTATOES, WHITE, BAGGED, 10/5 LB",Bag,POTATOES,Vegetables
+"POTATOES, WHITE, BAGGED, 5/10 LB",Bag,POTATOES,Vegetables
+"POTATOES, WHITE, A SIZE, 50 LB, PREMIUM",Box,POTATOES,Vegetables
+"POTATOES, WHITE, A SIZE, 50 LB BAG",Bag,POTATOES,Vegetables
+"POTATOES, WHITE, BAKER SIZE, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, WHITE, B SIZE, 50 LB, PREMIUM",Box,POTATOES,Vegetables
+"POTATOES, WHITE, B SIZE, 50 LB BAG",Bag,POTATOES,Vegetables
+"POTATOES, WHITE, C SIZE, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, WHITE, CHEF, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, RUSSET, #2, 10 OZ MINIMUM, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, BAGGED, 10/5 LB",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, KROGER, 10/5 LB (REMOVE KROGER LABEL)",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, 100 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, #2, 100/10 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, #1, 100/10 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, #1, 100/10 LB, MESH BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, 120 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, JUMBO RUSSETS, 125/15 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, 125/8 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, JUMBO RUSSETS, 150/15 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, A SIZE RUSSETS, 150/15 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, 20 LB",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, #1, 225/10 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, #2, 225/10 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, 40 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, BAGGED, 5/10 LB",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, KROGER, 5/10 LB (REMOVE KROGER LABEL)",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, 50 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, JUMBO RUSSETS, BAGGED, 6/8 LB",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, KROGER, 6/8 LB (REMOVE KROGER LABEL)",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, 60 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, 60/10 LB, MESH BAGS",Bin,POTATOES,Vegetables
+"POTATOES, RUSSETS, 70 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, 70 SIZE, 30 LB DISPLAY BOX",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, 70 CT, DOUBLE-GRADED, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, 80 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, 90 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, #1, A SIZE, 50 LB",Bag,POTATOES,Vegetables
+"MICROWAVE RUSSETS, 50/55 CT",Box,POTATOES,Vegetables
+"MICROWAVE RUSSETS, 30 CT, KROGER",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, #2, A SIZE, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, RUSSETS, 18/3 CT TRAYS",Box,POTATOES,Vegetables
+"POTATOES, RUSSETS, 12/4 CT TRAYS",Box,POTATOES,Vegetables
+"POTATOES, RED, BAGGED, 10/5 LB",Bag,POTATOES,Vegetables
+"POTATOES, RED, BAGGED, 12/3 LB",Box,POTATOES,Vegetables
+"POTATOES, RED, BAGGED, 5/10 LB",Bag,POTATOES,Vegetables
+"POTATOES, RED, #2, A SIZE, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, RED, PREMIUM, A SIZE, 50 LB BOX",Box,POTATOES,Vegetables
+"POTATOES, RED, #1, A SIZE, 50 LB BAG",Bag,POTATOES,Vegetables
+"POTATOES, RED, #2, B SIZE, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, RED, PREMIUM, B SIZE, 50 LB BOX",Box,POTATOES,Vegetables
+"POTATOES, RED, #1, B SIZE, 50 LB BAG",Bag,POTATOES,Vegetables
+"POTATOES, RED, C SIZE, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, RED, CHEF, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, YUKON GOLD, BAGGED, 10/5 LB",Bag,POTATOES,Vegetables
+"POTATOES, YUKON GOLD, #2, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, YUKON GOLD, A SIZE, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, YUKON GOLD, B SIZE, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, YUKON GOLD, CHEF, 50 LB",Bag,POTATOES,Vegetables
+"POTATOES, FINGERLING",Box,POTATOES,Vegetables
+"POTATOES, IDAHO, BAGGED, 10/5 LB",Bag,POTATOES,Vegetables
+"POTATOES, IDAHO BAKERS, 100 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, IDAHO, #1, 100/10 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, JUMBO IDAHO, 125/15 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, IDAHO, #1, 200/10 LB, POLY BAGS",Bin,POTATOES,Vegetables
+"POTATOES, IDAHO BAKERS, 40 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, IDAHO, BAGGED, 5/10 LB",Bag,POTATOES,Vegetables
+"POTATOES, IDAHO BAKERS, 50 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, JUMBO IDAHO, 6/8 LB, POLY BAGS",Bag,POTATOES,Vegetables
+"POTATOES, IDAHO BAKERS, 60 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, IDAHO BAKERS, 70 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, IDAHO BAKERS, 80 CT, 50 LB",Box,POTATOES,Vegetables
+"POTATOES, IDAHO BAKERS, 90 CT, 50 LB",Box,POTATOES,Vegetables
+"PEARS, D'ANJOU, 100 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 110 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, BAGGED, 12/3 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 120 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 135 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 50 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 60 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 70 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 80 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, 90 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, D'ANJOU, ORGANIC",Box,PEARS,Fruits
+"PEARS, BARTLETT, 100 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 110 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 120 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 135 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 50 CT, 22 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 60 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 70 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 80 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, 90 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, ORGANIC",Box,PEARS,Fruits
+"PEARS, BOSC, 100 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BOSC, 110 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BOSC, 120 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BOSC, 60 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BOSC, 70 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BOSC, 80 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BOSC, 90 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, BARTLETT, ORGANIC",Box,PEARS,Fruits
+"PEARS, PACKHAM, 100 CT",Box,PEARS,Fruits
+"PEARS, PACKHAM, 70 CT",Box,PEARS,Fruits
+"PEARS, PACKHAM, 80 CT",Box,PEARS,Fruits
+"PEARS, PACKHAM, 90 CT",Box,PEARS,Fruits
+"PEARS, ASIAN, 36/48 CT",Box,PEARS,Fruits
+"PEARS, ASIAN HOSUI",Box,PEARS,Fruits
+"PEARS, CACTUS",Box,PEARS,Fruits
+"PEARS, COMICE",Box,PEARS,Fruits
+"PEARS, FORELLE, 22 LB",Box,PEARS,Fruits
+"PEARS, RED, 22 LB",Box,PEARS,Fruits
+"PEARS, RED, 135 CT, 44 LB",Box,PEARS,Fruits
+"PEARS, SECKEL, 22 LB",Box,PEARS,Fruits
+"PEARS, CHINESE YA, 44 LB",Box,PEARS,Fruits
+"PERSIMMONS, FUYU",Box,TROPICAL,Fruits
+"PERSIMMONS, HACHIYA",Box,TROPICAL,Fruits
+QUINCE,Box,TROPICAL,Fruits
+"SUGAR SNAP PEAS, 10 LB",Box,BEANS,Vegetables
+"SUGAR SNAP PEAS, 1/2 BUSHEL",Box,BEANS,Vegetables
+"SUGAR SNAP PEAS SNACK PACK, 50 / 0.5 CUP",Box,BEANS,Vegetables
+"SNO PEAS, 10 LB",Box,BEANS,Vegetables
+ENGLISH PEAS,Box,BEANS,Vegetables
+PURPLE HULL CROWDER PEAS,Bag,BEANS,Vegetables
+"PEACHES, WHITE, 1/2 BUSHEL BASKET",Basket,STONE-FRUIT,Fruits
+"PEACHES, WHITE, LOCAL, 1/2 BUSHEL BOX",Box,STONE-FRUIT,Fruits
+"PEACHES, WHITE, ORGANIC",Box,STONE-FRUIT,Fruits
+"PEACHES, INDIAN, 1/2 BUSHEL",Box,STONE-FRUIT,Fruits
+"PEACHES, YELLOW, 1/2 BUSHEL BASKET",Basket,STONE-FRUIT,Fruits
+"PEACHES, YELLOW, TRAY PACK, CHILE",Box,STONE-FRUIT,Fruits
+"PEACHES, YELLOW, LOCAL, 1/2 BUSHEL BOX",Box,STONE-FRUIT,Fruits
+"PEACHES, YELLOW, 25 LB, CALF",Box,STONE-FRUIT,Fruits
+"PEACHES, YELLOW, #2",Box,STONE-FRUIT,Fruits
+"PEPPERS, GREEN, #2, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, GREEN, CHOPPER, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, GREEN, JUMBO, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, SUNTAN, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, GREEN, XL, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, RED, IMPORTED, 11 LB",Box,PEPPERS,Vegetables
+"PEPPERS, RED, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, RED, XL, 15 LB BOX",Box,PEPPERS,Vegetables
+"PEPPERS, RED, #2",Box,PEPPERS,Vegetables
+"PEPPERS, BANANA, 1/2 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, ANAHEIM, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, CUBANELLE, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, CARIBE",Box,PEPPERS,Vegetables
+"PEPPERS, GUAJILLO DRIED, 25 LB ",Box,PEPPERS,Vegetables
+"PEPPERS, HABANERO, LOOSE, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, HUNGARIAN WAX, 10 LB",Box,PEPPERS,Vegetables
+"PEPPERS, IVORY (WHITE), 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, JALEPENO, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, MINI SWEET, 12/1 LB BAGS",Box,PEPPERS,Vegetables
+"PEPPERS, ORANGE, IMPORTED, 11 LB",Box,PEPPERS,Vegetables
+"PEPPERS, POBLANO, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, PURPLE, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, RAINBOW, 8/3 PACK",Box,PEPPERS,Vegetables
+"PEPPERS, SERRANO, 1 1/9 BUSHEL",Box,PEPPERS,Vegetables
+"PEPPERS, STOP-LIGHT, 12/3 PACK",Box,PEPPERS,Vegetables
+"PEPPERS, YELLOW, IMPORTED, 11 LB",Box,PEPPERS,Vegetables
+"PINEAPPLES, GOLDEN RIPE, 5 CT",Box,TROPICAL,Fruits
+"PINEAPPLES, GOLDEN RIPE, 6 CT",Box,TROPICAL,Fruits
+"PINEAPPLES, GOLDEN RIPE, 7 CT",Box,TROPICAL,Fruits
+"PINEAPPLES, GOLDEN RIPE, 8 CT",Box,TROPICAL,Fruits
+"PINEAPPLES, GOLDEN RIPE, PREMIUM",Box,TROPICAL,Fruits
+"PINEAPPLES, GOLDEN RIPE, BIN",Bin,TROPICAL,Fruits
+"PINEAPPLES, CROWNLESS",Box,TROPICAL,Fruits
+"PINEAPPLES, ORGANIC",Box,TROPICAL,Fruits
+"PINEAPPLE SNACK PACKS, 50 / 0.5 CUP",Box,TROPICAL,Fruits
+POMEGRANATES,Box,TROPICAL,Fruits
+"POMEGRANATES, ORGANIC",Box,TROPICAL,Fruits
+PASSION FRUIT,Box,TROPICAL,Fruits
+POMEGRANATE SEEDS,Box,TROPICAL,Fruits
+"PLUOTS, VOLUME FILL, 28 LB",Box,STONE-FRUIT,Fruits
+"PLUOTS, 10/1 LB, CLAM SHELL",Box,STONE-FRUIT,Fruits
+"BLACK PLUMS, PREMIUM, CALF, 25 LB",Box,STONE-FRUIT,Fruits
+"BLACK PLUMS, MEDIUM, CALF, 25 LB",Box,STONE-FRUIT,Fruits
+"BLACK PLUMS, HANDLE BASKET",Basket,STONE-FRUIT,Fruits
+"BLACK PLUMS, CHILE",Box,FALL SEASONAL,Vegetables
+"RED PLUMS, PREMIUM, CALF, 25 LB",Box,STONE-FRUIT,Fruits
+"RED PLUMS, MEDIUM, CALF, 25 LB",Box,STONE-FRUIT,Fruits
+"RED PLUMS, HANDLE BASKET",Basket,STONE-FRUIT,Fruits
+"RED PLUMS, CHILE",Box,STONE-FRUIT,Fruits
+"PUMPKINS, BIG MAC, EACH",Each,FALL SEASONAL,Vegetables
+"PUMPKINS, BUCKSKIN, 24 BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, CINDERELLA, 24 BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, FAIRYTALE, 24BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, FATSO, 24 BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, 20/29 CT, 36BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, 40/49 CT, 36 BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, 50/59 CT, 36 BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, RED WARTY, 24BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, 60 CT & SMALLER, 36 BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, WHITE LUMINA, 24 BIN",Bin,FALL SEASONAL,Vegetables
+"PUMPKINS, 30/39 CT, 36 BIN",Bin,FALL SEASONAL,Vegetables
+"MINI PUMPKINS, ORANGE, 3/4 BUSHEL",Box,FALL SEASONAL,Vegetables
+"MINI PUMPKINS, ORANGE, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"PIE PUMPKINS, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"PIE PUMPKINS, 24 BIN",Bin,FALL SEASONAL,Vegetables
+"MINI PUMPKINS, WHITE (BABY BOOS), 3/4 BUSHEL",Box,FALL SEASONAL,Vegetables
+"RADISHES, 30/6 OZ",Box,ROOTS,Vegetables
+"RADISHES, 14/1 LB",Box,ROOTS,Vegetables
+DAIKON RADISH,Box,ROOTS,Vegetables
+"RADISHES, BUNCH WITH TOPS, 12 CT",Box,ROOTS,Vegetables
+"RADISHES, BUNCH WITH TOPS, 24 CT, ORGANIC",Box,ROOTS,Vegetables
+RADICCHIO,Box,CABBAGE,Vegetables
+"RASPBERRIES, RED, 12/6 OZ",Box,BERRIES,Fruits
+"RASPBERRIES, RED, 6/12 OZ",Box,BERRIES,Fruits
+"RASPBERRIES, GOLDEN, 12/6 OZ",Box,BERRIES,Fruits
+"RUTABAGAS, 25 LB",Box,ROOTS,Vegetables
+"RUTABAGAS, 50 LB",Box,ROOTS,Vegetables
+"RHUBARB, 20 LB",Box,OTHER,Vegetables
+"SPINACH, CELLO, 12/10 OZ",Box,LEAFY GREENS,Vegetables
+"SPINACH, CELLO, 4/2.5 LB",Box,LEAFY GREENS,Vegetables
+"SPINACH, BABY, 8/11 OZ",Box,LEAFY GREENS,Vegetables
+"SPINACH, CELLO, 16/1 LB",Box,LEAFY GREENS,Vegetables
+"SPINACH, BABY, BULK, 4 LB",Box,LEAFY GREENS,Vegetables
+"SPINACH, BUNCH, ORGANIC",Box,LEAFY GREENS,Vegetables
+"STAR FRUIT, 25 CT",Box,TROPICAL,Fruits
+"GLAZE, STRAWBERRY, 24/16 OZ",Box,,"Wick's Pie Glaze"
+"GLAZE, BLUEBERRY, 24/16 OZ",Box,,"Wick's Pie Glaze"
+"GLAZE, PEACH, 24/16 OZ",Box,,"Wick's Pie Glaze"
+"GLAZE, STRAWBERRY (SUGAR-FREE), 24/16 OZ",Box,,"Wick's Pie Glaze"
+"STRAWBERRIES, FLORIDA, 8/1 LB",Box,BERRIES,Fruits
+"STRAWBERRIES, CALF, 8/1 LB",Box,BERRIES,Fruits
+"STRAWBERRIES, DRISCOLL, 8/1 LB",Box,BERRIES,Fruits
+"STRAWBERRIES, NORTH CAROLINA, 8/1 LB",Box,BERRIES,Fruits
+"STRAWBERRIES, 12/1 PINT",Box,BERRIES,Fruits
+"STRAWBERRIES, CALF, 9/1 LB",Box,BERRIES,Fruits
+"STRAWBERRIES, 8 QUART",Box,BERRIES,Fruits
+"STRAWBERRIES, 4/2 LB",Box,BERRIES,Fruits
+"STRAWBERRIES, 3/4 LB",Box,BERRIES,Fruits
+"STRAWBERRIES, LONG-STEM, 4/12CT",Box,BERRIES,Fruits
+"STRAWBERRIES, ORGANIC, 8/1 LB",Box,BERRIES,Fruits
+"SQUASH, YELLOW, FANCY, 3/4 BUSHEL",Box,SQUASH,Vegetables
+"SQUASH, YELLOW, FANCY, 1/2 BUSHEL",Box,SQUASH,Vegetables
+"SQUASH, YELLOW, BABY SUNBURST, 5 LB",Box,SQUASH,Vegetables
+"SQUASH, YELLOW, ORGANIC",Box,SQUASH,Vegetables
+"SQUASH, YELLOW, CHOICE, 3/4 BUSHEL",Box,SQUASH,Vegetables
+"SQUASH, YELLOW, CHOICE, 1/2 BUSHEL",Box,SQUASH,Vegetables
+"SQUASH, CALABACITA, 1 1/9 BUSHEL",Box,SQUASH,Vegetables
+"SQUASH, BUTTERCUP",Box,SQUASH,Vegetables
+"SQUASH, GREEN, FANCY, 1/2 BUSHEL",Box,SQUASH,Vegetables
+"SQUASH, GREEN, BABY, 5 LB",Box,SQUASH,Vegetables
+"SQUASH, GREEN, ORGANIC",Box,SQUASH,Vegetables
+"SQUASH, GREEN, CHOICE, 1/2 BUSHEL",Box,SQUASH,Vegetables
+"SQUASH, BUTTERNUT, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, BUTTERNUT, 24 BIN",Bin,FALL SEASONAL,Vegetables
+"SQUASH, CHAYOTE, 24 CT",Box,SQUASH,Vegetables
+"SQUASH, CHAYOTE, 40 LB",Box,SQUASH,Vegetables
+"SQUASH, CARNIVAL, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, CELEBRATION, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, DELICATA, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, GREEN ACORN, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, GREEN ACORN, 24 BIN",Bin,FALL SEASONAL,Vegetables
+"SQUASH, GOLDEN ACORN, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, HUBBARD, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, PATTI-PAN",Box,FALL SEASONAL,Vegetables
+"SQUASH, SPAGHETTI, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, SWEET DUMPLING, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, TURBAN, 1 1/9 BUSHEL",Box,FALL SEASONAL,Vegetables
+"SQUASH, TURBAN, 24BIN",Bin,FALL SEASONAL,Vegetables
+"TANGELOS, BAGGED, 10/4 LB",Box,CITRUS,Fruits
+"TANGELOS, 100 CT",Box,CITRUS,Fruits
+"TANGELOS, 125 CT",Box,CITRUS,Fruits
+"TANGELOS, 2/5 BUSHEL",Box,CITRUS,Fruits
+"TANGELOS, 64 CT",Box,CITRUS,Fruits
+"TANGELOS, 80 CT",Box,CITRUS,Fruits
+"MINNEOLA TANGELOS, 45 CT, 2/5 BOX",Box,CITRUS,Fruits
+"MINNEOLA TANGELOS, 100 CT",Box,CITRUS,Fruits
+"MINNEOLA TANGELOS, BAGGED, 10/4 LB",Box,CITRUS,Fruits
+"MINNEOLA TANGELOS, FL HONEY BELLS, 48 CT",Box,CITRUS,Fruits
+"MINNEOLA TANGELOS, FL HONEY BELLS, 56 CT",Box,CITRUS,Fruits
+"MINNEOLA TANGELOS, FL HONEY BELLS, 64 CT",Box,CITRUS,Fruits
+"MINNEOLA TANGELOS, 80 CT",Box,CITRUS,Fruits
+"TANGERINES, SUNBURST, 100 CT",Box,CITRUS,Fruits
+"TANGERINES, BAGGED, 12/3 LB, FALL GLO",Box,CITRUS,Fruits
+"TANGERINES, BAGGED, 12/3 LB, SUNBURST",Box,CITRUS,Fruits
+"TANGERINES, SUNBURST, 120 CT",Box,CITRUS,Fruits
+"TANGERINES, FALL GLO, 120 CT",Box,CITRUS,Fruits
+"TANGERINES, HONEY, 120 CT",Box,CITRUS,Fruits
+"TANGERINES, ROBINSON, 120 CT",Box,CITRUS,Fruits
+"TANGERINES, SUNBURST, 150 CT",Box,CITRUS,Fruits
+"TANGERINES, FALL GLO, 150 CT",Box,CITRUS,Fruits
+"TANGERINES, HONEY, 150 CT",Box,CITRUS,Fruits
+"TANGERINES, SUNBURST, 180 CT",Box,CITRUS,Fruits
+"TANGERINES, SUNBURST, 2/5 BUSHEL",Box,CITRUS,Fruits
+"TANGERINES, SUNBURST, 64 CT",Box,CITRUS,Fruits
+"TANGERINES, SUNBURST, 80 CT",Box,CITRUS,Fruits
+"TANGERINES, FALL GLO, 80 CT",Box,CITRUS,Fruits
+"TANGERINES, HONEY, 80 CT",Box,CITRUS,Fruits
+"LEE CITRUS, 100 CT",Box,CITRUS,Fruits
+"LEE CITRUS, 120 CT",Box,CITRUS,Fruits
+"LEE CITRUS, 64 CT",Box,CITRUS,Fruits
+"LEE CITRUS, 80 CT",Box,CITRUS,Fruits
+"PONKANS, 64 CT",Box,CITRUS,Fruits
+"PONKANS, 80 CT",Box,CITRUS,Fruits
+"CLEMENTINES, BAGGED, 10/3 LB",Box,CITRUS,Fruits
+"CLEMENTINES, BAGGED, 15/2 LB",Box,CITRUS,Fruits
+"CLEMENTINES, MURCOTTS, 60 CT, 2/5 BUSHEL",Box,CITRUS,Fruits
+"CLEMENTINES, 4/5 LB BOXES",Box,CITRUS,Fruits
+"TOFU, BLUE, 1 LB",Box,OTHER,Vegetables
+"TOFU, FIRM, 12/14 OZ",Box,OTHER,Vegetables
+"TOMATOES, 6x7, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, 6x6, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, 5x6, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, JUMBO, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, #2, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, ROMAS, #2, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, BEEFSTEAK, 15 LB",Box,TOMATOES,Fruits
+"TOMATOES, BEEFSTEAK, 12/2 CT, PACKAGED",Box,TOMATOES,Fruits
+"TOMATOES, NC HOMEGROWN, BUSHEL BASKET",Basket,TOMATOES,Fruits
+"TOMATOES, NC HOMEGROWN, 25 LB BOX",Box,TOMATOES,Fruits
+"TOMATOES, BEEFSTEAK, BABY, 15 LB",Box,TOMATOES,Fruits
+"TOMATOES, GREEN, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, GREEN, BEEFSTEAK, 15 LB",Box,TOMATOES,Fruits
+"TOMATOES, GERMAN PINK, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, GERMAN PINK, 10 LB",Box,TOMATOES,Fruits
+"TOMATOES, GERMAN PINK, BUSHEL BASKET",Basket,TOMATOES,Fruits
+"TOMATOES, PURPLE, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, PURPLE, BUSHEL BASKET",Basket,TOMATOES,Fruits
+"TOMATOES, STRIPEY, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, STRIPEY, BUSHEL BASKET",Basket,TOMATOES,Fruits
+"TOMATOES, HEIRLOOM, ASSORTED, 10 LB",Box,TOMATOES,Fruits
+"TOMATOES, RED ON-THE-VINE, 11 LB",Box,TOMATOES,Fruits
+"TOMATOES, RED ON-THE-VINE, 13 LB",Box,TOMATOES,Fruits
+"TOMATOES, RED COCKTAIL, 8/12 OZ",Box,TOMATOES,Fruits
+"TOMATOES, ORANGE ON-THE-VINE, 11 LB",Box,TOMATOES,Fruits
+"TOMATOES, YELLOW ON-THE-VINE, 11 LB",Box,TOMATOES,Fruits
+"TOMATOES, 3x4, 2 LAYER",Box,TOMATOES,Fruits
+"TOMATOES, 3x4, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, 4x4, 2 LAYER",Box,TOMATOES,Fruits
+"TOMATOES, 4x4, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, 4x5, 2 LAYER",Box,TOMATOES,Fruits
+"TOMATOES, 4x5, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, 5x5, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, 5x5, 2 LAYER",Box,TOMATOES,Fruits
+"TOMATOES, ROMA, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, ROMA, 9/1 LB, CLAMSHELL",Box,TOMATOES,Fruits
+"TOMATOES, ROMA, HOT HOUSE, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, YELLOW ROMA, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, CHERRY, 12/1 PINT",Box,TOMATOES,Fruits
+"TOMATOES, CHERRY, LOOSE",Box,TOMATOES,Fruits
+"TOMATOES, GRAPE, 12/1 PINT",Box,TOMATOES,Fruits
+"TOMATOES, GRAPE, BULK",Box,TOMATOES,Fruits
+"TOMATOES, GRAPE, 12/1 PINT, ORGANIC",Box,TOMATOES,Fruits
+"TOMATOES, ORANGE GRAPE, 12/1 PINT",Box,TOMATOES,Fruits
+"TOMATOES, YELLOW GRAPE, 12/1 PINT",Box,TOMATOES,Fruits
+"TOMATOES, MELODY CAMPANELLE, 12/1 PINT",Box,TOMATOES,Fruits
+"TOMATOES, 12/3 CT PACKAGED",Box,TOMATOES,Fruits
+"TOMATOES, YELLOW, 25 LB",Box,TOMATOES,Fruits
+"TOMATOES, YELLOW, 6x6",Box,TOMATOES,Fruits
+"TOMATILLOS, 35 LB",Box,TOMATOES,Fruits
+"TURNIPS, POLY, 25 LB",Bag,ROOTS,Vegetables
+"WATERMELONS, CRIMSON, LARGE, 25-34 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, CRIMSON, MEDIUM, 35-44 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, CRIMSON, SMALL, 44-54 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, CRIMSON, JUMBO, 25-34 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, CRIMSON, LARGE, 35-44 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, CRIMSON, MEDIUM, 45-54 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SANGRIA, 25-29 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SANGRIA, 30-35 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SANGRIA, 40-45 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SANGRIA, JUMBO, 25-29 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SANGRIA, LARGE, 30-39 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SANGRIA, MEDIUM, 40-49 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, JUBILEE, LARGE, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, JUBILEE, MEDIUM, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, JUBILEE, JUMBO, 20-29 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, JUBILEE, LARGE, 30-39 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, JUBILEE, MEDIUM, 40-49 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, STARBRITE, LARGE, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, STARBRITE, MEDIUM, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, STARBRITE, 25-29 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, STARBRITE, 30-35 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, STARBRITE, 40-45 CT, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SUGAR DOLLS, 45 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SUGAR DOLLS, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, ROYAL STAR, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, ROYAL STAR, 36 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SEEDLESS, 36 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SEEDLESS, 45 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SEEDLESS, 60 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, SEEDLESS, 80 CT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, YELLOW MEAT, 24 BIN",Bin,MELONS,Fruits
+"WATERMELONS, YELLOW MEAT, BOX",Box,MELONS,Fruits
+"WATERMELONS, SEEDLESS, PERSONAL, 6-8 CT, BOX",Box,MELONS,Fruits
+"WATERMELONS, SEEDLESS, 4-5 CT, BOX",Box,MELONS,Fruits
+"WATERMELONS, SEEDED, PERSONAL, 6-8 CT, BOX",Box,MELONS,Fruits
+"WATERMELONS, SEEDED, 4-5 CT, BOX",Box,MELONS,Fruits
+"APPLE BUTTER, WG WHITE, 12/1 QUART",Box,"WG WHITE JAM",Jar Goods
+"APPLE BUTTER, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"APPLE JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"APPLE BUTTER (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"APPLE PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"APPLE BUTTER (HONEY SWEET), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"APPLE SAUCE, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"APRICOT PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"APRICOT PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"BLACK RASPBERRY (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"BLACK RASPBERRY PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"BLACKBERRY PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"BLACKBERRY JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"BLACKBERRY PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"BLUEBERRY PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"BLUEBERRY PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"CHERRY PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"CHERRY BUTTER, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"CHERRY PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"CURRANT JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"DAMSON PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"DAMSON PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"ELDERBERRY PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"FIG PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"GRAPE JELLY (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"GRAPE JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"3 PEPPER JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"HOT PEPPER JELLY (GREEN), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"HOT PEPPER JELLY (RED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"MINT JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"3 PEPPER LEMON JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"ORANGE MARMALADE (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"ORANGE MARMALADE, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PEACH PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PEACH BUTTER, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PEACH PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PEAR BUTTER (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PEAR BUTTER, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PEAR PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PINEAPPLE PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PUMPKIN BUTTER (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"PUMPKIN BUTTER, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"QUINCE JELLY, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"RED RASPBERRY PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"RED RASPBERRY PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"STRAWBERRY PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"STRAWBERRY PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"STRAWBERRY/RHUBARB PRESERVES (NO SUGAR ADDED), WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"STRAWBERRY/RHUBARB PRESERVES, WG WHITE, 12/1 PINT",Box,"WG WHITE JAM",Jar Goods
+"STRAWBERRY BUTTER, WG WHITE, 12/1 PINT.",Box,"WG WHITE JAM",Jar Goods
+"CENTERS & ENDS HAM, 20 PACKS, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"BISCUIT SLICE HAM, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"BIG SLAB SIDE MEAT, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"BIG CHUNK SIDE MEAT, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"CHUNK SIDE MEAT, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"SLICED SIDE MEAT, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"RED CHEESE, PREPACK, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"WHOLE HAM HOCKS, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"BUTT PORTIONS MEAT, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"HAM BITS, ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"CENTER CUT HAM (BONE OUT), ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"THICK CENTER CUT HAM (BONE IN), ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"CENTER CUT HAM (BONE IN), ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+"CENTER CUT HAM (BONE OUT), ALEXANDER'S",Case,"ALEXANDER'S BRAND",Meats & Cheeses
+1/2 BUSHEL BASKET,Each,Basket,Product Packaging Supplies
+1/2 BUSHEL BASKET COVER,Each,Basket,Product Packaging Supplies
+1 BUSHEL BASKET,Each,Basket,Product Packaging Supplies
+1 BUSHEL BASKET COVER,Each,Basket,Product Packaging Supplies
+DISPLAY BASKET,Each,Basket,Product Packaging Supplies
+1/2 PECK HANDLE BASKET (50 PER CASE),Each,Basket,Product Packaging Supplies
+1 PECK HANDLE BASKET (50 PER CASE),Each,Basket,Product Packaging Supplies
+1 PECK NATURAL HANDLE BASKET (50 PER CASE),Each,Basket,Product Packaging Supplies
+16 QUART NATURAL BASKET,Each,Basket,Product Packaging Supplies
+16 QUART COLOR BASKET,Each,Basket,Product Packaging Supplies
+8 QUART NATURAL BASKET,Each,Basket,Product Packaging Supplies
+8 QUART COLOR BASKET,Each,Basket,Product Packaging Supplies
+4 QUART NATURAL BASKET,Each,Basket,Product Packaging Supplies
+4 QUART COLOR BASKET,Each,Basket,Product Packaging Supplies
+"10 ROUND BAMBOO BOWL",Each,Basket,Product Packaging Supplies
+"12 ROUND BAMBOO BOWL",Each,Basket,Product Packaging Supplies
+"8 SQUARE RED/GREEN BASKET",Each,Basket,Product Packaging Supplies
+"10 SQUARE RED/GREEN BASKET",Each,Basket,Product Packaging Supplies
+"1 PECK PAPER APPLE BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1/2 PECK PAPER APPLE BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1/2 BUSHEL PAPER APPLE BAGS, 250 CT",Box,BagS,Product Packaging Supplies
+"1 PECK PAPER PEACH BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1/4 PECK PAPER PEACH BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1/2 PECK PAPER PEACH BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1/2 PECK PAPER VEGETABLE BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1 PECK PAPER VEGETABLE BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1/2 PECK PLASTIC DRAWSTRING APPLE BAGS, 1000 CT",Box,BagS,Product Packaging Supplies
+"1 PECK PLASTIC DRAWSTRING APPLE BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"1/2 BUSHEL PLASTIC DRAWSTRING APPLE BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"CANDY BAGS, 4x2x12, 1000 CT",Box,BagS,Product Packaging Supplies
+TWIST TIES,Box,BagS,Product Packaging Supplies
+"SEAL-TOP BAGS, 4x6, 10/100 CT",Box,BagS,Product Packaging Supplies
+"SEAL-TOP BAGS, 5x8, 10/100 CT",Box,BagS,Product Packaging Supplies
+"SEAL-TOP BAGS, 6x6, 10/100 CT",Box,BagS,Product Packaging Supplies
+"POLY BAGS, 12x8x20, 500 CT",Box,BagS,Product Packaging Supplies
+"POLY BAGS, 12x8x24, 500 CT",Box,BagS,Product Packaging Supplies
+"ONION BAGS, MESH, 25 LB",Each,BagS,Product Packaging Supplies
+"ONION BAGS, MESH, 10 LB",Each,BagS,Product Packaging Supplies
+"ONION BAGS, MESH, 50 LB",Each,BagS,Product Packaging Supplies
+"ONION BAGS, PLASTIC, 3 LB, 1000 CT",Box,BagS,Product Packaging Supplies
+"POTATO BAGS, 5 LB, 1000 CT",Box,BagS,Product Packaging Supplies
+"POTATO BAGS, COLONY, 50 LB ",Each,BagS,Product Packaging Supplies
+"POTATO BAGS, 10 LB, 1000 CT",Box,BagS,Product Packaging Supplies
+"POTATO BAGS, WOOD'S PRODUCE, 50 LB",Each,BagS,Product Packaging Supplies
+"POTATO BAGS, 20 LB, 500 CT",Each,BagS,Product Packaging Supplies
+"EMPTY BALE BAGS, 5/10 LB",Each,BagS,Product Packaging Supplies
+"EMPTY BALE BAGS, 10/5 LB",Each,BagS,Product Packaging Supplies
+"CELERY BAGS, 1000 CT",Box,BagS,Product Packaging Supplies
+"LETTUCE BAGS, 1000 CT",Box,BagS,Product Packaging Supplies
+"ORANGE BAGS, 1/4 BUSHEL",Each,BagS,Product Packaging Supplies
+"CABBAGE BAGS, NEW, 1000 CT BALE",Each,BagS,Product Packaging Supplies
+"CABBAGE BAGS, USED",Each,BagS,Product Packaging Supplies
+"1/6 T-SHIRT BAGS, 1000 CT",Box,BagS,Product Packaging Supplies
+"WHITE MIDGET TOTE BAG, 2 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"WHITE JUNIOR TOTE BAG, 2 LB, 500 CT",Box,BagS,Product Packaging Supplies
+20 LB T-SHIRT BAGS,Box,BagS,Product Packaging Supplies
+"RED MESH VEXAR BAGS, 3 LB, 4/250 CT",Box,BagS,Product Packaging Supplies
+"RED MESH VEXAR BAGS, 5 LB, 4/250 CT",Box,BagS,Product Packaging Supplies
+"PLASTIC ROLL BAGS, 12 x 17, 2/2000 CT",Box,BagS,Product Packaging Supplies
+12 LB T-SHIRT BAGS,Box,BagS,Product Packaging Supplies
+"PRODUCE ROLL BAGS, 12 x 20, 4 ROLLS",Box,BagS,Product Packaging Supplies
+"PRODUCE ROLL BAGS, 10 x 15, 4 ROLLS",Box,BagS,Product Packaging Supplies
+"BROWN PAPER BAGS, 8 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"BROWN PAPER BAGS, 4 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"BROWN PAPER BAGS, 12 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"BROWN PAPER BAGS, 6 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"BROWN PAPER BAGS, 10 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"BROWN PAPER BAGS, 2 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"KRAFT BAGS, 16 LB",Box,BagS,Product Packaging Supplies
+"KRAFT SHORTY BAGS, 25 LB, 2/250 CT",Box,BagS,Product Packaging Supplies
+"KRAFT HUSKY BAGS, 20 LB, 250 CT",Box,BagS,Product Packaging Supplies
+"KRAFT SHORTY BAGS, 20 LB, 250 CT",Box,BagS,Product Packaging Supplies
+"1/6 KRAFT BAGS, 57 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"1/6 KRAFT BAGS, 70 LB, 500 CT",Box,BagS,Product Packaging Supplies
+"40/40 KRAFT DOUBLE BAGS, 400  CT",Box,BagS,Product Packaging Supplies
+"1 QUART KRAFT LIQUOR BAGS, 500 CT",Box,BagS,Product Packaging Supplies
+"24 NEW CANTALOUPE BINS, KRAFT, 40 PER BUNDLE",Each,BinS,Product Packaging Supplies
+"VENTED BIN LIDS, KRAFT",Each,BinS,Product Packaging Supplies
+"36 NEW PUMPKIN BINS, 40 PER BUNDLE",Each,BinS,Product Packaging Supplies
+"USED BINS, 24",Each,BinS,Product Packaging Supplies
+"USED BINS, 36",Each,BinS,Product Packaging Supplies
+WOODEN DISPLAY BINS,Each,BinS,Product Packaging Supplies
+"24 NEW WATERMELON BINS, 42 PER BUNDLE",Each,BinS,Product Packaging Supplies
+"36 NEW WATERMELON BINS, 42 PER BUNDLE",Each,BinS,Product Packaging Supplies
+"3.5 BOWS, BW35M-001",Box,OTHER,Product Packaging Supplies
+"4.5 BOWS, 18 L BW45M-100",Box,OTHER,Product Packaging Supplies
+"WAXED TISSUE SHEETS, 4 x 5, 4000 CT",Box,OTHER,Product Packaging Supplies
+"CABBAGE CARTONS, NEW, 50 LB",Each,BoxES,Product Packaging Supplies
+"TOMATO BOXES, USED, 25 LB",Each,BoxES,Product Packaging Supplies
+"BANANA BOXES, USED, 40 LB",Each,BoxES,Product Packaging Supplies
+"WIRE BOXES, USED",Each,BoxES,Product Packaging Supplies
+"APPLE BOXES, 1 BUSHEL, NEW",Each,BoxES,Product Packaging Supplies
+"TOMATO BOXES, BOTTOMS, NEW, 25 LB, 320 PER BUNDLE",Each,BoxES,Product Packaging Supplies
+"TOMATO BOXES, PADS, NEW, 3000 PER BUNDLE",Each,BoxES,Product Packaging Supplies
+"TOMATO BOXES, LIDS, NEW, 1400 PER BUNDLE",Each,BoxES,Product Packaging Supplies
+"POTATO BOXES, NEW, 2-PIECE",Each,BoxES,Product Packaging Supplies
+"SWEET POTATO BOXES, NEW",Each,BoxES,Product Packaging Supplies
+"PINT CLAMSHELLS, 480 PER CASE",Box,BoxES,Product Packaging Supplies
+CLAMSHELL MASTERS,Each,BoxES,Product Packaging Supplies
+"1 1/9 BUSHEL WAX BOXES, NEW",Each,BoxES,Product Packaging Supplies
+"1/2 BUSHEL PEACH BOXES, NEW, 540 PER BUNDLE",Each,BoxES,Product Packaging Supplies
+"1/2 BUSHEL SQUASH BOXES, NEW, 540 PER BUNDLE",Each,BoxES,Product Packaging Supplies
+"3/4 BUSHEL SQUASH BOXES, NEW",Each,BoxES,Product Packaging Supplies
+"CORN CRATES, USED",Each,BoxES,Product Packaging Supplies
+"PEACH BASKETS, USED",Each,BoxES,Product Packaging Supplies
+"BONE SUCKIN' SAUCE, BEEF JERKY, 2 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, REGULAR, 12/16 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, REGULAR THICK, 12/16 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, HOT, 12/16 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, HOT THICK, 12/16 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, HOT HABANERO, 12/5 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, YAKI, 12/13.25 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, BIG CHUNK SALSA, 12/16 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, HOT BIG CHUNK SALSA, 12/16 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, SWEET/HOT MUSTARD, 12/12 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, REGULAR THICK, 6 / 0.5 GALLON",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, REGULAR, 6 / 0.5 GALLON",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, REGULAR, 4/1 GALLON",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, REGULAR MUSTARD, 12/12 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, SEASONING RUB, 12/5.8 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, POULTRY SEASONING RUB, 12/5.8 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"BONE SUCKIN' SAUCE, HOT SEASONING RUB, 12/5.8 OZ",Box,"BONE SUCKIN' SAUCE BBQ",Jar Goods
+"SQUIRREL NUT ZIPPERS, 30 LB",Case,SUGAR,Candy
+"PEANUT BUTTER BARS, 30 LB",Case,SUGAR,Candy
+"PEANUT SQUARES, 1/2 DIPPED, 15 LB",Case,SUGAR,Candy
+"PEANUT SQUARES, 30 LB",Case,SUGAR,Candy
+"HONEY COMB PEANUTS, 30 LB",Case,SUGAR,Candy
+"PEANUT BRITTLE, 15 LB",Case,SUGAR,Candy
+"BIT O HONEY, 30 LB",Case,SUGAR,Candy
+"ZAGNUT, 30 LB",Case,SUGAR,Candy
+"CHIC-O-STICK, 30 LB",Case,SUGAR,Candy
+"MARY JANE CANDY, 30 LB",Case,SUGAR,Candy
+"CARAMEL SQUARES, 20 LB",Case,SUGAR,Candy
+"MAPLE NUT GOODIES, 28 LB",Case,SUGAR,Candy
+"ASSORTED COUNTRY TIME LEMONADE SOURS, 10 LB",Case,SUGAR,Candy
+"NOW & LATER CANDY, 40 LB",Case,SUGAR,Candy
+"ASSORTED COCONUT BON-BONS, 20 LB",Case,SUGAR,Candy
+"CHOCOLATE COCONUT TIPS, 22 LB",Case,SUGAR,Candy
+"CARAMEL-CHOCOLATE COCONUT TIPS, 22 LB",Case,SUGAR,Candy
+"CHOCOLATE / VANILLA / CARAMEL TIPS, 25 LB",Case,SUGAR,Candy
+"APRICOT JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"ASSORTED BUBBLE GUM, 300 PIECES",Bucket,SUGAR,Candy
+"SUPER BUBBLE GUM, 300 PIECES",Bucket,SUGAR,Candy
+"ATOMIC FIREBALLS, 30 LB",Case,SUGAR,Candy
+"JAW BUSTERS, 30 LB",Case,SUGAR,Candy
+"COW TAILS, 36 CT",Case,SUGAR,Candy
+"BB BATS, 100 CT",Case,SUGAR,Candy
+"KITS, 100 CT",Case,SUGAR,Candy
+"SMARTIES, 40 LB",Case,SUGAR,Candy
+"ROCK CANDY, SWIZZLE STICKS, 60 CT",Case,SUGAR,Candy
+"ROCK CANDY, LIME, 5 LB",Case,SUGAR,Candy
+"ROCK CANDY, GRAPE, 5 LB",Case,SUGAR,Candy
+"ROCK CANDY, CHERRY, 5 LB",Case,SUGAR,Candy
+"ROCK CANDY, WHITE, 5 LB",Case,SUGAR,Candy
+"ROCK CANDY, 24/9 OZ",Case,SUGAR,Candy
+"DOUBLE DIPPED CHOCOLATE PEANUTS, 25 LB",Case,SUGAR,Candy
+"SINGLE-DIPPED CHOCOLATE PEANUTS, 30 LB",Case,SUGAR,Candy
+"CHOCOLATE ALMONDS, 10 LB",Case,SUGAR,Candy
+"WHITE YOGURT FROSTED PRETZELS, 15 LB",Case,SUGAR,Candy
+"CHOCOLATE PRETZELS, 15 LB",Case,SUGAR,Candy
+"CHOCOLATE PEANUT CLUSTERS, 15 LB",Case,SUGAR,Candy
+"CHOCOLATE RAISINS, 30 LB",Case,SUGAR,Candy
+"BRIDGE MIX, 30 LB",Case,SUGAR,Candy
+"CHOCOLATE MALT BALLS, 20 LB",Case,SUGAR,Candy
+"PEANUT BUTTER MALT BALLS, 25 LB",Case,SUGAR,Candy
+"JUMBO CHOCOLATE MALT BALLS, 23 LB",Case,SUGAR,Candy
+"PEPPERMINT PUFFS, WRAPPED, 20 LB",Case,SUGAR,Candy
+"ASSORTED PUFFS, WRAPPED, 20 LB",Case,SUGAR,Candy
+"PEPPERMINT PUFFS, BROKEN, 24/1 LB",Case,SUGAR,Candy
+"ASSORTED PUFFS, BROKEN, 24/1 LB",Case,SUGAR,Candy
+"CANDY CORN, 30 LB",Case,SUGAR,Candy
+"CANDY PUMPKINS, 30 LB",Case,SUGAR,Candy
+"INDIAN CANDY CORN, 30 LB",Case,SUGAR,Candy
+"JELLY PUMPKINS, 30 LB",Case,SUGAR,Candy
+"FALL FESTIVAL MIX, 30 LB",Case,SUGAR,Candy
+"STARLIGHT MINTS SUNRISE, 30 LB",Case,SUGAR,Candy
+"RUNTS, ASSORTED, 30 LB",Case,SUGAR,Candy
+"BUTTERSCOTCH DISCS, 30 LB",Case,SUGAR,Candy
+"CINNAMON BUTTONS, 30 LB",Case,SUGAR,Candy
+"GUMMI BEARS, 30 LB",Case,SUGAR,Candy
+"GUMMI WORMS, 30 LB",Case,SUGAR,Candy
+"NEON GUMMI WORMS, 30 LB",Case,SUGAR,Candy
+"ORANGE SLICES, BULK, 31 LB",Case,SUGAR,Candy
+"JORDAN ALMONDS, 10 LB",Case,SUGAR,Candy
+"ASSORTED JOLLY RANCHERS, 30 LB",Case,SUGAR,Candy
+"CINNAMON BUTTONS (SUGAR-FREE), 15 LB",Case,SUGAR-FREE,Candy
+"ROOT BEER BUTTONS (SUGAR-FREE), 15 LB",Case,SUGAR-FREE,Candy
+"PEANUT BUTTER BARS (SUGAR-FREE), 15 LB",Case,SUGAR-FREE,Candy
+"CHIC-O-STICK (SUGAR-FREE), 15 LB",Case,SUGAR-FREE,Candy
+"CHOCOLATE RAISINS (SUGAR-FREE), 10 LB",Case,SUGAR-FREE,Candy
+"CHERRY BUTTONS (SUGAR-FREE), 15 LB",Case,SUGAR-FREE,Candy
+"BUTTERSCOTCH BUTTONS (SUGAR-FREE), 15 LB",Case,SUGAR-FREE,Candy
+"CHOCOLATE PEANUTS (SUGAR-FREE), 10 LB",Case,SUGAR-FREE,Candy
+"ORANGE SLICES, WRAPPED, 16 LB",Case,SUGAR,Candy
+"FRUIT SLICES, WRAPPED, 21 LB",Case,SUGAR,Candy
+"CHERRY SLICES, WRAPPED, 25 LB",Case,SUGAR,Candy
+"TOOTSIE ROLLS, 30 LB",Case,SUGAR,Candy
+"ASSORTED TOOTSIE ROLL MIDGEES, 30 LB",Case,SUGAR,Candy
+"HARD MIX, PRIMROSE, 27 LB",Case,SUGAR,Candy
+"HARD MIX, 35 LB",Case,SUGAR,Candy
+"HARD & FILLED MIX, 35 LB",Case,SUGAR,Candy
+"CUT ROCK, 35 LB",Case,SUGAR,Candy
+"HARD MIX, BAGGED, 24/9 OZ",Case,SUGAR,Candy
+"CUT ROCK, BAGGED, 24/9 OZ",Case,SUGAR,Candy
+"HARD & FILLED MIX, BAGGED, 24/9 OZ",Case,SUGAR,Candy
+"OLD FASHIONED HARD MIX, 27 LB",Case,SUGAR,Candy
+"GOETZE VANILLA & CREAM, 30 LB",Case,SUGAR,Candy
+"GOETZE CHOCOLATE & CREAM, 10 LB",Case,SUGAR,Candy
+"GOETZE STRAWBERRY & CREAM, 10 LB",Case,SUGAR,Candy
+"GOETZE APPLE & CREAM, 10 LB",Case,SUGAR,Candy
+"MILK CHOCOLATE CREAM DROPS, 30 LB",Case,SUGAR,Candy
+SLO POKE CANDY,Case,SUGAR,Candy
+"CLAEY'S WATERMELON HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S ASSORTED HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S LEMON HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S PEPPERMINT HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S HOREHOUND HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S LICORICE / ANISE HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S WILD CHERRY HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S CINNAMON HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S GREEN APPLE HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S SASSAFRAS HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S ROOT BEER HARD CANDY, 24/6 OZ",Case,SUGAR,Candy
+"CLAEY'S HOREHOUND HARD CANDY, 12/6 OZ",Case,SUGAR,Candy
+"CLAEY'S WILD CHERRY HARD CANDY, 12/6 OZ",Case,SUGAR,Candy
+"CLAEY'S SASSAFRAS HARD CANDY, 12/6 OZ",Case,SUGAR,Candy
+"RED BIRD SASSAFRAS STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BIRD LEMON STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BIRD WINTERGREEN STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BIRD CREAM PENNY STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BIRD CLOVE STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BIRD CINNAMON STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BIRD ASSORTED STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BIRD PEPPERMINT STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BAND ASSORTED STICK CANDY, 36/12 OZ",Case,SUGAR,Candy
+"RED BAND PEPPERMINT STICK CANDY, 6/12 OZ",Case,SUGAR,Candy
+"RED BAND HOREHOUND STICK CANDY, 36/16 OZ",Case,SUGAR,Candy
+"RED BAND HOREHOUND STICK CANDY, 12/16 OZ",Case,SUGAR,Candy
+"RED BAND VANILLA STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BAND WINTERGREEN STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BAND ASSORTED STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RED BAND PEPPERMINT STICK CANDY, 12/12 OZ",Case,SUGAR,Candy
+"RAISINS, 24-6-11 / 2 OZ, 144 CT",Case,SUGAR,Candy
+"CLUSTER RAISINS (SEEDLESS), 24/12 OZ",Case,SUGAR,Candy
+"TRULY FRUIT GEMS, 30 LB",Case,SUGAR,Candy
+"COCONUT FLAG, 4/10 LB",Case,SUGAR,Candy
+"CLAXTON FRUIT CAKES, 8 - 3/1 LB, 24 LB",Case,SUGAR,Candy
+"SESAME STICKS, 2/7.5 LB",Case,SUGAR,Candy
+"GARLIC SESAME STICKS, 2/7.5 LB",Case,SUGAR,Candy
+"BANANA CHIPS, 14 LB",Case,SUGAR,Candy
+"CIRCUS PEANUTS, 24/12 OZ",Case,SUGAR,Candy
+"CHERRY SLICES, BULK, 31 LB",Case,SUGAR,Candy
+"FRUIT SLICES ASSORTED, BULK, 31 LB",Case,SUGAR,Candy
+"SPICE DROPS, 30 LB",Case,SUGAR,Candy
+"GIANT JELLIES / GUM DROPS, 30 LB",Case,SUGAR,Candy
+"SOUR CHERRY BALLS, 31 LB",Case,SUGAR,Candy
+"7 x 11 FARM FRESH CARDS",Each,OTHER,Product Packaging Supplies
+"5.5 x 7 FARM FRESH CARDS",Each,OTHER,Product Packaging Supplies
+"5.5 x 7 VEGETABLE CARDS",Each,OTHER,Product Packaging Supplies
+"APPLE CIDER, 4 - 1 GALLON",Box,"MURRAY'S CIDER",Jar Goods
+"APPLE CIDER, 6 - 1/2 GALLON",Box,"MURRAY'S CIDER",Jar Goods
+"CHERRY CIDER, 4 - 1 GALLON",Box,"MURRAY'S CIDER",Jar Goods
+"CHERRY CIDER, 6 - 1/2 GALLON",Box,"MURRAY'S CIDER",Jar Goods
+"BLACKBERRY CIDER, 6 - 1/2 GALLON",Box,"MURRAY'S CIDER",Jar Goods
+"FRESH FARM CIDER, 12/64 OZ",Box,"MURRAY'S CIDER",Jar Goods
+"VANILLA WAFERS, 12/12 OZ",Case,SUGAR,Candy
+1 BUSHEL WOODEN APPLE CRATES,Each,BoxES,Product Packaging Supplies
+1/2 BUSHEL WOODEN APPLE CRATES,Each,BoxES,Product Packaging Supplies
+1/4 BUSHEL WOODEN APPLE CRATES,Each,BoxES,Product Packaging Supplies
+1/6 BUSHEL WOODEN APPLE CRATES,Each,BoxES,Product Packaging Supplies
+"APPLE JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"APPLE BUTTER, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACK BEAR JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACK CHERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACK RASPBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACK RASPBERRY (SEEDLESS) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACK RASPBERRY (SUGAR-FREE) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACK RASPBERRY (SUGAR-FREE & SEEDLESS) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACKBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACKBERRY (SEEDLESS) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLACKBERRY (SUGAR-FREE) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BLUEBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"BOYSENBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"CHERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"CRANBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"DAMSON-PLUM JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"DAMSON-PLUM (SUGAR-FREE) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"ELDERBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"FIG JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"F.R.O.G. JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"GRAPE JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"GREEN HOT PEPPER JELLY, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"RED HOT PEPPER JELLY, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"HUCKLEBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"KETCHUP, RELISH BARN, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"MUSCADINE JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"ORANGE MARMALADE, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PEACH JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PEACH BUTTER, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PEAR JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PEAR BUTTER, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PICKLED OKRA, RELISH BARN, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"LIL OL' HOT PEPPERS, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PICKLED SQUASH, RELISH BARN, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PINEAPPLE JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PINEAPPLE (SUGAR-FREE) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"PUMPKIN BUTTER, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"RED RASPBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"RED RASPBERRY (SEEDLESS) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"SCUPPERNONG JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"STRAWBERRY JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"STRAWBERRY/RHUBARB JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"STRAWBERRY (SUGAR-FREE) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"STRAWBERRY (SEEDLESS) JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"SMOKEY MOON BBQ SAUCE, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"SWEET POTATO BUTTER, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"T.O.E. JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+"TRAFFIC JAM, DUTCH KETTLE, 12/1 PINT",Box,"DUTCH KETTLE JAM",Jar Goods
+METAL DISPLAY RACKS,Each,OTHER,Product Packaging Supplies
+WOODEN DISPLAY RACKS,Each,OTHER,Product Packaging Supplies
+"BLACK-EYE PEAS, 25 LB",Bag,,Dried Beans
+"BLACK BEANS, 25 LB",Bag,,Dried Beans
+"BLACK BEANS, 100 LB",Bag,,Dried Beans
+"LARGE LIMA BEANS, 25 LB",Bag,,Dried Beans
+"WHITE BABY LIMA BEANS, 25 LB",Bag,,Dried Beans
+"GREEN BABY LIMA BEANS, 25 LB",Bag,,Dried Beans
+"RED KIDNEY BEANS, 25 LB",Bag,,Dried Beans
+"SMALL RED BEANS, 100 LB",Bag,,Dried Beans
+"SMALL RED BEANS, 25 LB",Bag,,Dried Beans
+"PINK BEANS, 25 LB",Bag,,Dried Beans
+"GREAT NORTHERN BEANS, 25 LB",Bag,,Dried Beans
+"NAVY BEANS, 25 LB",Bag,,Dried Beans
+"FIELD PEAS, 25 LB",Bag,,Dried Beans
+"PINTO BEANS, PEAK, 100 LB",Bag,,Dried Beans
+"PINTO BEANS, NORTH DAKOTA, 100 LB",Bag,,Dried Beans
+"PINTO BEANS, PEAK, 50 LB",Bag,,Dried Beans
+"PINTO BEANS, 25 LB",Bag,,Dried Beans
+"PINTO BEANS, 10 LB",Bag,,Dried Beans
+"COLORED BUTTER BEANS, 25 LB",Bag,,Dried Beans
+"ANAZAZI BEANS, 25 LB",Bag,,Dried Beans
+"ANASAZI BEANS, 50 LB",Bag,,Dried Beans
+"CANARIO BEANS, 50 LB",Bag,,Dried Beans
+"GARBANZO BEANS, 25 LB",Bag,,Dried Beans
+"BROWN LENTILS, 25 LB",Bag,,Dried Beans
+"RED LENTILS, 25 LB",Bag,,Dried Beans
+"YELLOW EYE BEANS, 25 LB",Bag,,Dried Beans
+"GREEN SPLIT PEAS, 25 LB",Bag,,Dried Beans
+"YELLOW SPLIT PEAS, 25 LB",Bag,,Dried Beans
+"WHOLE GREEN PEAS, 25 LB",Bag,,Dried Beans
+"CRANBERRY BEANS, 25 LB",Bag,,Dried Beans
+"CRANBERRY BEANS, 100 LB",Bag,,Dried Beans
+"LARGE WHITE EGGS, 30 DOZEN, CARTONS",Box,,Eggs
+"LARGE WHITE EGGS, 15 DOZEN, CARTONS",Box,,Eggs
+"LARGE BROWN EGGS, 30 DOZEN, CARTONS",Box,,Eggs
+"PRODUCE FILM, VF-71 17, #393017, PER ROLL",Box,,Eggs
+"BLACK TRAYS, #1.5, 7/16x3, #366401",Box,,Eggs
+"XL WHITE EGGS, 30 DOZEN, LOOSE",Box,,Eggs
+"LARGE BROWN EGGS, 15 DOZEN, CARTONS",Box,,Eggs
+"SEASONING CHUNKS, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"THICK 1/6 CUT CENTERS & ENDS (BONE-IN), FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"BISCUIT SLICE HAM, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"HAM HOCKS, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"SLICED HAM HOCKS, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"SLICED HOG JOWLS, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"AMISH ROLL BUTTER, 10/2 LB, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"AMISH ROLL BUTTER, 30/1 LB, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"COUNTRY BUTTER, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"CLEAR PREPACK CHEESE, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"RED PREPACK CHEESE, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"BLACK PREPACK CHEESE, FOOTHILLS",Case,"FOOTHILLS BRAND",Meats & Cheeses
+"18-9-9 FERTILIZER, WEAVER'S TRIBUTE",Bag,,Fertilizer
+"10-20-20 FERTILIZER, WEAVER'S, BULK",Bag,,Fertilizer
+"7-20-20 FERTILIZER, WEAVER'S TRIBUTE",Bag,,Fertilizer
+"10-10-10 FERTILIZER, WEAVER'S TRIBUTE",Bag,,Fertilizer
+"10-10-10 FERTILIZER, WEAVER'S GRANULAR",Bag,,Fertilizer
+"19-19-19 FERTILIZER, WEAVER'S BLEND, 50 LB",Bag,,Fertilizer
+"WEAVER'S BULK MINI BAGS, 1 TON",Bag,,Fertilizer
+"17-17-17 WEAVER'S BULK MINI BAGS, 1 TON",Bag,,Fertilizer
+"10-20-20 FERTILIZER, WEAVER'S, 50 LB",Bag,,Fertilizer
+"14-14-14 FERTILIZER, WEAVER'S TRIBUTE",Bag,,Fertilizer
+"5-10-30 FERTILIZER, WEAVER'S TRIBUTE",Bag,,Fertilizer
+AMMONIUM NITRATE 34-0-0,Bag,,Fertilizer
+RYE SEED,Bag,,Fertilizer
+5 LB SELF-RISING FLOUR,Bag,,"VA's Best Flour"
+2 LB PLAIN CORN MEAL,Bag,,"VA's Best Flour"
+2 LB WHOLE WHEAT FLOUR,Bag,,"VA's Best Flour"
+2 LB GRITS,Bag,,"VA's Best Flour"
+5 LB A-1 UNBLEACHED FLOUR,Bag,,"VA's Best Flour"
+5 LB PURE BUCKWHEAT,Bag,,"VA's Best Flour"
+2 LB RYE FLOUR,Bag,,"VA's Best Flour"
+5 LB UNBLEACHED FLOUR,Bag,,"VA's Best Flour"
+10 LB UNBLEACHED FLOUR,Bag,,"VA's Best Flour"
+5 LB RYE FLOUR,Bag,,"VA's Best Flour"
+25 LB PLAIN CORN MEAL,Bag,,"VA's Best Flour"
+5 LB PLAIN CORN MEAL,Bag,,"VA's Best Flour"
+2 LB SELF-RISING CORN MEAL,Bag,,"VA's Best Flour"
+25 LB SELF-RISING CORN MEAL,Bag,,"VA's Best Flour"
+4 LB BUCKWHEAT FLOUR,Bag,,"VA's Best Flour"
+10 LB SELF-RISING CORN MEAL,Bag,,"VA's Best Flour"
+5 LB SELF-RISING CORN MEAL,Bag,,"VA's Best Flour"
+2 LB A-1 SEASONED FLOUR,Bag,,"VA's Best Flour"
+5 LB A-1 SEASONED FLOUR,Bag,,"VA's Best Flour"
+25 LB SELF-RISING FLOUR,Bag,,"VA's Best Flour"
+25 LB SEASONED FLOUR,Bag,,"VA's Best Flour"
+2 LB SELF-RISING FLOUR,Bag,,"VA's Best Flour"
+2 LB A-1 PLAIN FLOUR,Bag,,"VA's Best Flour"
+10 LB SELF-RISING FLOUR,Bag,,"VA's Best Flour"
+5 LB BISCUIT MIX,Bag,,"VA's Best Flour"
+25 LB BISCUIT MIX,Bag,,"VA's Best Flour"
+5 LB A-1 PLAIN FLOUR,Bag,,"VA's Best Flour"
+"10 FRUIT BASKET",Each,,Fruit Baskets
+"12 PREMIUM FRUIT BASKET",Each,,Fruit Baskets
+DISPLAY FRUIT BASKET,Each,,Fruit Baskets
+1 PECK FRUIT BASKET,Each,,Fruit Baskets
+1/2 PECK FRUIT BASKET,Each,,Fruit Baskets
+1 BUSHEL FRUIT BASKET,Each,,Fruit Baskets
+OVAL FRUIT BASKET 479H,Each,,Fruit Baskets
+NUT BOWLS,Each,,Fruit Baskets
+"HOT GINGER ALE, BLENHEIM, 24 CT",Box,"BLENHEIM GINGER ALE",Jar Goods
+"REGULAR GINGER ALE, BLENHEIM, 24 CT",Box,"BLENHEIM GINGER ALE",Jar Goods
+"DIET GINGER ALE, BLENHEIM, 24 CT",Box,"BLENHEIM GINGER ALE",Jar Goods
+"QUARTSTRAINED HONEY, GUNTER'S, 12/44 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"HONEY BEARS, GUNTER'S, 12/12 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"QUART COMB HONEY, GUNTER'S, 12/44 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"SALT & PEPPER SHAKER HONEY, GUNTER'S, 24/6 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"ORANGE BLOSSOM HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"CREAMED HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"ALFALFA HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"GOLDEN HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"TUPELO HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"SAGE HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"WILDFLOWER HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"BUCKWHEAT HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"SOURWOOD HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"STARTHISTLE HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"BLUEBERRY HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"AVOCADO HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"EUCALYPTUS HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"CLOVER HONEY, GUNTER'S, 6/5 LB",Box,"GUNTER'S HONEY",Jar Goods
+"PINT COMB HONEY, GUNTER'S, 12/16 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"PINT STRAIN HONEY, GUNTER'S, 12/22 OZ",Box,"GUNTER'S HONEY",Jar Goods
+"CLOVER HONEY, GUNTER'S, 60 LB, 5 GALLON BUCKET",Box,"GUNTER'S HONEY",Jar Goods
+"BUCKWHEAT HONEY, GUNTER'S, 60 LB, 5 GALLON BUCKET",Box,"GUNTER'S HONEY",Jar Goods
+"STUFFED PEPPERS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"MILD CHOW CHOW, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"HOT CHOW CHOW, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"JALEPENO CHOW CHOW, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"WHOLE PICKLED BEETS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"SLICED PICKLED BEETS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"BREAD & BUTTER PICKLES, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"DILL PICKLES, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"GRAPE LEAF PICKLES, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"STUFFED JALEPENOS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"PICKLED JALEPENOS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"VIDALIA ONION PICKLES, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"GREEN TOMATO PICKLES, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"HOT GREEN TOMATO PICKLES, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"PICKLED OKRA, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"HOT PICKLED OKRA, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"CAYENNE PEPPERS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"JALEPENO PICKLED EGGS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"PICKLED EGGS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"HOT PICKLED EGGS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"PICKLED SQUASH, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"APPLE RELISH, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"VIDALIA ONION RELISH, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"PEPPER RELISH, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"HOT PEPPER RELISH, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"HOT PICKLED EGGS, HIATT'S, 12 / 0.5 GALLON",Box,"HIATT'S",Jar Goods
+"JALEPENO PICKLED EGGS, HIATT'S, 12 / 0.5 GALLON",Box,"HIATT'S",Jar Goods
+"PICKLED EGGS, HIATT'S, 12 / 0.5 GALLON",Box,"HIATT'S",Jar Goods
+"HOT PICKLED BRUSSEL SPROUTS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"MILD PICKLED BRUSSEL SPROUTS, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"SALT PICKLES, SPRING VALLEY, 12/1 QUART",Box,"HIATT'S",Jar Goods
+"RED PEPPER RELISH, SPRING VALLEY, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"CORN RELISH, HIATT'S, 12/1 PINT",Box,"HIATT'S",Jar Goods
+"MOONSHINE JELLY, 12 / 0.5 PINT",Box,OTHER,Jar Goods
+"MOONSHINE JELLY, 12/9 OZ",Box,OTHER,Jar Goods
+"MOONSHINE JELLY, 24/5 OZ",Box,OTHER,Jar Goods
+"CORN COB JELLY, 12/10 OZ",Box,OTHER,Jar Goods
+"CORN COB JELLY, 12 / 0.5 PINT",Box,OTHER,Jar Goods
+"MUSCADINE JELLY, 24/5 OZ",Box,OTHER,Jar Goods
+"FOX GRAPE JELLY, 24/5 OZ",Box,OTHER,Jar Goods
+"SCUPPERNONG JELLY, 24/5 OZ",Box,OTHER,Jar Goods
+"CORN COB JELLY, 24/5 OZ",Box,OTHER,Jar Goods
+"PICKLED PEACHES, SPRING VALLEY, 12/1 PINT",Box,OTHER,Jar Goods
+"PICKLED PEACHES, SPRING VALLEY, 12/1 QUART",Box,OTHER,Jar Goods
+"ICE MELT, 40 LB BAG",Bag,,Fertilizer
+"CHOW CHOW, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT CHOW CHOW, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"MEDIUM SALSA, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT SALSA, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SLICED SPICED PEACHES, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PEACHES, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PEARS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HARVARD BEETS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED SWEET BABY BEETS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SPICED DILLY BEANS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED SWEET WATERMELON RIND, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"TINY BEETS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"RED BEET EGGS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT JALEPENO EGGS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED EGGS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED SWEET BABY CORN, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED DILL BABY CORN, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED OKRA, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT PICKLED GREEN TOMATOES, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED GREEN TOMATOES, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED DILL BRUSSEL SPROUTS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED SWEET BRUSSEL SPROUTS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT GARLIC MUSHROOMS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"MARINATED MUSHROOMS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"MARINATED MUSHROOM SALAD, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED SWEET CAULIFLOWER, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED SWEET & HOT CAULIFLOWER, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SLICED JALEPENO PEPPERS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"PEPPERONCINI PEPPERS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"BREAD & BUTTER CHIPS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT BREAD & BUTTER CHIPS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"DILL GARLIC CHIPS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT GARLIC CHIPS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SWEET & HOT PEPPER STRIPS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SWEET MIDGET PICKLES, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"ROASTED PEPPERS, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SWEET & HOT PEPPER RELISH, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"CORN RELISH, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"HARVEST SALAD, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SWEET GARDEN SALAD, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"CORN SALSA, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"FOUR BEAN SALAD, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"SAUERKRAUT, JAKE & AMOS, 12/32 OZ",Box,"JAKE & AMOS",Jar Goods
+"BBQ APPLE BUTTER, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"SWEET BABY CORN, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"PEPPER STRIPS, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"MEDIUM SALSA, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"GREEN TOMATOES, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"HOT SALSA, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"SAUERKRAUT, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"SWEET & SOUR CHOW CHOW, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"BABY BEETS, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"PICKLED SWEET WATERMELON RIND, JAKE & AMOS, 12/16 OZ",Box,"JAKE & AMOS",Jar Goods
+"SPICED APPLE RINGS, 12/14.5 OZ",Box,"JAKE & AMOS",Jar Goods
+"2 x 2.625 WATERMELON STICKERS",Each,OTHER,Product Packaging Supplies
+"0.75 x 1.5 OVAL CANTALOUPE STICKERS",Each,OTHER,Product Packaging Supplies
+CHERRY TOMATO LABELS,Each,OTHER,Product Packaging Supplies
+"PELLETIZED LIME, SOIL-DOCTOR, 40 LB",Bag,,Fertilizer
+"PULVERIZED LIME, 40 LB",Bag,,Fertilizer
+"QUIKRETE CONCRETE MIX, 60 LB",Bag,,Fertilizer
+S'MORES SNACK MIX,Case,SUGAR,Candy
+DIETER'S DELIGHT SNACK MIX,Case,SUGAR,Candy
+RASPBERRY NUT SUPREME SNACK MIX,Case,SUGAR,Candy
+FIESTA SUNSHINE SNACK MIX,Case,SUGAR,Candy
+HOT CAJUN SNACK MIX,Case,SUGAR,Candy
+HONEY NUT SUPREME SNACK MIX,Case,SUGAR,Candy
+SWEET TEMPTATION SNACK MIX,Case,SUGAR,Candy
+ALL STAR SNACK MIX,Case,SUGAR,Candy
+BANANA SPLIT DELIGHT SNACK MIX,Case,SUGAR,Candy
+CRUNCHY NUT DELIGHT SNACK MIX,Case,SUGAR,Candy
+YOGURT TRAIL SNACK MIX,Case,SUGAR,Candy
+BERRY FIT FRUIT SNACK MIX,Case,SUGAR,Candy
+CHEDDAR LOVERS SNACK MIX,Case,SUGAR,Candy
+LOUISIANA CAJUN SNACK MIX,Case,SUGAR,Candy
+WASABI TRAIL SNACK MIX,Case,SUGAR,Candy
+"MOLASSES, OLD MILL, 12/1 PINT",Box,MOLASSES,Jar Goods
+"BLACK STRAP MOLASSES, 12/1 PINT",Box,MOLASSES,Jar Goods
+"MOLASSES, AMISH-MADE, 12/1 PINT",Box,MOLASSES,Jar Goods
+"MOLASSES, AMISH-MADE, 12/1 QUART",Box,MOLASSES,Jar Goods
+"MOLASSES, DUTCH KETTLE, 12/1 PINT",Box,MOLASSES,Jar Goods
+"MOLASSES, DUTCH KETTLE, 12/1 QUART",Box,MOLASSES,Jar Goods
+"PEANUTS, ROASTED, 25 LB",Box,,Nuts
+"PEANUTS, SALTED, 25 LB",Box,,Nuts
+"PEANUTS, SALTED, BAGGED, 30/10 OZ",Box,,Nuts
+"GREEN PEANUTS, 1 BUSHEL",Box,,Nuts
+"PEANUTS, SALTED, BAGGED, 24/12 OZ",Box,,Nuts
+"PEANUTS, ROASTED, BAGGED, 30/10 OZ",Box,,Nuts
+"PEANUTS, RAW, BAGGED, 4/10 LB",Box,,Nuts
+"PEANUTS, ROASTED, BAGGED, 24/12 OZ",Box,,Nuts
+"BLANCHED PEANUTS, SALTED, 24/1 LB",Box,,Nuts
+"PEANUTS, RAW, 50 LB",Bag,,Nuts
+"PEANUTS, RAW, BAGGED, 20/2 LB",Bag,,Nuts
+"PEANUTS, RAW, 25 LB",Bag,,Nuts
+"PITTED DATES, 24/10 OZ",Box,,Nuts
+"PEANUTS, CAJUN, BAGGED, 18/10 OZ",Box,,Nuts
+"PECANS, STUARTS, 50 LB",Bag,,Nuts
+"CASHEWS, SALTED, 15 LB",Box,,Nuts
+"PECANS, SHELLED, 24/12 OZ",Box,,Nuts
+"PECANS, SHELLED, 12/1 LB",Box,,Nuts
+"MIXED NUTS IMPERIAL, 50 LB",Bag,,Nuts
+"MIXED NUTS, BAGGED, 24/1 LB",Box,,Nuts
+"WALNUTS JUMBO, 50 LB",Bag,,Nuts
+"WALNUTS, BAGGED, 24/1 LB",Box,,Nuts
+"WALNUT MEATS, SHELLED, 25 LB",Box,,Nuts
+"BRAZIL NUTS, 50 LB",Bag,,Nuts
+"BRAZIL NUTS, SHELLED, 10 LB",Box,,Nuts
+"BRAZIL NUTS, SHELLED, 5 LB",Box,,Nuts
+"ALMONDS, 50 LB",Bag,,Nuts
+"HAZELNUTS (FILBERTS), 50 LB",Bag,,Nuts
+"BLACK WALNUT KERNELS, 35 LB",Box,,Nuts
+"BLACK WALNUTS, 5 LB",Box,,Nuts
+"PISTACHIO NUTS, 25 LB",Box,,Nuts
+"LARGE RED ONION SETS, 32 LB",Bag,ONION SETS,Garden Supplies
+"LARGE WHITE ONION SETS, 32 LB",Bag,ONION SETS,Garden Supplies
+"LARGE YELLOW ONION SETS, 32 LB",Bag,ONION SETS,Garden Supplies
+"RED ONION PLANTS, 2000 CT",Bag,ONION SETS,Garden Supplies
+"SWEET ONION SETS, BAGGED, 4/10 LB",Bag,ONION SETS,Garden Supplies
+"SHALLOT ONION SETS, 32 LB",Bag,ONION SETS,Garden Supplies
+"SMALL RED ONION SETS, 32 LB",Bag,ONION SETS,Garden Supplies
+"SMALL WHITE ONION SETS, 32 LB",Bag,ONION SETS,Garden Supplies
+"SMALL YELLOW ONION SETS, 32 LB",Bag,ONION SETS,Garden Supplies
+"VIDALIA ONION SETS, 20/100 CT BUNCHES",Box,ONION SETS,Garden Supplies
+"50 x 44 x 84 PALLET COVERS, 45 PER ROLL",Bag,BagS,Product Packaging Supplies
+"PALLET STICKERS, 500 PER ROLL",Each,OTHER,Product Packaging Supplies
+"CHEP PALLETS, 48 x 40",Each,OTHER,Product Packaging Supplies
+USED PALLETS,Each,OTHER,Product Packaging Supplies
+"PALLET WRAP, 4 ROLLS PER BOX",Box,OTHER,Product Packaging Supplies
+16 x 12 SHRINK BAGS (100 SIZE),Each,BagS,Product Packaging Supplies
+20 x 15 SHRINK BAGS (200 SIZE),Each,BagS,Product Packaging Supplies
+23 x 15 SHRINK BAGS (250 SIZE),Each,BagS,Product Packaging Supplies
+28 x 16 SHRINK BAGS (300 SIZE),Each,BagS,Product Packaging Supplies
+32 x 22 SHRINK BAGS (400 SIZE),Each,BagS,Product Packaging Supplies
+16 x 23 SLEEVE SHRINK BAGS,Each,BagS,Product Packaging Supplies
+23 x 25 SLEEVE SHRINK BAGS,Each,BagS,Product Packaging Supplies
+28 x 29 SLEEVE SHRINK BAGS,Each,BagS,Product Packaging Supplies
+"KENNEBECS, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"IRISH COBBLERS, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"YUKON GOLDS, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"RED PONTIACS, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"RED CHIEFTANS, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"KENNEBECS, CANADIAN BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"RED NORLANDS, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"KENNEBECS, B SIZE, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"ADIRONDACK BLUES, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"SUPERIORS, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+FINGERLING SEED POTATOES,Bag,SEED POTATOES,Garden Supplies
+"RUSSET SEED POTATOES, BLUE GOOSE, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"KENNEBECS, CANADIAN, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"RED PONTIACS, CANADIAN, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"IRISH COBBLERS, CANADIAN, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"YUKON GOLDS, CANADIAN, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"SUPERIORS, CANADIAN, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"RED LASODAS, CANADIAN, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"RUSSET NORKOTAHS, CANADIAN, 50 LB",Bag,SEED POTATOES,Garden Supplies
+"STRAW BALES, LARGE, EACH",Each,FALL SEASONAL,Vegetables
+"STRAW BALES, MINI, 12 CT BOX",Box,FALL SEASONAL,Vegetables
+"CUCUMBER DILL DRESSING, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"APPLE CIDER VINAIGRETTE, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"CREAMY VINAIGRETTE, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"RASPBERRY VINAIGRETTE, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"BLACKBERRY SPLASH VINAIGRETTE, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"GRILLIN' SAUCE, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"TOMATO BASIL DRESSING, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"HONEY MUSTARD DRESSING, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"SWEET RELISH, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"MUSTARD RELISH, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"CHOW CHOW, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"ONION & PEPPER RELISH, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"GOLDEN PEACH SALSA, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"RED PEACH SALSA, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"SOUTHERN MILD SALSA, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"HICKORY BBQ SAUCE, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"#1 BBQ SAUCE, VIDALIA VALLEY, 12/16 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"BLOOMIN' ONION SAUCE, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"STEAK SAUCE, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"SUMMER TOMATO DRESSING, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"CRACKED PEPPERCORN DRESSING, VIDALIA VALLEY, 12/12 OZ",Box,"VIDALIA VALLEY",Jar Goods
+"SLICED SIDE MEAT, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"SLAB SIDE MEAT, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"CHUNK SIDE MEAT, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"CHUNK FAT BACK, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"SLICED FAT BACK, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"BULK FAT BACK, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"C-BOY SLICED HAM, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"CENTERS & ENDS HAM, 20 PACKS, , WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"CENTER CUT HAM (BONE-IN), WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"CENTER CUT HAM (BONE-OUT), WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"BISCUIT SLICE HAM, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"BISCUIT SLICE HAM, BULK, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"HAM TRIMMINGS, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"WHOLE COUNTRY HAM, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"RED PREPACK CHEESE, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"BLACK PREPACK CHEESE, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"SLICED SLAB BACON, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"HAM HOCKS, LOOSE PACK, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"SLICED HOG JOWLS, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"CHUNK HOG JOWL, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"RED WAX HOOP CHEESE, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"BLACK WAX HOOP CHEESE, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"CLEAR WAX HOOP CHEESE, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses
+"AMERICAN CHEESE, 5 LB",Case,"WG WHITE BRAND",Meats & Cheeses
+"JALEPENO CHEESE, 5 LB",Case,"WG WHITE BRAND",Meats & Cheeses
+"JUNE DAISY HOOP CHEESE, WG WHITE",Case,"WG WHITE BRAND",Meats & Cheeses

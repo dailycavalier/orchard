@@ -198,17 +198,16 @@
 
           /* Initialize the DataTable */
           var pTable = $('#CSVTable').dataTable({
-            "aaSorting": [ [4,'asc'], [3,'asc'], [0,'asc'] ],
+            "aaSorting": [ [3,'asc'], [2,'asc'], [0,'asc'] ],
             "aoColumns": [
                 { "sType": 'string-case' },
-                null,
-                null,
+                { "sType": 'string-case' },
                 { "sType": 'string-case' },
                 { "sType": 'string-case' }
             ],
             "aoColumnDefs": [
-              { "bVisible": false, "aTargets": [ 3 ] },
-              { "bVisible": false, "aTargets": [ 4 ] }
+              { "bVisible": false, "aTargets": [ 2 ] },
+              { "bVisible": false, "aTargets": [ 3 ] }
             ],
             "iDisplayLength": 100,
             "oLanguage": {
@@ -218,7 +217,7 @@
               "sInfoFiltered": "(filtered from _MAX_ total products)",
               "sZeroRecords": "No matching products found"
             }
-          } ); 
+          } );
 
           $("#view-organic").click( function () {
             pTable.fnFilter("Organic", 0);
@@ -233,12 +232,12 @@
           } );
 
           /* Add select menus for categories and subcategories */
-          $("#categories").html(fnCreateSelect(pTable.fnGetColumnData(4)));
+          $("#categories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
           // $("#subcategories").html(fnCreateSelect(''));
 
           // Update table based on category selection
           $('#categories select').change( function () {
-            pTable.fnFilter( $('#categories select').val(), 4);
+            pTable.fnFilter( $('#categories select').val(), 3);
             // $('#subcategories select').val("");
             // $("#subcategories").html(fnCreateSelect(pTable.fnGetColumnData(3)));
 
